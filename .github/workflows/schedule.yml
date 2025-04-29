@@ -2,8 +2,8 @@ name: Run Python Script Daily
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # Runs at 10:00 UTC daily (or 3AM PDT)
-    - cron: '0 23 * * *'  # Runs at 10:00 UTC daily (or 4PM PDT)
+    - cron: '0 13 * * *'  # Runs at 13:00 UTC daily (or 6AM PDT)
+    - cron: '0 01 * * *'  # Runs at 01:00 UTC daily (or 6PM PDT)
 
   workflow_dispatch:
 
