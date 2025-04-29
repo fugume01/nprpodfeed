@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>NPR Morning Edition</title>
+    <link>https://www.npr.org/templates/story/story.php?storyId=3</link>
+    <description>&lt;em&gt;Morning Edition&lt;/em&gt; takes listeners around the country and the world with multi-faceted stories and commentaries every weekday. Hosts Steve Inskeep, Leila Fadel, Michel Martin and A Martínez bring you the latest breaking news and features to prepare you for the day.</description>
+    <generator>Story API Shim 1.2.24</generator>
+    <image>
+      <url>https://media.npr.org/assets/img/2018/08/06/npr_me_podcasttile_sq-cc6a214353ea7f43a319bcbdc7151ceac37fcbaa.jpg</url>
+      <title>NPR Morning Edition</title>
+      <link>https://www.npr.org/programs/morning-edition/</link>
+    </image>
+    <itunes:block>no</itunes:block>
+    <item>
+      <title>Supreme Court to hear school disability discrimination case</title>
+      <description><![CDATA[At issue is a case testing the reach of federal laws that promise special help for children with disabilities in public schools. Specifically: What do parents have to prove in order to get that specialized help? ]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_supreme_court_to_hear_school_disability_discrimination_case.mp3?size=3036100&amp;d=189727&amp;e=nx-s1-5374373" length="3036100" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5374373/supreme-court-minnesota-disability-discrimination</guid>
+      <pubDate>Mon, 28 Apr 2025 05:00:13 -0400</pubDate>
+      <itunes:duration>189</itunes:duration>
+    </item>
+    <item>
+      <title>NATO chief calls for more defense spending from Europe and Canada</title>
+      <description><![CDATA[President Trump has long been a critic of NATO and believes Europe does not contribute enough to its own defense. NATO Secretary General Mark Rutte agrees, and says 'that is going to happen.']]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_nato_chief_calls_for_more_defense_spending_from_europe_and_canada.mp3?size=5749073&amp;d=359288&amp;e=nx-s1-5377250" length="5749073" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377250/nato-us-talks-mark-rutte-spending-ukraine</guid>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>359</itunes:duration>
+    </item>
+    <item>
+      <title>Financial stress can damage your mental health. These steps may help</title>
+      <description><![CDATA[With people losing their jobs and the stock market rocky, there's a lot of financial anxiety right now. Research shows how you approach it can be key to protecting your mental and physical health.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_financial_stress_can_damage_your_mental_health._these_steps_may_help.mp3?size=3459493&amp;d=216167&amp;e=nx-s1-5373993" length="3459493" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5373993/financial-stress-job-loss-mental-health</guid>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>216</itunes:duration>
+    </item>
+    <item>
+      <title>Canada&apos;s election: All you need to know</title>
+      <description><![CDATA[Canada's snap election has been dominated by one politician — who's not even in the race: President Trump.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_canada_s_election_all_you_need_to_know.mp3?size=4385690&amp;d=274060&amp;e=nx-s1-5371658" length="4385690" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5371658/canada-election-carney-trump-tariffs</guid>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>274</itunes:duration>
+    </item>
+    <item>
+      <title>Violinist Esther Abrami uncovers &apos;hidden treasure&apos; of music by women</title>
+      <description><![CDATA[French violinist and social media influencer Esther Abrami releases her new album, <em>Women</em>, featuring music by female composers in a bid to redress historic biases.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_violinist_esther_abrami_uncovers_hidden_treasure_of_music_by_women.mp3?size=7028446&amp;d=439226&amp;e=nx-s1-5286308" length="7028446" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5286308/violinist-esther-abrami-female-composers-new-album</guid>
+      <pubDate>Mon, 28 Apr 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>439</itunes:duration>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <description><![CDATA[Federal authorities arrested more than 100 immigrants without legal status in Colorado Springs, Canadians go to the polls today, how West Texas is fairing three months into the measles outbreak.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_morning_news_brief.mp3?size=10883284&amp;d=680160&amp;e=nx-s1-5374888" length="10883284" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5374888/morning-news-brief</guid>
+      <pubDate>Mon, 28 Apr 2025 04:15:04 -0400</pubDate>
+      <itunes:duration>680</itunes:duration>
+    </item>
+    <item>
+      <title>Wisconsin judge arrested by FBI &apos;stood up&apos; for her community, state lawmaker says</title>
+      <description><![CDATA[The FBI's arrest of Wisconsin Judge Hannah Dugan is meant to scare officials and others from "standing up to the Trump regime," says Democrat State Rep. Ryan Clancy.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_wisconsin_judge_accused_of_ushering_a_person_without_legal_status.mp3?size=4873449&amp;d=304537&amp;e=nx-s1-5377356" length="4873449" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377356/hannah-dugan-judge-fbi-arrested</guid>
+      <pubDate>Mon, 28 Apr 2025 04:13:53 -0400</pubDate>
+      <itunes:duration>304</itunes:duration>
+    </item>
+    <item>
+      <title>What happens when the federal government stops funding university research</title>
+      <description><![CDATA[The federal government has cancelled about 11 billion dollars worth of university research funding, and is threatening to cut more. When the federal government stops funding research, there's no one else to take on those costs.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_what_happens_when_the_federal_government_stops_funding_university_research.mp3?size=3450716&amp;d=215620&amp;e=nx-s1-5375033" length="3450716" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5375033/what-happens-when-the-federal-government-stops-funding-university-research</guid>
+      <pubDate>Mon, 28 Apr 2025 04:13:25 -0400</pubDate>
+      <itunes:duration>215</itunes:duration>
+    </item>
+    <item>
+      <title>A man drove a car into a crowd in Vancouver Saturday night, killing at least 11</title>
+      <description><![CDATA[Eleven people were killed and more than two dozen injured after a man drove an SUV into a crowd of people at a Filipino festival on Saturday in Vancouver, British Columbia.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_a_man_drove_a_car_into_a_crowd_in_vancouver_saturday_night_killing_at_least_11.mp3?size=2187225&amp;d=136656&amp;e=nx-s1-5378678" length="2187225" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5378678/a-man-drove-a-car-into-a-crowd-in-vancouver-saturday-night-killing-at-least-11</guid>
+      <pubDate>Mon, 28 Apr 2025 04:12:41 -0400</pubDate>
+      <itunes:duration>136</itunes:duration>
+    </item>
+    <item>
+      <title>How West Texas is faring, three months into the measles outbreak</title>
+      <description><![CDATA[The measles outbreak is not easing up around the country. The CDC reports 884 confirmed cases nationwide, three times the number of cases in 2024. In West Texas, where the outbreak started, pediatricians are concerned about potentially more children being exposed to the virus.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250428_me_how_west_texas_is_fairing_three_months_into_the_measles_outbreak.mp3?size=3602017&amp;d=225087&amp;e=nx-s1-5377611" length="3602017" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377611/how-west-texas-is-fairing-three-months-into-the-measles-outbreak</guid>
+      <pubDate>Mon, 28 Apr 2025 04:12:00 -0400</pubDate>
+      <itunes:duration>225</itunes:duration>
+    </item>
+  </channel>
+</rss>
