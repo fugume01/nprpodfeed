@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>NPR All Things Considered</title>
+    <link>https://www.npr.org/templates/story/story.php?storyId=2</link>
+    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Ari Shapiro, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
+    <generator>Story API Shim 1.2.24</generator>
+    <image>
+      <url>https://media.npr.org/assets/img/2018/08/06/npr_atc_podcasttile_sq-eb0e9acc305ecdcb756ee42dd8c3166fe63af534.jpg</url>
+      <title>NPR All Things Considered</title>
+      <link>https://www.npr.org/programs/all-things-considered/</link>
+    </image>
+    <itunes:block>no</itunes:block>
+    <item>
+      <title>A fire has destroyed Memphis&apos; historic Clayborn Temple</title>
+      <description><![CDATA[The historic Clayborn Temple was destroyed in a Monday morning fire in Memphis. It was a landmark of the Civil Rights movement and was a gathering place of striking sanitation workers in 1968.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_clayborn_temple_destroyed.mp3?size=3686862&amp;d=230382&amp;e=nx-s1-5379943" length="3686862" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5379943/a-fire-has-destroyed-memphis-historic-clayborn-temple</guid>
+      <pubDate>Mon, 28 Apr 2025 18:03:44 -0400</pubDate>
+      <itunes:duration>230</itunes:duration>
+    </item>
+    <item>
+      <title>One man&apos;s journey to becoming the world&apos;d fastest puncher</title>
+      <description><![CDATA[Joshua Iyalla broke three world records — the most punches in one minute with gloves, without gloves and with dumbbells. He talks about becoming the world's fastest puncher when many said he couldn't.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_world_s_fastest_puncher.mp3?size=4437517&amp;d=277310&amp;e=nx-s1-5377412" length="4437517" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377412/one-mans-journey-to-becoming-the-worldd-fastest-puncher</guid>
+      <pubDate>Mon, 28 Apr 2025 18:03:15 -0400</pubDate>
+      <itunes:duration>277</itunes:duration>
+    </item>
+    <item>
+      <title>Autism community advocate reacts to RFK Jr. autism announcement</title>
+      <description><![CDATA[NPR's Mary Louise Kelly speaks with Jill Escher, president of the National Council on Severe Autism, about Health and Human Services Secretary Robert F. Kennedy's remarks this month on autism.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_autism_community_reacts_to_kennedy.mp3?size=7913684&amp;d=494560&amp;e=nx-s1-5377346" length="7913684" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377346/autism-community-advocate-reacts-to-rfk-jr-autism-announcement</guid>
+      <pubDate>Mon, 28 Apr 2025 17:40:41 -0400</pubDate>
+      <itunes:duration>494</itunes:duration>
+    </item>
+    <item>
+      <title>Mini art prints from vending machines make one artist&apos;s dream</title>
+      <description><![CDATA[Print artist Ana Inciardi is making vending machines fun again. Instead of snacks, Inciardi's devices produce prints you can collect for the low price of four quarters.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_mini_art_prints_from_vending_machines_make_one_artist_s_dream.mp3?size=3207463&amp;d=200428&amp;e=nx-s1-5309769" length="3207463" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5309769/mini-art-prints-from-vending-machines-make-one-artists-dream</guid>
+      <pubDate>Mon, 28 Apr 2025 17:25:51 -0400</pubDate>
+      <itunes:duration>200</itunes:duration>
+    </item>
+    <item>
+      <title>The government suggests defunding the 988 suicide hotline for LGBTQ+ youth</title>
+      <description><![CDATA[A leaked budget proposal shows that the federal government plans to eliminate services for LGBTQ+ youth through the 988 crisis line.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_hhs_may_cut_988_suicide_hotline_for_lgbtq_youth.mp3?size=3020636&amp;d=188758&amp;e=nx-s1-5375847" length="3020636" type="audio/mpeg"/>
+      <guid>https://www.npr.org/sections/shots-health-news/2025/04/28/nx-s1-5375847/federal-government-may-cut-988-suicide-hotline-for-lgbtq-youth</guid>
+      <pubDate>Mon, 28 Apr 2025 17:07:47 -0400</pubDate>
+      <itunes:duration>188</itunes:duration>
+    </item>
+    <item>
+      <title>Deaf students had a path to science careers -- until their federal grants ended</title>
+      <description><![CDATA[For years, the U.S. government tried to encourage deaf people to study science. But the programs were just ended by the Trump Administration, leaving deaf students unsure about their future.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_deaf_students_had_a_path_to_science_careers_--_until_their_federal_grants_ended.mp3?size=4014125&amp;d=250832&amp;e=nx-s1-5357617" length="4014125" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5357617/federal-deaf-scientists-cuts-nih-education</guid>
+      <pubDate>Mon, 28 Apr 2025 17:07:08 -0400</pubDate>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
+      <title>The conclave to elect a pope begins May 7. Here&apos;s a look inside the secretive process</title>
+      <description><![CDATA[The start date of the conclave to elect the new pope has been set for Wednesday, May 7. Here's what to look for as cardinals prepare to elect the new leader of the world's 1.4 billion Catholics.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_conclave_set.mp3?size=3402650&amp;d=212614&amp;e=nx-s1-5379520" length="3402650" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5379520/the-conclave-to-elect-a-pope-begins-may-7-heres-a-look-inside-the-secretive-process</guid>
+      <pubDate>Mon, 28 Apr 2025 17:06:39 -0400</pubDate>
+      <itunes:duration>212</itunes:duration>
+    </item>
+    <item>
+      <title>Spain and Portugal hit with massive power outages</title>
+      <description><![CDATA[Power is slowly coming back on in large swaths of Spain and Portugal after a power outage caused Monday afternoon chaos.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_spain_portugal_power_outage.mp3?size=3677249&amp;d=229785&amp;e=nx-s1-5379511" length="3677249" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5379511/spain-and-portugal-hit-with-massive-power-outages</guid>
+      <pubDate>Mon, 28 Apr 2025 17:06:35 -0400</pubDate>
+      <itunes:duration>229</itunes:duration>
+    </item>
+    <item>
+      <title>1 month after Myanmar&apos;s devastating earthquake, many are still looking for loved ones</title>
+      <description><![CDATA[One month after a devastating earthquake rocked Myanmar, officials report about 3,800 deaths but many people say they are still waiting for news of their missing loved ones.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_myanmar_earthquake_one_month_on.mp3?size=3734510&amp;d=233374&amp;e=nx-s1-5377501" length="3734510" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5377501/1-month-after-myanmars-devastating-earthquake-many-are-still-looking-for-loved-ones</guid>
+      <pubDate>Mon, 28 Apr 2025 17:06:32 -0400</pubDate>
+      <itunes:duration>233</itunes:duration>
+    </item>
+    <item>
+      <title>&apos;I want you home, dad&apos;: Searching for the missing 50 years after Vietnam War&apos;s end</title>
+      <description><![CDATA[Fifty years after the end of the Vietnam War, one Seattle man embarks on a journey to a remote mountain in Laos where his father was last seen during a secret mission in the war.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250428_atc_i_want_you_home_dad_searching_for_the_missing_50_years_after_vietnam_war_s_end.mp3?size=7646190&amp;d=477839&amp;e=nx-s1-5348846" length="7646190" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/28/nx-s1-5348846/i-want-you-home-dad-searching-for-the-missing-50-years-after-vietnam-wars-end</guid>
+      <pubDate>Mon, 28 Apr 2025 17:06:27 -0400</pubDate>
+      <itunes:duration>477</itunes:duration>
+    </item>
+  </channel>
+</rss>

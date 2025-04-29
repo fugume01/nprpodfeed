@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>NPR Morning Edition</title>
+    <link>https://www.npr.org/templates/story/story.php?storyId=3</link>
+    <description>&lt;em&gt;Morning Edition&lt;/em&gt; takes listeners around the country and the world with multi-faceted stories and commentaries every weekday. Hosts Steve Inskeep, Leila Fadel, Michel Martin and A Martínez bring you the latest breaking news and features to prepare you for the day.</description>
+    <generator>Story API Shim 1.2.24</generator>
+    <image>
+      <url>https://media.npr.org/assets/img/2018/08/06/npr_me_podcasttile_sq-cc6a214353ea7f43a319bcbdc7151ceac37fcbaa.jpg</url>
+      <title>NPR Morning Edition</title>
+      <link>https://www.npr.org/programs/morning-edition/</link>
+    </image>
+    <itunes:block>no</itunes:block>
+    <item>
+      <title>Morning news brief</title>
+      <description><![CDATA[Poll finds most disapprove of how Trump is handling economy, NPR analysis shows Trump has taken action against more than 100 people and institutions, Columbia University student speaks from detention.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250429_me_morning_news_brief.mp3?size=10875342&amp;d=679668&amp;e=nx-s1-5374889" length="10875342" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/29/nx-s1-5374889/morning-news-brief</guid>
+      <pubDate>Tue, 29 Apr 2025 04:34:08 -0400</pubDate>
+      <itunes:duration>679</itunes:duration>
+    </item>
+    <item>
+      <title>Airline that struck deal to operate deportation flights faces growing backlash</title>
+      <description><![CDATA[Facing financial headwinds, budget carrier Avelo Airlines struck a deal to operate deportation flights for ICE. Now it's facing a backlash from customers and politicians.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250429_me_airline_that_struck_deal_to_operate_deportation_flights_faces_growing_backlash.mp3?size=3372557&amp;d=210736&amp;e=nx-s1-5375779" length="3372557" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/29/nx-s1-5375779/airline-that-struck-deal-to-operate-deportation-flights-faces-growing-backlash</guid>
+      <pubDate>Tue, 29 Apr 2025 04:32:13 -0400</pubDate>
+      <itunes:duration>210</itunes:duration>
+    </item>
+    <item>
+      <title>Ohio tattoo shop helps trauma and abuse survivors transform scars into art</title>
+      <description><![CDATA[A tattoo shop in Ohio helps trauma and abuse survivors reclaim their bodies by transforming scars into beautiful tattooed art]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250429_me_ohio_tattoo_shop_helps_trauma_and_abuse_survivors_transform_scars_into_art.mp3?size=3713612&amp;d=232071&amp;e=nx-s1-5342586" length="3713612" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/29/nx-s1-5342586/ohio-tattoo-shop-helps-trauma-and-abuse-survivors-transform-scars-into-art</guid>
+      <pubDate>Tue, 29 Apr 2025 04:31:22 -0400</pubDate>
+      <itunes:duration>232</itunes:duration>
+    </item>
+    <item>
+      <title>Cause of blackout in Spain and Portugal still unclear as power almost fully returned</title>
+      <description><![CDATA[An unprecedented power outage hit Spain, as well parts of Portugal and southern France on Monday. Power has almost fully returned Tuesday, but the cause of the outage remains unclear.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250429_me_cause_of_blackout_in_spain_and_portugal_still_unclear_as_power_almost_fully_returned.mp3?size=3056162&amp;d=190972&amp;e=nx-s1-5379954" length="3056162" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/29/nx-s1-5379954/cause-of-blackout-in-spain-and-portugal-still-unclear-as-power-almost-fully-returned</guid>
+      <pubDate>Tue, 29 Apr 2025 04:30:31 -0400</pubDate>
+      <itunes:duration>190</itunes:duration>
+    </item>
+    <item>
+      <title>Texas A&amp;M senior research engineer describes the kinds of risks facing power grids</title>
+      <description><![CDATA[NPR's A Martinez speaks with senior research engineer Jonathan Snodgrass at Texas A&M University about the safety of power grids after three countries in Europe experienced blackouts.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/04/20250429_me_texas_a_m_senior_research_engineer_describes_the_kinds_of_risks_facing_power_grids.mp3?size=3844015&amp;d=240203&amp;e=nx-s1-5379916" length="3844015" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/29/nx-s1-5379916/texas-a-m-senior-research-engineer-describes-the-kinds-of-risks-facing-power-grids</guid>
+      <pubDate>Tue, 29 Apr 2025 04:29:43 -0400</pubDate>
+      <itunes:duration>240</itunes:duration>
+    </item>
+  </channel>
+</rss>
