@@ -1,0 +1,42 @@
+name: Run Python Script Daily
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # Runs at 10:00 UTC daily (or 3AM PDT)
+    - cron: '0 23 * * *'  # Runs at 10:00 UTC daily (or 4PM PDT)
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  NPR_API_KEY: ${{ secrets.NPR_API_KEY }}
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      #      - name: Install dependencies
+      #        run: |
+      #          pip install -r requirements.txt
+
+      - name: Run script
+        run: python main.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add npr_morning_edition.xml
+          git add npr_all_things_considered.xml
+          git commit -m "Update results"
+          git push
