@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>VA research brought CT scans and pacemakers into the world. Now it&apos;s at risk of cuts</title>
+      <description><![CDATA[Researchers at the Department of Veterans Affairs warn that crucial medical research is in jeopardy unless the Trump administration reverses course on cuts.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250429_atc_va_research_brought_ct_scans_and_pacemakers_into_the_world._now_it_s_at_risk_of_cuts.mp3?size=3431071&amp;d=214398&amp;e=nx-s1-5347436" length="3431071" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/04/30/nx-s1-5347436/va-research-cuts</guid>
+      <pubDate>Wed, 30 Apr 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>214</itunes:duration>
+    </item>
+    <item>
       <title>Baked, fried or fileted: Fish dishes can link us to our histories</title>
       <description><![CDATA[The food we grow up with says a lot about our heritage and community. Researchers are on a mission to connect people to local fishers — and introduce more Americans to a more diverse array of seafood.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250429_atc_fishadelphia.mp3?size=3189909&amp;d=199338&amp;e=nx-s1-5369351" length="3189909" type="audio/mpeg"/>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/04/29/nx-s1-5364809-e1/a-world-soccer-tournament-made-for-grandmothers</guid>
       <pubDate>Tue, 29 Apr 2025 17:02:55 -0400</pubDate>
       <itunes:duration>229</itunes:duration>
-    </item>
-    <item>
-      <title>Market volatility has Americans worried about their investments</title>
-      <description><![CDATA[The S&P 500 is down about 8% since President Trump took office — that's the worst performance in a president's first 100 days since the early 1970s.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/04/20250429_atc_market_volatility_has_americans_worried_about_their_investments.mp3?size=3476211&amp;d=217228&amp;e=nx-s1-5361489" length="3476211" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/04/29/nx-s1-5361489/market-volatility-has-americans-worried-about-their-investments</guid>
-      <pubDate>Tue, 29 Apr 2025 17:02:51 -0400</pubDate>
-      <itunes:duration>217</itunes:duration>
     </item>
   </channel>
 </rss>
