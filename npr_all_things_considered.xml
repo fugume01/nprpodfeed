@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Need help switching appliances from gas to electric? A &apos;coach&apos; can help</title>
+      <description><![CDATA[Government incentives for climate-friendly upgrades are confusing to navigate, and it can be hard to find businesses that sell them. So a new industry is emerging to help: the decarbonization coach.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250507_atc_decarbonization_concierge.mp3?size=3843179&amp;d=240163&amp;e=nx-s1-5354721" length="3843179" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/05/07/nx-s1-5354721/climate-pollution-gas-electric-appliances</guid>
+      <pubDate>Mon, 12 May 2025 07:08:19 -0400</pubDate>
+      <itunes:duration>240</itunes:duration>
+    </item>
+    <item>
       <title>U.S. says &apos;substantial progress&apos; made in trade talks with China</title>
       <description><![CDATA[The White House is optimistic following two days of trade talks with China in Geneva.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250511_atc_u.s._says_substantial_progress_made_in_trade_talks_with_china.mp3?size=2226931&amp;d=139147&amp;e=nx-s1-5395037" length="2226931" type="audio/mpeg"/>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/05/10/nx-s1-5394453/president-trump-says-the-us-helped-broker-ceasefire-between-india-and-pakistan</guid>
       <pubDate>Sat, 10 May 2025 18:16:47 -0400</pubDate>
       <itunes:duration>234</itunes:duration>
-    </item>
-    <item>
-      <title>Cardinal Timothy Dolan reflects on the significance of the first American pope</title>
-      <description><![CDATA[NPR's Scott Detrow speaks with Cardinal Timothy M. Dolan, Archbishop of New York, about the significance of the Cardinals electing the first pope from the United States.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250510_atc_cardinal_timothy_dolan_reflects_on_the_significance_of_the_first_american_pope.mp3?size=6099741&amp;d=381194&amp;e=nx-s1-5393756" length="6099741" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/10/nx-s1-5393756/cardinal-timothy-dolan-reflects-on-the-significance-of-the-first-american-pope</guid>
-      <pubDate>Sat, 10 May 2025 18:16:44 -0400</pubDate>
-      <itunes:duration>381</itunes:duration>
     </item>
   </channel>
 </rss>
