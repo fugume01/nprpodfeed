@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Supreme Court upholds state bans on transgender care for minors</title>
+      <description><![CDATA[At issue was a Tenneessee law that bars minors from accessing gender-affirming care as they transition genders.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/06/20250618_me_hfr_scotus_trans_kids_decision.mp3?size=3808071&amp;d=237975&amp;e=nx-s1-5421276" length="3808071" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/06/18/nx-s1-5421276/scotus-transgender-kids-decision</guid>
+      <pubDate>Wed, 18 Jun 2025 10:21:09 -0400</pubDate>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>NYC comptroller arrested by federal agents at immigration court</title>
       <description><![CDATA[New York City Comptroller Brad Lander, who is also a mayoral candidate, was arrested and detained for several hours on Tuesday after he tried to escort a man out of a routine immigration hearing.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/06/20250618_me_nyc_comptroller_arrested_by_federal_agents_at_immigration_court.mp3?size=1745442&amp;d=109048&amp;e=nx-s1-5436965" length="1745442" type="audio/mpeg"/>
@@ -76,20 +84,12 @@
       <itunes:duration>311</itunes:duration>
     </item>
     <item>
-      <title>Author Dan Rubinstein details his 1,200-mile paddleboard adventure in &apos;Water Borne&apos;</title>
-      <description><![CDATA[Author Dan Rubinstein paddled more than 1,000 miles, from Ottawa to New York City and back, to explore how people benefit from being near water. His book is called "Water Borne."]]></description>
+      <title>What 1,200 miles on a paddleboard taught a writer about &apos;blue space&apos;</title>
+      <description><![CDATA[Author Dan Rubinstein paddled from Ottawa to New York City and back to understand how being near water benefits people. His book is called "Water Borne."]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/06/20250618_me_author_dan_rubinstein_details_his_1_200-mile_paddleboard_adventure_in_water_borne.mp3?size=1995382&amp;d=124670&amp;e=nx-s1-5431625" length="1995382" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/06/18/nx-s1-5431625/author-dan-rubinstein-details-his-1-200-mile-paddleboard-adventure-in-water-borne</guid>
+      <guid>https://www.npr.org/2025/06/18/nx-s1-5431625/writer-dan-rubinstein-blue-space-water-borne-1200-mile-paddleboarding-pilgrimage</guid>
       <pubDate>Wed, 18 Jun 2025 05:02:29 -0400</pubDate>
       <itunes:duration>124</itunes:duration>
-    </item>
-    <item>
-      <title>Republican Rep. Mike Lawler discusses U.S. policy toward Iran</title>
-      <description><![CDATA[NPR's Steve Inskeep speaks with Rep. Mike Lawler, R-N.Y., who is also on the House Foreign Affairs Committee, about U.S. policy toward Iran.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/06/20250618_me_republican_rep._mike_lawler_discusses_u.s._policy_toward_iran.mp3?size=4872613&amp;d=304487&amp;e=nx-s1-5436668" length="4872613" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/06/18/nx-s1-5436668/republican-rep-mike-lawler-discusses-u-s-policy-toward-iran</guid>
-      <pubDate>Wed, 18 Jun 2025 05:02:10 -0400</pubDate>
-      <itunes:duration>304</itunes:duration>
     </item>
   </channel>
 </rss>
