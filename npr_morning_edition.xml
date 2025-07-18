@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Senate panel approves federal judge nomination for Emil Bove, who defended Trump</title>
+      <description><![CDATA[Bove's nomination to the 3rd Circuit Court of Appeals now moves to the full Senate. Scores of former DOJ lawyers and retired judges say they fear his loyalty to Trump would carry over onto the bench. ]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/07/20250717_me_senate_panel_to_vote_on_federal_judge_nomination_for_emil_bove_who_defended_trump.mp3?t=progseg&amp;e=nx-s1-5453188&amp;p=3&amp;seg=16&amp;d=224&amp;size=3595329" length="3595329" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/07/17/nx-s1-5467260/trump-emil-bove-judge</guid>
+      <pubDate>Thu, 17 Jul 2025 17:22:48 -0400</pubDate>
+      <itunes:duration>224</itunes:duration>
+    </item>
+    <item>
       <title>StoryCorps&apos; David Isay reacts to the Senate&apos;s vote to cut funding for public media</title>
       <description><![CDATA[NPR's Steve Inskeep and Michel Martin speak with David Isay, founder and president of StoryCorps, about the Senate vote to cut funding for public broadcasting.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/07/20250717_me_storycorps_david_isay_reacts_to_the_senate_s_vote_to_cut_funding_for_public_media.mp3?t=progseg&amp;e=nx-s1-5453188&amp;p=3&amp;seg=6&amp;d=281&amp;size=4509824" length="4509824" type="audio/mpeg"/>
@@ -20,10 +28,10 @@
       <itunes:duration>281</itunes:duration>
     </item>
     <item>
-      <title>Former Federal Reserve Bank of Cleveland president on importance of Fed independence</title>
-      <description><![CDATA[NPR's Steve Inskeep speaks with Loretta Mester, former president of the Cleveland Federal Reserve Bank, on President Trump's pressure on Fed Chair Jerome Powell.]]></description>
+      <title>A well-run economy needs an independent Federal Reserve, says former reserve bank head</title>
+      <description><![CDATA[Former president of the Federal Reserve Bank of Cleveland Loretta Mester says it's important that the Fed stays independent and that fiscal politics should not interfere with monetary policy makers and their decisions.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/07/20250717_me_former_federal_reserve_bank_of_cleveland_president_on_importance_of_fed_independence.mp3?t=progseg&amp;e=nx-s1-5453188&amp;p=3&amp;seg=2&amp;d=272&amp;size=4366882" length="4366882" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/07/17/nx-s1-5469934/former-federal-reserve-bank-of-cleveland-president-on-importance-of-fed-independence</guid>
+      <guid>https://www.npr.org/2025/07/17/nx-s1-5469934/federal-reserve-trump-firing-independence</guid>
       <pubDate>Thu, 17 Jul 2025 06:45:37 -0400</pubDate>
       <itunes:duration>272</itunes:duration>
     </item>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/07/17/nx-s1-5468953/historian-omer-bartov-on-why-he-believes-israel-is-committing-genocide-in-gaza</guid>
       <pubDate>Thu, 17 Jul 2025 05:06:27 -0400</pubDate>
       <itunes:duration>304</itunes:duration>
-    </item>
-    <item>
-      <title>A timeline of the controversy over the administration&apos;s handling of the Epstein files</title>
-      <description><![CDATA[The Trump administration's handling of what are known as the Epstein files has been creating a firestorm within the president's MAGA base. NPR recaps a timeline of the controversy.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/07/20250717_me_a_timeline_of_the_controversy_over_the_administration_s_handling_of_the_epstein_files.mp3?t=progseg&amp;e=nx-s1-5453188&amp;p=3&amp;seg=12&amp;d=157&amp;size=2521592" length="2521592" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/07/17/nx-s1-5470004/a-timeline-of-the-controversy-over-the-administrations-handling-of-the-epstein-files</guid>
-      <pubDate>Thu, 17 Jul 2025 05:05:53 -0400</pubDate>
-      <itunes:duration>157</itunes:duration>
     </item>
   </channel>
 </rss>
