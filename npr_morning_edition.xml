@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Thai court removes the country&apos;s prime minister from office</title>
+      <description><![CDATA[A Thai court has toppled Prime Minister Paetongtarn Shinawatra, dealing a major blow to her powerful family and plunging Thailand into fresh political chaos.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/08/20250829_me_thai_pm_ousted.mp3?t=progseg&amp;e=nx-s1-5435107&amp;p=3&amp;seg=17&amp;d=215&amp;size=3456567" length="3456567" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/08/29/nx-s1-5521914/thai-court-removes-the-countrys-prime-minister-from-office</guid>
+      <pubDate>Fri, 29 Aug 2025 11:46:53 -0400</pubDate>
+      <itunes:duration>215</itunes:duration>
+    </item>
+    <item>
       <title>Morning new brief</title>
       <description><![CDATA[Relatives and friends remember the victims of the Minneapolis shooting, a new CDC head has been appointed after a week of turmoil at the agency, Xi, Putin and Kim to unite at major military parade in Beijing.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/08/20250829_me_morning_new_brief.mp3?t=progseg&amp;e=nx-s1-5435107&amp;p=3&amp;seg=0&amp;d=699&amp;size=11186304" length="11186304" type="audio/mpeg"/>
@@ -28,10 +36,10 @@
       <itunes:duration>233</itunes:duration>
     </item>
     <item>
-      <title>Former CDC official on what agency shakeup could mean for pandemic readiness</title>
-      <description><![CDATA[NPR's Leila Fadel speaks with former CDC official Dr. Anne Schuchat about the shakeup at the health agency and what it could mean for the nation's pandemic readiness.]]></description>
+      <title>Vaccine disputes and agency departures put U.S. at risk, a former CDC official says</title>
+      <description><![CDATA[Anne Schuchat, former Principal Deputy Director of the CDC, says she's worried about vaccine access, as experienced leaders leave the agency in protest.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/08/20250829_me_former_cdc_official_on_what_agency_shakeup_could_mean_for_pandemic_readiness.mp3?t=progseg&amp;e=nx-s1-5435107&amp;p=3&amp;seg=2&amp;d=291&amp;size=4657782" length="4657782" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/08/29/nx-s1-5520745/former-cdc-official-on-what-agency-shakeup-could-mean-for-pandemic-readiness</guid>
+      <guid>https://www.npr.org/2025/08/29/nx-s1-5520745/cdc-acting-director-rfk-jr-vaccine-policy</guid>
       <pubDate>Fri, 29 Aug 2025 04:14:16 -0400</pubDate>
       <itunes:duration>291</itunes:duration>
     </item>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/08/29/nx-s1-5500469/new-orleans-remembers-katrina-through-theater-and-hip-hop</guid>
       <pubDate>Fri, 29 Aug 2025 04:08:45 -0400</pubDate>
       <itunes:duration>220</itunes:duration>
-    </item>
-    <item>
-      <title>Why the group responsible for food distribution in Gaza has been controversial</title>
-      <description><![CDATA[Since the Gaza Humanitarian Foundation took over food distribution in Gaza it has been mired in controversy. Over the past few months trying to get aid in Gaza has been dangerous, even deadly.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/08/20250829_me_why_the_group_responsible_for_food_distribution_in_gaza_has_been_controversial.mp3?t=progseg&amp;e=nx-s1-5435107&amp;p=3&amp;seg=9&amp;d=132&amp;size=2113246" length="2113246" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/08/29/nx-s1-5515614/why-the-group-responsible-for-food-distribution-in-gaza-has-been-controversial</guid>
-      <pubDate>Fri, 29 Aug 2025 04:08:12 -0400</pubDate>
-      <itunes:duration>132</itunes:duration>
     </item>
   </channel>
 </rss>
