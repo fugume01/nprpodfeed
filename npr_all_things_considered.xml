@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>A trail run with blackberries and late summer flowers on Oregon&apos;s Sauvie Island</title>
+      <description><![CDATA[A late summer run for NPR's Brian Mann featured an abundance of ripe, wild berries and a dip in the river.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250910_atc_columbia_river_trail_run.mp3?t=progseg&amp;e=nx-s1-5512313&amp;p=2&amp;seg=8&amp;d=171&amp;size=2750216" length="2750216" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/11/nx-s1-5532150/trail-running-oregon-sauvie-island</guid>
+      <pubDate>Thu, 11 Sep 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>171</itunes:duration>
+    </item>
+    <item>
       <title>An eye witness describes the moment Charlie Kirk was shot at an event in Utah</title>
       <description><![CDATA[Conservative activist and Turning Point USA co-founder Charlie Kirk was shot during an event at Utah Valley University in Orem. Deseret News Reporter Emma Pitts was an eye witness to the shooting.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250910_atc_charlie_kirk_shooting_in_utah.mp3?t=progseg&amp;e=nx-s1-5512313&amp;p=2&amp;seg=17&amp;d=208&amp;size=3336195" length="3336195" type="audio/mpeg"/>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/09/10/nx-s1-5535848/maha-strategy-flip-flops-on-pesticides</guid>
       <pubDate>Wed, 10 Sep 2025 16:36:27 -0400</pubDate>
       <itunes:duration>200</itunes:duration>
-    </item>
-    <item>
-      <title>Internal National Guard documents show top brass knows mission is unpopular</title>
-      <description><![CDATA[NPR's Juana Summers talks with <em>Washington Post</em> reporter Alex Horton about internal documents from the National Guard assessing public sentiment about the federal takeover of Washington, D.C.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250910_atc_internal_national_guard_documents_show_top_brass_knows_mission_is_unpopular.mp3?t=progseg&amp;e=nx-s1-5512313&amp;p=2&amp;seg=12&amp;d=265&amp;size=4254451" length="4254451" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/10/nx-s1-5536671/internal-national-guard-documents-show-top-brass-knows-mission-is-unpopular</guid>
-      <pubDate>Wed, 10 Sep 2025 16:35:55 -0400</pubDate>
-      <itunes:duration>265</itunes:duration>
     </item>
   </channel>
 </rss>
