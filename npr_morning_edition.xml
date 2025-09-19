@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Trump wraps up state visit to U.K.</title>
+      <description><![CDATA[After a day of royal pomp, President Trump's visit to the United Kingdom closes with a business reception and a meeting with Prime Minister Keir Starmer.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_trump_wraps_up_state_visit_to_u.k..mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=18&amp;d=210&amp;size=3372975" length="3372975" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/18/nx-s1-5544403/trump-wraps-up-state-visit-to-u-k</guid>
+      <pubDate>Thu, 18 Sep 2025 11:22:51 -0400</pubDate>
+      <itunes:duration>210</itunes:duration>
+    </item>
+    <item>
       <title>Former CDC director says she was fired for resisting pressure from RFK Jr.</title>
       <description><![CDATA[Susan Monarez, the ousted director of the CDC, testified on Capitol Hill Wednesday that the health secretary pressured her to rubber stamp vaccine policies without reviewing scientific evidence.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_former_cdc_director_says_she_was_fired_for_resisting_pressure_from_rfk_jr..mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=1&amp;d=141&amp;size=2265801" length="2265801" type="audio/mpeg"/>
@@ -22,10 +30,10 @@
     <item>
       <title>Former CDC leader shares why she decided to leave</title>
       <description><![CDATA[NPR speaks with Debra Houry, the CDC's former chief medical officer, about her decision to leave her post and her concerns over Health Secretary Robert F. Kennedy Jr.'s vaccine decisions.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_former_cdc_leader_shares_why_she_decided_to_leave.mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=3&amp;d=311&amp;size=4990059" length="4990059" type="audio/mpeg"/>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_former_cdc_leader_shares_why_she_decided_to_leave.mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=3&amp;d=306&amp;size=4901034" length="4901034" type="audio/mpeg"/>
       <guid>https://www.npr.org/2025/09/18/nx-s1-5544322/former-cdc-leader-shares-why-she-decided-to-leave</guid>
       <pubDate>Thu, 18 Sep 2025 06:49:47 -0400</pubDate>
-      <itunes:duration>311</itunes:duration>
+      <itunes:duration>306</itunes:duration>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -44,8 +52,8 @@
       <itunes:duration>218</itunes:duration>
     </item>
     <item>
-      <title>UC Berkeley sends 160 names to government for &apos;alleged antisemitic incidents&apos;</title>
-      <description><![CDATA[The University of California Berkeley told about 160 faculty, staff and students that they were included in files shared with the government related to "alleged antisemitic incidents."]]></description>
+      <title>UC Berkeley professor warns of &apos;unprecedented crackdown&apos; on academic freedom</title>
+      <description><![CDATA[UC Berkeley told 160 faculty, staff and students that their names were included in files shared with the federal government related to "alleged antisemitic incidents." We hear from one of them.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_uc_berkeley_sends_160_names_to_government_for_alleged_antisemitic_incidents.mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=9&amp;d=273&amp;size=4382765" length="4382765" type="audio/mpeg"/>
       <guid>https://www.npr.org/2025/09/18/nx-s1-5542204/uc-berkeley-sends-160-names-to-government-for-alleged-antisemitic-incidents</guid>
       <pubDate>Thu, 18 Sep 2025 05:06:30 -0400</pubDate>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/09/18/nx-s1-5544359/trump-to-meet-with-prime-minister-as-he-wraps-his-state-visit-in-the-u-k</guid>
       <pubDate>Thu, 18 Sep 2025 05:05:36 -0400</pubDate>
       <itunes:duration>219</itunes:duration>
-    </item>
-    <item>
-      <title>How the U.K. government wields the Royal Family&apos;s soft power for diplomacy</title>
-      <description><![CDATA[The Royal Family has played a big role in President Trump's visit to the United Kingdom. Craig Prescott, author of "Modern Monarchy," explains how the U.K. government uses the Royals as leverage.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250918_me_how_the_u.k._government_wields_the_royal_family_s_soft_power_for_diplomacy.mp3?t=progseg&amp;e=nx-s1-5527906&amp;p=3&amp;seg=16&amp;d=240&amp;size=3853210" length="3853210" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/18/nx-s1-5544329/how-the-u-k-government-wields-the-royal-familys-soft-power-for-diplomacy</guid>
-      <pubDate>Thu, 18 Sep 2025 05:05:30 -0400</pubDate>
-      <itunes:duration>240</itunes:duration>
     </item>
   </channel>
 </rss>
