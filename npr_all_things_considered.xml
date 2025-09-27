@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>How a Toledo tattoo artist helps turn scars into art</title>
+      <description><![CDATA[Brian Finn is a tattoo artist in Toledo, Ohio who has been offering free and discounted tattoos for people covering trauma scars for more than 10 years. ]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250926_atc_an_ohio_tattoo_artist_has_been_turning_traumatic_scars_into_works_of_art_for_a_decade.mp3?t=progseg&amp;e=nx-s1-5511492&amp;p=2&amp;seg=5&amp;d=251&amp;size=4021648" length="4021648" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/27/nx-s1-5543230/how-a-toledo-tattoo-artist-helps-turn-scars-into-art</guid>
+      <pubDate>Sat, 27 Sep 2025 05:00:00 -0400</pubDate>
+      <itunes:duration>251</itunes:duration>
+    </item>
+    <item>
       <title>&apos;All Things Considered&apos; bids farewell to host Ari Shapiro</title>
       <description><![CDATA[All Things Considered is saying goodbye to Ari Shapiro, whose hosts his final show today following 10 years with the program and more than 25 with NPR.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250926_atc_all_things_considered_bids_farewell_to_host_ari_shapiro.mp3?t=progseg&amp;e=nx-s1-5511492&amp;p=2&amp;seg=16&amp;d=489&amp;size=7831346" length="7831346" type="audio/mpeg"/>
@@ -82,14 +90,6 @@
       <guid>https://www.npr.org/2025/09/26/nx-s1-5468886/jeff-tweedy-on-twilight-override-his-new-triple-album</guid>
       <pubDate>Fri, 26 Sep 2025 16:47:53 -0400</pubDate>
       <itunes:duration>480</itunes:duration>
-    </item>
-    <item>
-      <title>Does Comey indictment signal the end of DOJ independence?</title>
-      <description><![CDATA[NPR's Ari Shapiro speaks with author and journalist Carol Leonnig about the indictment of former FBI Director James Comey and what it says about the independence of the Justice Department.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250926_atc_does_comey_indictment_signal_the_end_of_doj_independence.mp3?t=progseg&amp;e=nx-s1-5511492&amp;p=2&amp;seg=8&amp;d=396&amp;size=6340903" length="6340903" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/26/nx-s1-5554371/does-comey-indictment-signal-the-end-of-doj-independence</guid>
-      <pubDate>Fri, 26 Sep 2025 16:04:28 -0400</pubDate>
-      <itunes:duration>396</itunes:duration>
     </item>
   </channel>
 </rss>
