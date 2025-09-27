@@ -12,6 +12,14 @@
     </image>
     <itunes:block>no</itunes:block>
     <item>
+      <title>Lawfare editor Benjamin Wittes reacts to the James Comey indictment</title>
+      <description><![CDATA[NPR's A Martinez speaks with Lawfare editor in chief Benjamin Wittes, a friend of James Comey, about the former FBI director's indictment on charges of obstructing justice and making a false statement to Congress.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_comey_indictment_reaction.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=19&amp;d=439&amp;size=7025520" length="7025520" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/26/nx-s1-5554222/lawfare-editor-benjamin-wittes-reacts-to-the-james-comey-indictment</guid>
+      <pubDate>Fri, 26 Sep 2025 09:50:00 -0400</pubDate>
+      <itunes:duration>439</itunes:duration>
+    </item>
+    <item>
       <title>Former FBI Director James Comey indicted on criminal charges</title>
       <description><![CDATA[The Justice Department indicted former FBI Director James Comey Thursday, after President Trump demanded prosecutors speed up their investigation into one of his most prominent critics.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_former_fbi_director_james_comey_indicted_on_criminal_charges.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=1&amp;d=238&amp;size=3815176" length="3815176" type="audio/mpeg"/>
@@ -44,6 +52,14 @@
       <itunes:duration>658</itunes:duration>
     </item>
     <item>
+      <title>Inside the Department of Homeland Security&apos;s first major career fair amid hiring push</title>
+      <description><![CDATA[NPR attended a career fair in Utah where the Department of Homeland Security was looking to boost its ranks.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_inside_the_department_of_homeland_security_s_first_major_career_fair_amid_hiring_push.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=3&amp;d=142&amp;size=2284609" length="2284609" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/26/nx-s1-5545665/inside-the-department-of-homeland-securitys-first-major-career-fair-amid-hiring-push</guid>
+      <pubDate>Fri, 26 Sep 2025 04:15:29 -0400</pubDate>
+      <itunes:duration>142</itunes:duration>
+    </item>
+    <item>
       <title>New documentary celebrates the success of women-led music festival Lilith Fair</title>
       <description><![CDATA["Lilith Fair: Building a Mystery" recalls the success of the woman-led music festival created by singer Sarah McLachlan. McLachlan and documentarian Ally Pankiw talk about the film.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_new_documentary_celebrates_the_success_of_women-led_music_festival_lilith_fair.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=4&amp;d=421&amp;size=6751757" length="6751757" type="audio/mpeg"/>
@@ -68,20 +84,12 @@
       <itunes:duration>211</itunes:duration>
     </item>
     <item>
-      <title>Expert shares what may have caused Trump&apos;s escalator mishap at UNGA</title>
-      <description><![CDATA[President Trump is demanding an investigation after a mishap with an escalator at the U.N. General Assembly on Tuesday. An expert weighs in on what may have happened.]]></description>
+      <title>How escalator safety mechanisms work — and why they cause machines to stop</title>
+      <description><![CDATA[President Trump called his escalator mishap at the United Nations "sabotage." The U.N. says the White House team triggered a safety mechanism. We asked two people who work on escalators to explain.]]></description>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_expert_shares_what_may_have_caused_trump_s_escalator_mishap_at_unga.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=8&amp;d=85&amp;size=1362174" length="1362174" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/26/nx-s1-5553465/expert-shares-what-may-have-caused-trumps-escalator-mishap-at-unga</guid>
+      <guid>https://www.npr.org/2025/09/26/nx-s1-5553465/trump-escalator-unga-safety-mechanism</guid>
       <pubDate>Fri, 26 Sep 2025 04:14:18 -0400</pubDate>
       <itunes:duration>85</itunes:duration>
-    </item>
-    <item>
-      <title>Law professor talks about indictment of former FBI Director James Comey</title>
-      <description><![CDATA[NYU law professor and former Pentagon counsel Ryan Goodman talks about the Trump administration's indictment of former FBI Director James Comey.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/09/20250926_me_law_professor_talks_about_indictment_of_former_fbi_director_james_comey.mp3?t=progseg&amp;e=nx-s1-5511449&amp;p=3&amp;seg=10&amp;d=326&amp;size=5222445" length="5222445" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/26/nx-s1-5553705/law-professor-talks-about-indictment-of-former-fbi-director-james-comey</guid>
-      <pubDate>Fri, 26 Sep 2025 04:14:09 -0400</pubDate>
-      <itunes:duration>326</itunes:duration>
     </item>
   </channel>
 </rss>
