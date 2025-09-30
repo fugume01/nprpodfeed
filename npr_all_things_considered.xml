@@ -3,93 +3,93 @@
   <channel>
     <title>NPR All Things Considered</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=2</link>
-    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Ari Shapiro, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
+    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
     <generator>Story API Shim 1.2.24</generator>
     <image>
-      <url>https://media.npr.org/assets/img/2018/08/06/npr_atc_podcasttile_sq-eb0e9acc305ecdcb756ee42dd8c3166fe63af534.jpg</url>
+      <url>https://media.npr.org/assets/img/2022/09/23/all-things-considered_tile_npr-network_sq-39e357a12322a3d57eb07e6b4e146a9bbe9301a1.jpg</url>
       <title>NPR All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
     <itunes:block>no</itunes:block>
     <item>
-      <title>Trump meets congressional leaders as shutdown deadline nears</title>
-      <description><![CDATA[With government funding set to expire Tuesday, Trump is meeting with congressional leaders at the White House in a last effort to avoid a shutdown.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_trump_meets_congressional_leaders_as_shutdown_deadline_nears.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=5&amp;d=237&amp;size=3796368" length="3796368" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5555941/trump-meets-congressional-leaders-as-shutdown-deadline-nears</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:54 -0400</pubDate>
-      <itunes:duration>237</itunes:duration>
+      <title>Video game company Electronic Arts confirmed plans for a historic deal</title>
+      <description><![CDATA[NPR's Scott Detrow talks with Jennifer Maas, a senior business writer at Variety, about video game company Electronic Arts' agreement to be acquired and taken private in a deal valued at $55 billion.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_ea_buyout.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=16&amp;d=235&amp;size=3775052" length="3775052" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5556946/video-game-company-electronic-arts-confirmed-plans-for-a-historic-deal</guid>
+      <pubDate>Mon, 29 Sep 2025 17:43:18 -0400</pubDate>
+      <itunes:duration>235</itunes:duration>
     </item>
     <item>
-      <title>Oregon Attorney General Dan Rayfield says Portland has no need for federal troops</title>
-      <description><![CDATA[Over the weekend, President Trump has ordered the deployment of troops to Portland, Oregon. NPR's Andrew Limbong speaks with Oregon Attorney General Dan Rayfield.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_oregon_attorney_general_dan_rayfield_says_portland_has_no_need_for_federal_troops.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=2&amp;d=277&amp;size=4437099" length="4437099" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5555957/oregon-attorney-general-dan-rayfield-says-portland-has-no-need-for-federal-troops</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:53 -0400</pubDate>
-      <itunes:duration>277</itunes:duration>
+      <title>A preview of the MLB playoffs</title>
+      <description><![CDATA[Baseball playoffs begin Tuesday with some familiar teams: the New York Yankees, Boston Red Sox and LA Dodgers. But the San Diego Padres, Chicago Cubs, Detroit Tigers and Cleveland Guardians are back.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_mlb_playoffs_begin.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=14&amp;d=271&amp;size=4348492" length="4348492" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5556078/a-preview-of-the-mlb-playoffs</guid>
+      <pubDate>Mon, 29 Sep 2025 17:30:34 -0400</pubDate>
+      <itunes:duration>271</itunes:duration>
     </item>
     <item>
-      <title>President Trump and Prime Minister Netanyahu meet as pressure builds over Gaza and hostages</title>
-      <description><![CDATA[NPR's Emily Feng reports from Tel Aviv on the Trump–Netanyahu meeting, the outlines of a U.S. proposal for Gaza, and the hurdles that remain over hostages and governance.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_president_trump_and_prime_minister_netanyahu_meet_as_pressure_builds_over_gaza_and_hostages.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=0&amp;d=260&amp;size=4165844" length="4165844" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5554383/president-trump-and-prime-minister-netanyahu-meet-as-pressure-builds-over-gaza-and-hostages</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:50 -0400</pubDate>
-      <itunes:duration>260</itunes:duration>
+      <title>Tyler Robinson&apos;s team requests time to review evidence in his second court appearance</title>
+      <description><![CDATA[The defense for Tyler Robinson, the suspect in the Charlie Kirk assassination, has asked for more time to review the evidence before deciding whether to seek a preliminary hearing.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_tyler_robinson_court_appearance.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=13&amp;d=215&amp;size=3441520" length="3441520" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5554422/tyler-robinsons-team-requests-time-to-review-evidence-in-his-second-court-appearance</guid>
+      <pubDate>Mon, 29 Sep 2025 17:24:49 -0400</pubDate>
+      <itunes:duration>215</itunes:duration>
     </item>
     <item>
-      <title>Did you already pick your comfort shows for this fall?</title>
-      <description><![CDATA[NPR's Mallory Yu and Stephen Thompson join host Andrew Limbong to talk about the comfort programs they're turning to this fall.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_did_you_already_pick_your_comfort_shows_for_this_fall.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=3&amp;d=569&amp;size=9107793" length="9107793" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5551004/did-you-already-pick-your-comfort-shows-for-this-fall</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:49 -0400</pubDate>
-      <itunes:duration>569</itunes:duration>
+      <title>You can&apos;t come to the touring Cake Picnic unless you bring a dessert to share</title>
+      <description><![CDATA[People across Southern California came out to eat cake this weekend… 483 different cakes to be exact. A touring picnic took over a Santa Monica park with one simple rule…bring a cake.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_cake_picnic.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=12&amp;d=130&amp;size=2087751" length="2087751" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5552286/you-cant-come-to-the-touring-cake-picnic-unless-you-bring-a-dessert-to-share</guid>
+      <pubDate>Mon, 29 Sep 2025 17:21:22 -0400</pubDate>
+      <itunes:duration>130</itunes:duration>
     </item>
     <item>
-      <title>A Georgia town is still reckoning with the aftermath of a chemical fire</title>
-      <description><![CDATA[In Manufacturing Danger, Georgia Public Broadcasting's Pamela Kirkland examines the BioLab fire in Conyers, Georgia, and the broader safety failures it revealed.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_a_georgia_town_is_still_reckoning_with_the_aftermath_of_a_chemical_fire.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=6&amp;d=532&amp;size=8519307" length="8519307" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5539200/a-georgia-town-is-still-reckoning-with-the-aftermath-of-a-chemical-fire</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:45 -0400</pubDate>
-      <itunes:duration>532</itunes:duration>
+      <title>Unlocking the Gen Z consumer</title>
+      <description><![CDATA[As Nike targets a new generation with a revised slogan, "Why Do It?," NPR's Ailsa Chang talks to consumer trends expert Casey Lewis about what brands get right and wrong about Gen Z.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_unlocking_the_gen_z_consumer.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=7&amp;d=235&amp;size=3772962" length="3772962" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5552197/unlocking-the-gen-z-consumer</guid>
+      <pubDate>Mon, 29 Sep 2025 17:18:01 -0400</pubDate>
+      <itunes:duration>235</itunes:duration>
     </item>
     <item>
-      <title>A new generation of pilots is taking flight at Tuskegee, 80 years after the Airmen</title>
-      <description><![CDATA[Vontasia Smith is among the first students training for pilot licenses in Tuskegee University's revived aviation program.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_a_new_generation_of_pilots_is_taking_flight_at_tuskegee_80_years_after_the_airmen.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=7&amp;d=169&amp;size=2705076" length="2705076" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5538335/a-new-generation-of-pilots-is-taking-flight-at-tuskegee-80-years-after-the-airmen</guid>
-      <pubDate>Sun, 28 Sep 2025 17:04:41 -0400</pubDate>
-      <itunes:duration>169</itunes:duration>
+      <title>Congressional leaders met with President Trump ahead of shutdown deadline</title>
+      <description><![CDATA[The federal government is close to a shutdown. President Trump met Monday with top Congressional leaders from both parties in the Oval Office, which ended with both sides dug in.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_congressional_leaders_meet_with_president_trump_ahead_of_shutdown_deadline.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=9&amp;d=408&amp;size=6529403" length="6529403" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5556936/congressional-leaders-met-with-president-trump-ahead-of-shutdown-deadline</guid>
+      <pubDate>Mon, 29 Sep 2025 17:13:33 -0400</pubDate>
+      <itunes:duration>408</itunes:duration>
     </item>
     <item>
-      <title>The endangered cactus behind Mexico&apos;s sweet secret</title>
-      <description><![CDATA[In Mexico, September means <em>chiles en nogada</em> season. But one key ingredient, a candied barrel cactus called biznaga, is now illegal because it's vanishing in the wild.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250928_atc_a_candied_cactus_puts_mexico_s_iconic_dish_at_risk.mp3?t=progseg&amp;e=nx-s1-5514643&amp;p=2&amp;seg=1&amp;d=380&amp;size=6094725" length="6094725" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/28/nx-s1-5535767/mexico-endangered-cactus-mexican-food</guid>
-      <pubDate>Sun, 28 Sep 2025 06:00:00 -0400</pubDate>
-      <itunes:duration>380</itunes:duration>
+      <title>The future of public media in South Dakota</title>
+      <description><![CDATA[With federal funding ending later this week, our media correspondent went to South Dakota to learn what people want from public media today.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_the_future_of_public_media_in_south_dakota.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=17&amp;d=236&amp;size=3787173" length="3787173" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5549201/the-future-of-public-media-in-south-dakota</guid>
+      <pubDate>Mon, 29 Sep 2025 17:10:22 -0400</pubDate>
+      <itunes:duration>236</itunes:duration>
     </item>
     <item>
-      <title>Comey&apos;s indictment marks a dramatic escalation in Trump&apos;s political retribution efforts</title>
-      <description><![CDATA[Former FBI Director James Comey has been indicted after a push by President Trump. The move marks a dramatic escalation in Trump's effort to go after his political opponents.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250927_atc_is_comey_s_indictment_part_of_the_trump_administration_s_retribution_plan.mp3?t=progseg&amp;e=nx-s1-5511992&amp;p=2&amp;seg=0&amp;d=248&amp;size=3980688" length="3980688" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/27/nx-s1-5554448/comeys-indictment-marks-a-dramatic-escalation-in-trumps-political-retribution-efforts</guid>
-      <pubDate>Sat, 27 Sep 2025 17:15:27 -0400</pubDate>
-      <itunes:duration>248</itunes:duration>
+      <title>Russell M. Nelson, head of The Church of Jesus Christ of Latter-day Saints, dies at 101</title>
+      <description><![CDATA[The leader of The Church of Jesus Christ of Latter-day Saints has died. Russell M. Nelson was 101 years old — the oldest person to have ever led the Salt Lake City-based faith.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_russell_m._nelson_head_of_the_church_of_jesus_christ_of_latter-day_saints_dies_at_101.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=15&amp;d=207&amp;size=3316133" length="3316133" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5556972/russell-m-nelson-head-of-the-church-of-jesus-christ-of-latter-day-saints-dies-at-101</guid>
+      <pubDate>Mon, 29 Sep 2025 17:09:46 -0400</pubDate>
+      <itunes:duration>207</itunes:duration>
     </item>
     <item>
-      <title>Japan&apos;s Konbini convenience stores coming to the U.S.</title>
-      <description><![CDATA[In Japan, Konbini convenience stores have become part of the country's infrastructure, offering fresh meals delivered several times a day, tickets to concerts and museums, and even services like bill payments. Now the model is coming to the U.S., where critics question whether it will resonate with American customers.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250927_atc_japan_s_konbini_convenience_stores_coming_to_the_u.s..mp3?t=progseg&amp;e=nx-s1-5511992&amp;p=2&amp;seg=6&amp;d=239&amp;size=3824789" length="3824789" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/27/nx-s1-5554246/japans-konbini-convenience-stores-coming-to-the-u-s</guid>
-      <pubDate>Sat, 27 Sep 2025 17:15:23 -0400</pubDate>
-      <itunes:duration>239</itunes:duration>
+      <title>With no guarantee of U.S. weapons, Ukraine races to make its own</title>
+      <description><![CDATA[President Trump says the U.S. won't be giving more weapons to Ukraine. As a result, Ukraine is racing to make as many of its own weapons as it can.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_with_no_guarantee_of_u.s._weapons_ukraine_races_to_make_its_own.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=10&amp;d=264&amp;size=4234389" length="4234389" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5513949/with-no-guarantee-of-u-s-weapons-ukraine-races-to-make-its-own</guid>
+      <pubDate>Mon, 29 Sep 2025 17:06:50 -0400</pubDate>
+      <itunes:duration>264</itunes:duration>
     </item>
     <item>
-      <title>Ukrainians react to President Trump&apos;s new stance on the war with Russia</title>
-      <description><![CDATA[Olga Rudenko, chief editor of the Kyiv Independent, talks about how Ukrainians view President Trump's shift from praising Vladimir Putin to backing Ukraine's full territorial recovery, and what it could mean for the war.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250927_atc_ukrainians_react_to_president_trump_s_new_stance_on_the_war_with_russia.mp3?t=progseg&amp;e=nx-s1-5511992&amp;p=2&amp;seg=5&amp;d=335&amp;size=5371656" length="5371656" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/27/nx-s1-5553540/ukrainians-react-to-president-trumps-new-stance-on-the-war-with-russia</guid>
-      <pubDate>Sat, 27 Sep 2025 17:15:19 -0400</pubDate>
-      <itunes:duration>335</itunes:duration>
+      <title>A ubiquitous flower in LA brings memories of homeland for a local Salvadoran chef</title>
+      <description><![CDATA[At this time of year, the flor de izote, or yucca flower, blooms in Los Angeles. Chef Karla Vasquez bought some at a Salvadoran market, and prepared a recipe from her book <em>The Salvisoul Cookbook</em>.]]></description>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250929_atc_a_ubiquitous_flower_in_la_brings_memories_of_homeland_for_a_local_salvadoran_chef.mp3?t=progseg&amp;e=nx-s1-5513177&amp;p=2&amp;seg=11&amp;d=354&amp;size=5664645" length="5664645" type="audio/mpeg"/>
+      <guid>https://www.npr.org/2025/09/29/nx-s1-5534292/a-ubiquitous-flower-in-la-brings-memories-of-homeland-for-a-local-salvadoran-chef</guid>
+      <pubDate>Mon, 29 Sep 2025 17:06:45 -0400</pubDate>
+      <itunes:duration>354</itunes:duration>
     </item>
   </channel>
 </rss>
