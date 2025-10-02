@@ -1,95 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>NPR All Things Considered</title>
-    <link>https://www.npr.org/templates/story/story.php?storyId=2</link>
-    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
+    <title>Stories from NPR</title>
+    <link>https://www.npr.org</link>
+    <description>Assorted stories from NPR</description>
     <generator>Story API Shim 1.2.24</generator>
     <image>
       <url>https://media.npr.org/assets/img/2024/07/17/npr_generic_image_1400_sq.jpg</url>
-      <title>NPR All Things Considered</title>
-      <link>https://www.npr.org/programs/all-things-considered/</link>
+      <title>Stories from NPR</title>
+      <link>https://www.npr.org</link>
     </image>
     <itunes:block>no</itunes:block>
-    <item>
-      <title>Who will be left to cover the troops as the Pentagon limits journalists&apos; access?</title>
-      <description><![CDATA[Smaller publications that cover the Pentagon are likely to be the most affected by a new press policy put into place by Defense Secretary Pete Hegseth.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_military_press_and_pentagon_policy.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=14&amp;d=205&amp;size=3281442" length="3281442" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5557223/who-will-be-left-to-cover-the-troops-as-the-pentagon-limits-journalists-access</guid>
-      <pubDate>Tue, 30 Sep 2025 17:43:20 -0400</pubDate>
-      <itunes:duration>205</itunes:duration>
-    </item>
-    <item>
-      <title>Trump&apos;s approach to cartels mirrors the global war on terror, officials say</title>
-      <description><![CDATA[The administration's approach to drug cartels relies — at least in part — on a blueprint for military strikes that mirror those waged during the war on terrorism after the Sept. 11, 2001, attacks.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_targeting_drug_cartels.mp3?d=294&amp;size=4714624" length="4714624" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5534420/trumps-approach-to-cartels-mirrors-the-global-war-on-terror-officials-say</guid>
-      <pubDate>Tue, 30 Sep 2025 17:43:12 -0400</pubDate>
-      <itunes:duration>294</itunes:duration>
-    </item>
-    <item>
-      <title>A rabbi reflects on her Yom Kippur message, as Israel&apos;s war in Gaza continues</title>
-      <description><![CDATA[NPR's Ailsa Chang talks with Rabbi Sharon Brous of IKAR, a congregation in Los Angeles, about her message this year during the Yom Kippur holiday.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_a_rabbi_reflects_on_her_yom_kippur_message_as_israel_s_war_in_gaza_continues.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=13&amp;d=279&amp;size=4478477" length="4478477" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5557181/a-rabbi-reflects-on-her-yom-kippur-message-as-israels-war-in-gaza-continues</guid>
-      <pubDate>Tue, 30 Sep 2025 17:23:40 -0400</pubDate>
-      <itunes:duration>279</itunes:duration>
-    </item>
-    <item>
-      <title>What Trump and Hegseth told top military commanders in unusual Quantico gathering</title>
-      <description><![CDATA[President Trump defended the use of troops in U.S. cities while Defense Secretary Pete Hegseth told military commanders about new physical fitness and grooming requirements for uniformed personnel.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_trump_hegseth_at_quantico.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=8&amp;d=237&amp;size=3797204" length="3797204" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5558131/what-trump-and-hegseth-told-top-military-commanders-in-unusual-quantico-gathering</guid>
-      <pubDate>Tue, 30 Sep 2025 17:23:08 -0400</pubDate>
-      <itunes:duration>237</itunes:duration>
-    </item>
-    <item>
-      <title>Will Hamas accept Trump&apos;s peace plan? Former Mossad chief says it should</title>
-      <description><![CDATA[NPR's Mary Louise Kelly talks to former Mossad chief Yossi Cohen about his new book, <em>The Sword of Freedom: Israel, Mossad, and the Secret War.</em>]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_will_hamas_accept_trump_s_peace_plan_former_mossad_chief_says_they_should..mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=7&amp;d=447&amp;size=7168045" length="7168045" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5522352/will-hamas-accept-trumps-peace-plan-former-mossad-chief-says-it-should</guid>
-      <pubDate>Tue, 30 Sep 2025 17:19:25 -0400</pubDate>
-      <itunes:duration>447</itunes:duration>
-    </item>
-    <item>
-      <title>As sports betting explodes, experts push for a public health approach to addiction</title>
-      <description><![CDATA[Sports betting is now legal in 39 and D.C. But public health experts are concerned about gambling disorders, and are calling for more limits on sports gambling to prevent addiction.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_as_sports_betting_explodes_experts_push_for_a_public_health_approach_to_addiction.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=9&amp;d=302&amp;size=4836250" length="4836250" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5527099/as-sports-betting-explodes-experts-push-for-a-public-health-approach-to-addiction</guid>
-      <pubDate>Tue, 30 Sep 2025 17:18:48 -0400</pubDate>
-      <itunes:duration>302</itunes:duration>
-    </item>
-    <item>
-      <title>Newt Gingrich thinks Democrats &apos;don&apos;t have what it takes&apos; to win shutdown</title>
-      <description><![CDATA[A government shutdown is looming as Republicans and Democrats continue to search for middle ground on a variety of issues. Newt Gingrich shares his perspective on this most recent shutdown fight.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_newt_gingrich_thinks_democrats_don_t_have_what_it_takes_to_win_shutdown.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=5&amp;d=470&amp;size=7524982" length="7524982" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5558143/newt-gingrich-thinks-democrats-dont-have-what-it-takes-to-win-shutdown</guid>
-      <pubDate>Tue, 30 Sep 2025 17:09:33 -0400</pubDate>
-      <itunes:duration>470</itunes:duration>
-    </item>
-    <item>
-      <title>Sen. Duckworth on Hegseth&apos;s Quantico speech</title>
-      <description><![CDATA[President Trump defended the use of troops in U.S. cities while Defense Secretary Pete Hegseth told military commanders about new physical fitness and grooming requirements for uniformed personnel.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_sen._duckworth_on_hegseth_s_quantico_speech.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=3&amp;d=281&amp;size=4501465" length="4501465" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5558122/sen-duckworth-on-hegseths-quantico-speech</guid>
-      <pubDate>Tue, 30 Sep 2025 17:06:42 -0400</pubDate>
-      <itunes:duration>281</itunes:duration>
-    </item>
-    <item>
-      <title>Lasers provide some bird flu protection for turkey producers in Minnesota</title>
-      <description><![CDATA[Migrating birds can be a pleasant seasonal sight, but they're a bird flu threat to turkey farmers. In Minnesota, some are using lasers to scare them away.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_minnesota_turkey_lasers.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=4&amp;d=191&amp;size=3071209" length="3071209" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5554407/lasers-provide-some-bird-flu-protection-for-turkey-producers-in-minnesota</guid>
-      <pubDate>Tue, 30 Sep 2025 17:06:30 -0400</pubDate>
-      <itunes:duration>191</itunes:duration>
-    </item>
-    <item>
-      <title>DOJ sues eight states for voting data</title>
-      <description><![CDATA[The Justice Department is making unprecedented demands for state elections data.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/09/20250930_atc_doj_sues_8_states_for_voting_data.mp3?t=progseg&amp;e=nx-s1-5512964&amp;p=2&amp;seg=6&amp;d=233&amp;size=3737018" length="3737018" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/09/30/nx-s1-5554499/doj-sues-eight-states-for-voting-data</guid>
-      <pubDate>Tue, 30 Sep 2025 16:29:54 -0400</pubDate>
-      <itunes:duration>233</itunes:duration>
-    </item>
   </channel>
 </rss>

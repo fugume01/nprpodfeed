@@ -1,95 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>NPR Morning Edition</title>
-    <link>https://www.npr.org/templates/story/story.php?storyId=3</link>
-    <description>&lt;em&gt;Morning Edition&lt;/em&gt; takes listeners around the country and the world with multi-faceted stories and commentaries every weekday. Hosts Steve Inskeep, Leila Fadel, Michel Martin and A Martínez bring you the latest breaking news and features to prepare you for the day.</description>
+    <title>Stories from NPR</title>
+    <link>https://www.npr.org</link>
+    <description>Assorted stories from NPR</description>
     <generator>Story API Shim 1.2.24</generator>
     <image>
-      <url>https://media.npr.org/assets/img/2018/08/06/npr_me_podcasttile_sq-cc6a214353ea7f43a319bcbdc7151ceac37fcbaa.jpg</url>
-      <title>NPR Morning Edition</title>
-      <link>https://www.npr.org/programs/morning-edition/</link>
+      <url>https://media.npr.org/assets/img/2024/07/17/npr_generic_image_1400_sq.jpg</url>
+      <title>Stories from NPR</title>
+      <link>https://www.npr.org</link>
     </image>
     <itunes:block>no</itunes:block>
-    <item>
-      <title>Government shutdown begins after Congress fails to agree on spending bill</title>
-      <description><![CDATA[Much of the federal government shut down Wednesday after Congress failed to reach a deal to keep government programs and services running before the midnight deadline.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_government_shutdown_begins_after_congress_fails_to_agree_on_spending_bill.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=1&amp;d=236&amp;size=3788009" length="3788009" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558013/government-shutdown-begins-after-congress-fails-to-agree-on-spending-bill</guid>
-      <pubDate>Wed, 01 Oct 2025 06:31:41 -0400</pubDate>
-      <itunes:duration>236</itunes:duration>
-    </item>
-    <item>
-      <title>Rep. Mike Haridopolos, R-Fla., talks about the government shutdown</title>
-      <description><![CDATA[NPR speaks with Rep. Mike Haridopolos, R-Fla., about the government shutdown.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_rep._mike_haridopolos_r-fla._talks_about_the_government_shutdown.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=2&amp;d=341&amp;size=5471966" length="5471966" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558079/rep-mike-haridopolos-r-fla-talks-about-the-government-shutdown</guid>
-      <pubDate>Wed, 01 Oct 2025 06:31:36 -0400</pubDate>
-      <itunes:duration>341</itunes:duration>
-    </item>
-    <item>
-      <title>After drone flights, NATO countries send troops to Denmark for EU leaders&apos; meeting</title>
-      <description><![CDATA[After a week of flights by unidentified drones, the U.S. and other NATO countries sent troops and equipment to Denmark to protect its capital during meetings with European Union leaders Wednesday.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_after_drone_flights_nato_countries_send_troops_to_denmark_for_eu_leaders_meeting.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=8&amp;d=226&amp;size=3623333" length="3623333" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5557907/after-drone-flights-nato-countries-send-troops-to-denmark-for-eu-leaders-meeting</guid>
-      <pubDate>Wed, 01 Oct 2025 05:02:06 -0400</pubDate>
-      <itunes:duration>226</itunes:duration>
-    </item>
-    <item>
-      <title>Morning news brief</title>
-      <description><![CDATA[Government shutdown begins after Congress fails to reach a deal, federal workers brace for effects of shutdown, Trump tells gathering of commanders the military should be used against "enemy within."]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_morning_news_brief.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=0&amp;d=629&amp;size=10074115" length="10074115" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5556822/morning-news-brief</guid>
-      <pubDate>Wed, 01 Oct 2025 05:01:50 -0400</pubDate>
-      <itunes:duration>629</itunes:duration>
-    </item>
-    <item>
-      <title>Poll: Agreement that political violence may be necessary to right the country grows</title>
-      <description><![CDATA[On hot button issues, a majority say children should be vaccinated; controlling gun violence is more important than gun rights; and Epstein files should be released, in a new NPR/PBS News/Marist poll.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_poll_agreement_that_political_violence_may_be_necessary_to_right_the_country_grows.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=11&amp;d=232&amp;size=3727822" length="3727822" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump</guid>
-      <pubDate>Wed, 01 Oct 2025 05:00:00 -0400</pubDate>
-      <itunes:duration>232</itunes:duration>
-    </item>
-    <item>
-      <title>Could the next Scarlett Johansson or Natalie Portman be an AI actor?</title>
-      <description><![CDATA[Hollywood is getting closer to signing up its first synthetic creation made with AI. SAG-AFTRA, the actors' union, is pushing back, concerned it could be a step toward replacing human talent.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_could_the_next_scarlett_johansson_or_natalie_portman_be_an_ai_actor.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=3&amp;d=169&amp;size=2705912" length="2705912" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558119/could-the-next-scarlett-johansson-or-natalie-portman-be-an-ai-actor</guid>
-      <pubDate>Wed, 01 Oct 2025 04:46:28 -0400</pubDate>
-      <itunes:duration>169</itunes:duration>
-    </item>
-    <item>
-      <title>Trump wants former British prime minister Tony Blair to help govern postwar Gaza</title>
-      <description><![CDATA[In President Trump's 20-point plan to end the war in Gaza, he named former British prime minister Tony Blair for a potential role in Gaza's postwar governance.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_trump_wants_former_british_prime_minister_tony_blair_to_help_govern_postwar_gaza.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=6&amp;d=202&amp;size=3247169" length="3247169" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5557983/trump-wants-former-british-prime-minister-tony-blair-to-help-govern-postwar-gaza</guid>
-      <pubDate>Wed, 01 Oct 2025 04:46:23 -0400</pubDate>
-      <itunes:duration>202</itunes:duration>
-    </item>
-    <item>
-      <title>Scientists are breeding corals to withstand Florida&apos;s heat to combat climate change</title>
-      <description><![CDATA[Florida's current plans to restore the coral reefs won't work due to the impact of climate change, so scientists are trying something new: breeding corals that can better withstand heat.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_scientists_are_breeding_corals_to_withstand_florida_s_heat_to_combat_climate_change.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=4&amp;d=253&amp;size=4052995" length="4052995" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5547122/scientists-are-breeding-corals-to-withstand-floridas-heat-to-combat-climate-change</guid>
-      <pubDate>Wed, 01 Oct 2025 04:46:14 -0400</pubDate>
-      <itunes:duration>253</itunes:duration>
-    </item>
-    <item>
-      <title>Palestinian Authority official talks about Trump&apos;s plan to end the war in Gaza</title>
-      <description><![CDATA[Dr. Omar Awadallah, deputy minister of Foreign Affairs in the Palestinian Authority, talks about President Trump's 20-point plan to end the war in Gaza.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_palestinian_authority_official_talks_about_trump_s_plan_to_end_the_war_in_gaza.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=7&amp;d=246&amp;size=3949759" length="3949759" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558092/palestinian-authority-official-talks-about-trumps-plan-to-end-the-war-in-gaza</guid>
-      <pubDate>Wed, 01 Oct 2025 04:45:55 -0400</pubDate>
-      <itunes:duration>246</itunes:duration>
-    </item>
-    <item>
-      <title>President Trump announces deal with Pfizer to sell its drugs on federal website</title>
-      <description><![CDATA[President Trump on Tuesday announced a deal with Pfizer to sell its drugs directly to consumers at discounted prices. They'll be available through a website operated by the federal government.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2025/10/20251001_me_president_trump_announces_deal_with_pfizer_to_sell_its_drugs_on_federal_website.mp3?t=progseg&amp;e=nx-s1-5516151&amp;p=3&amp;seg=9&amp;d=187&amp;size=2995140" length="2995140" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/10/01/nx-s1-5558334/president-trump-announces-deal-with-pfizer-to-sell-its-drugs-on-federal-website</guid>
-      <pubDate>Wed, 01 Oct 2025 04:45:28 -0400</pubDate>
-      <itunes:duration>187</itunes:duration>
-    </item>
   </channel>
 </rss>
