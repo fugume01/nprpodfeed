@@ -1,95 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>NPR All Things Considered</title>
+    <title>NPR Programs: All Things Considered</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=2</link>
-    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Ari Shapiro, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
+    <description>&lt;em&gt;All Things Considered&lt;/em&gt; hosts Ailsa Chang, Mary Louise Kelly, Juana Summers and Scott Detrow present the program&apos;s trademark mix of news, interviews, commentaries, reviews, and offbeat features 7 days a week.</description>
+    <language>en</language>
+    <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
+    <lastBuildDate>Fri, 03 Oct 2025 23:43:38 -0400</lastBuildDate>
     <image>
-      <url>https://media.npr.org/assets/img/2018/08/06/npr_atc_podcasttile_sq-eb0e9acc305ecdcb756ee42dd8c3166fe63af534.jpg</url>
-      <title>NPR All Things Considered</title>
+      <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
+      <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
-    <itunes:block>no</itunes:block>
     <item>
-      <title>British luxury retailer Harrod&apos;s fell victim to a cyberattack</title>
-      <description><![CDATA[Harrods, the iconic luxury department store, has become the latest British retailer to fall victim to a cyberattack.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_cyberattacks_on_harrods_and_others.mp3?size=2493589&amp;d=155795&amp;e=nx-s1-5384296" length="2493589" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5384296/british-luxury-retailer-harrods-fell-victim-to-a-cyberattack</guid>
-      <pubDate>Fri, 02 May 2025 17:47:32 -0400</pubDate>
-      <itunes:duration>155</itunes:duration>
+      <title>Little sign of peace after Trump Congo deal</title>
+      <description>Peace in eastern Congo remains elusive, despite a U.S.-brokered deal that President Trump calls historic.</description>
+      <pubDate>Fri, 03 Oct 2025 17:30:44 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5557382/little-sign-of-peace-after-trump-congo-deal</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5557382/little-sign-of-peace-after-trump-congo-deal</guid>
+      <content:encoded><![CDATA[<p>Peace in eastern Congo remains elusive, despite a U.S.-brokered deal that President Trump calls historic.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5557382' />]]></content:encoded>
+      <dc:creator>Emmet Livingstone</dc:creator>
     </item>
     <item>
-      <title>Why Hegseth wants to eliminate the Women, Peace and Security program</title>
-      <description><![CDATA[Defense Secretary Pete Hegseth wants to eliminate the Women, Peace and Security Act. He doesn't have the power to do so, but what is the act's goal, and what does this mean for women in combat roles?]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_dod_women_peace_and_security_program.mp3?size=4925694&amp;d=307805&amp;e=nx-s1-5382396" length="4925694" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5382396/why-hegseth-wants-to-eliminate-the-women-peace-and-security-program</guid>
-      <pubDate>Fri, 02 May 2025 17:47:08 -0400</pubDate>
-      <itunes:duration>307</itunes:duration>
+      <title>What the H1B visa application fee hike could mean for the U.S. economy</title>
+      <description>An economist explains the impact the H-1B visa program has had on the U.S. economy and native-born workers. And what the new hundred thousand dollar fee could mean for the future of the program.</description>
+      <pubDate>Fri, 03 Oct 2025 17:29:01 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5561095/what-the-h1b-visa-application-fee-hike-could-mean-for-the-u-s-economy</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5561095/what-the-h1b-visa-application-fee-hike-could-mean-for-the-u-s-economy</guid>
+      <content:encoded><![CDATA[<p>An economist explains the impact the H-1B visa program has had on the U.S. economy and native-born workers. And what the new hundred thousand dollar fee could mean for the future of the program.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5561095' />]]></content:encoded>
+      <dc:creator>Wailin Wong</dc:creator>
     </item>
     <item>
-      <title>Lady Gaga hits Copacabana Beach for the biggest concert of her career</title>
-      <description><![CDATA[Lady Gaga fans are gathering in Rio as the singer prepares to play what promises to be the biggest concert of her career at the iconic Copacabana beach.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_lady_gaga_hits_copacabana.mp3?size=2799535&amp;d=174918&amp;e=nx-s1-5382485" length="2799535" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5382485/lady-gaga-hits-copacabana-beach-for-the-biggest-concert-of-her-career</guid>
-      <pubDate>Fri, 02 May 2025 17:42:39 -0400</pubDate>
-      <itunes:duration>174</itunes:duration>
+      <title>Protests grow in Italy against Israel&apos;s offensive in Gaza</title>
+      <description>Protests calling for an end to Israel&apos;s offensive against Hamas brought hundreds thousands of people onto the streets in Italy, according to the labor union which helped organize them.</description>
+      <pubDate>Fri, 03 Oct 2025 17:28:13 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5561723/protests-grow-in-italy-against-israels-offensive-in-gaza</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5561723/protests-grow-in-italy-against-israels-offensive-in-gaza</guid>
+      <content:encoded><![CDATA[<p>Protests calling for an end to Israel's offensive against Hamas brought hundreds thousands of people onto the streets in Italy, according to the labor union which helped organize them.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5561723' />]]></content:encoded>
+      <dc:creator>Ruth Sherlock</dc:creator>
     </item>
     <item>
-      <title>Trump voters share what they think of the policies of his presidency&apos;s first 100 days</title>
-      <description><![CDATA[We hear from Trump voters in Wisconsin, Missouri, and Colorado about what they think of the policies in the first 100 days of the Trump Presidency.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_trump_voter_pinwheel.mp3?size=6767222&amp;d=422905&amp;e=nx-s1-5377397" length="6767222" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5377397/trump-voters-share-what-they-think-of-the-policies-of-his-presidencys-first-100-days</guid>
-      <pubDate>Fri, 02 May 2025 17:41:17 -0400</pubDate>
-      <itunes:duration>422</itunes:duration>
+      <title>Debt, protests and right vs. left: A look at the political turmoil in France</title>
+      <description>French President Emmanuel Macron struggles to govern as France faces protests, political deadlock, and a rising far right.</description>
+      <pubDate>Fri, 03 Oct 2025 17:25:52 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5556773/debt-protests-and-right-vs-left-a-look-at-the-political-turmoil-in-france</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5556773/debt-protests-and-right-vs-left-a-look-at-the-political-turmoil-in-france</guid>
+      <content:encoded><![CDATA[<p>French President Emmanuel Macron struggles to govern as France faces protests, political deadlock, and a rising far right.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5556773' />]]></content:encoded>
+      <dc:creator>Eleanor Beardsley</dc:creator>
     </item>
     <item>
-      <title>Former DOJ lawyer weighs in on Trump&apos;s El Salvador prison plan</title>
-      <description><![CDATA[The Trump administration has sent migrants it calls terrorists to an overseas prison for indefinite detention. To some, it echoes the U.S.'s detainment of "unlawful enemy combatants" after 9/11.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_guantanamo_vs._cecot.mp3?size=5306872&amp;d=331635&amp;e=nx-s1-5381398" length="5306872" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5381398/former-doj-lawyer-weighs-in-on-trumps-el-salvador-prison-plan</guid>
-      <pubDate>Fri, 02 May 2025 17:39:45 -0400</pubDate>
-      <itunes:duration>331</itunes:duration>
+      <title>Sean Combs sentenced to over four years in prison for prostitution-related charges</title>
+      <description>Combs had been convicted in July on two counts of transportation for prostitution. During his sentencing hearing he spoke at length for the first time in the trial, addressing the judge at length.</description>
+      <pubDate>Fri, 03 Oct 2025 17:17:13 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5561790/sean-combs-sentenced-four-years</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5561790/sean-combs-sentenced-four-years</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2250+0+0/resize/3000x2250!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fc8%2Ff42142aa49b9ae579a78d93ebc10%2F2025-10-03t175653z-296335320-rc2h4hal65y2-rtrmadp-3-people-sean-combs.JPG' alt='Sean Combs (at right) watches his children present impact statements during his sentencing hearing in New York. Combs was sentenced to 50 months in prison.'/><p>Combs had been convicted in July on two counts of transportation for prostitution. During his sentencing hearing he spoke at length for the first time in the trial, addressing the judge at length.</p><p>(Image credit: Jane Rosenberg)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5561790' />]]></content:encoded>
+      <dc:creator>Isabella Gomez Sarmiento</dc:creator>
     </item>
     <item>
-      <title>At San Antonio&apos;s Fiesta, Mariachi festival celebrates heritage and cultural pride</title>
-      <description><![CDATA[One of events in San Antonio's Fiesta celebration is the Ford Mariachi Festival. Barges on the San Antonio River carry bands and/or dancers to entertain those dining at riverside restaurants.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_at_san_antonio_s_fiesta_mariachi_festival_celebrates_heritage_and_cultural_pride.mp3?size=3349151&amp;d=209286&amp;e=nx-s1-5383139" length="3349151" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5383139/at-san-antonios-fiesta-mariachi-festival-celebrates-heritage-and-cultural-pride</guid>
-      <pubDate>Fri, 02 May 2025 17:24:44 -0400</pubDate>
-      <itunes:duration>209</itunes:duration>
+      <title>A federal worker explains why she&apos;s not afraid of Trump&apos;s layoff threat</title>
+      <description>Some federal workers closely following President Trump&apos;s threats of mass layoffs and funding cuts in the shutdown say it&apos;s nothing new. He&apos;s been doing those same things since January.</description>
+      <pubDate>Fri, 03 Oct 2025 17:16:27 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5560917/a-federal-worker-explains-why-shes-not-afraid-of-trumps-layoff-threat</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5560917/a-federal-worker-explains-why-shes-not-afraid-of-trumps-layoff-threat</guid>
+      <content:encoded><![CDATA[<p>Some federal workers closely following President Trump's threats of mass layoffs and funding cuts in the shutdown say it's nothing new. He's been doing those same things since January.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5560917' />]]></content:encoded>
+      <dc:creator>Andrea Hsu</dc:creator>
     </item>
     <item>
-      <title>NOAA submersible robots find hand painted mural on 80-year-old shipwreck</title>
-      <description><![CDATA[NPR's Ailsa Chang talks with Phil Hartmeyer, is a marine archaeologist at NOAA's Ocean Exploration program, about a mural discovered in the shipwreck of the USS Yorktown, which sunk during WWII.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_uss_yorktown_mural_found.mp3?size=4597178&amp;d=287270&amp;e=nx-s1-5383213" length="4597178" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5383213/noaa-submersible-robots-find-hand-painted-mural-on-80-year-old-shipwreck</guid>
-      <pubDate>Fri, 02 May 2025 17:01:45 -0400</pubDate>
-      <itunes:duration>287</itunes:duration>
+      <title>This week in science: Fly migration, a surprise in the Amazon and fish noises</title>
+      <description>Hosts of NPR&apos;s science podcast discuss new findings about long-distance fly migration, an unexpected impact of emissions in the Amazon, and fish noises.</description>
+      <pubDate>Fri, 03 Oct 2025 16:52:40 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5552715/this-week-in-science-fly-migration-a-surprise-in-the-amazon-and-fish-noises</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5552715/this-week-in-science-fly-migration-a-surprise-in-the-amazon-and-fish-noises</guid>
+      <content:encoded><![CDATA[<p>Hosts of NPR's science podcast discuss new findings about long-distance fly migration, an unexpected impact of emissions in the Amazon, and fish noises.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5552715' />]]></content:encoded>
+      <dc:creator>Berly McCoy</dc:creator>
     </item>
     <item>
-      <title>President Trump has issued an executive order to pull federal funds from NPR and PBS</title>
-      <description><![CDATA[President Trump has directed the Corporation for Public Broadcasting to stop funding NPR and PBS. PBS chief Paula Kerger calls the move "blatantly unlawful."]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_trump_eo_hits_npr_pbs.mp3?size=3407248&amp;d=212922&amp;e=nx-s1-5384981" length="3407248" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5384981/president-trump-has-issued-an-executive-order-to-pull-federal-funds-from-npr-and-pbs</guid>
-      <pubDate>Fri, 02 May 2025 16:57:24 -0400</pubDate>
-      <itunes:duration>212</itunes:duration>
+      <title>For the first time, the Church of England names a woman as its top leader</title>
+      <description>For the first time, the Church of England has named a woman as its top leader. Sarah Mullally is the new Archbishop of Canterbury, leading 85 million Anglicans around the world.</description>
+      <pubDate>Fri, 03 Oct 2025 16:50:49 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5559753/for-the-first-time-the-church-of-england-names-a-woman-as-its-top-leader</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5559753/for-the-first-time-the-church-of-england-names-a-woman-as-its-top-leader</guid>
+      <content:encoded><![CDATA[<p>For the first time, the Church of England has named a woman as its top leader. Sarah Mullally is the new Archbishop of Canterbury, leading 85 million Anglicans around the world.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5559753' />]]></content:encoded>
+      <dc:creator>Lauren Frayer</dc:creator>
     </item>
     <item>
-      <title>The Sean Combs trial will start next week</title>
-      <description><![CDATA[Sean Combs' federal trial on charges of sex trafficking and racketeering conspiracy will begin in New York next week. What is he accused of, and what will the trial mean for the mogul and for hip-hop?]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_the_sean_combs_trial_will_start_next_week.mp3?size=3699819&amp;d=231200&amp;e=nx-s1-5384260" length="3699819" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5384260/the-sean-combs-trial-will-start-next-week</guid>
-      <pubDate>Fri, 02 May 2025 16:54:12 -0400</pubDate>
-      <itunes:duration>231</itunes:duration>
+      <title>Hamas agrees to release Israeli hostages, Trump tells Israel to stop bombing Gaza</title>
+      <description>The Palestinian militant group said it would release all the hostages after President Trump set a deadline of Sunday evening to sign up to his plan</description>
+      <pubDate>Fri, 03 Oct 2025 16:50:15 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5562015/hamas-agrees-to-release-israeli-hostages-trump-tells-israel-to-stop-bombing-gaza</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5562015/hamas-agrees-to-release-israeli-hostages-trump-tells-israel-to-stop-bombing-gaza</guid>
+      <content:encoded><![CDATA[<p>The Palestinian militant group said it would release all the hostages after President Trump set a deadline of Sunday evening to sign up to his plan</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5562015' />]]></content:encoded>
+      <dc:creator>Aya Batrawy</dc:creator>
     </item>
     <item>
-      <title>These race car drivers turn lemons (and $500) into an endurance contest like no other</title>
-      <description><![CDATA[The Tour of Lemons is an endurance car race with a major tweak: The cars can't cost more than $500. But teams can decorate them any way they like – a recent race included a Toyota topped with googly eyes.]]></description>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/05/20250502_atc_these_race_car_drivers_turn_lemons_and_500_into_an_endurance_contest_like_no_other.mp3?size=3339956&amp;d=208716&amp;e=nx-s1-5382362" length="3339956" type="audio/mpeg"/>
-      <guid>https://www.npr.org/2025/05/02/nx-s1-5382362/these-race-car-drivers-turn-lemons-and-500-into-an-endurance-contest-like-no-other</guid>
-      <pubDate>Fri, 02 May 2025 16:54:09 -0400</pubDate>
-      <itunes:duration>208</itunes:duration>
+      <title>Daniel Day-Lewis is back. His son is just getting started</title>
+      <description>NPR&apos;s Mary Louise Kelly speaks with actor Daniel Day-Lewis and director Ronan Day-Lewis — father and son — about their new movie, &lt;em&gt;Anemone.&lt;/em&gt;</description>
+      <pubDate>Fri, 03 Oct 2025 16:49:53 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/03/nx-s1-5399077/daniel-day-lewis-is-back-his-son-is-just-getting-started</link>
+      <guid>https://www.npr.org/2025/10/03/nx-s1-5399077/daniel-day-lewis-is-back-his-son-is-just-getting-started</guid>
+      <content:encoded><![CDATA[<p>NPR's Mary Louise Kelly speaks with actor Daniel Day-Lewis and director Ronan Day-Lewis — father and son — about their new movie, <em>Anemone.</em></p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5399077' />]]></content:encoded>
+      <dc:creator>Mary Louise Kelly</dc:creator>
     </item>
   </channel>
 </rss>
