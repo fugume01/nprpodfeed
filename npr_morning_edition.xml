@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 09:24:32 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 22:20:39 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -23,13 +23,13 @@
       <dc:creator>Domenico Montanaro</dc:creator>
     </item>
     <item>
-      <title>Republican Sen. Ron Johnson talks about the government shutdown</title>
-      <description>NPR&apos;s Michel Martin speaks with Sen. Ron Johnson, R-Wis., about the latest developments around the government shutdown.</description>
+      <title>Shutdowns serve as excuse for GOP and Democrats to spend more, says Sen. Ron Johnson</title>
+      <description>Sen. Ron Johnson, a Republican from Wisconsin, has a plan for how to avoid shutdown showdown negotiations, but it wouldn&apos;t be popular with Congress&apos; &quot;uniparty,&quot; he told NPR.</description>
       <pubDate>Wed, 08 Oct 2025 06:46:20 -0400</pubDate>
-      <link>https://www.npr.org/2025/10/08/nx-s1-5564781/republican-sen-ron-johnson-talks-about-the-government-shutdown</link>
-      <guid>https://www.npr.org/2025/10/08/nx-s1-5564781/republican-sen-ron-johnson-talks-about-the-government-shutdown</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Sen. Ron Johnson, R-Wis., about the latest developments around the government shutdown.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5564781' />]]></content:encoded>
-      <dc:creator>Michel Martin</dc:creator>
+      <link>https://www.npr.org/2025/10/08/nx-s1-5564781/federal-government-shutdown-negotiations-ron-johnson</link>
+      <guid>https://www.npr.org/2025/10/08/nx-s1-5564781/federal-government-shutdown-negotiations-ron-johnson</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2F36%2F776545d849f9ad055191798e6c5c%2Fap25279782381317.jpg' alt='From left, Senate Judiciary Committee Chairman Chuck Grassley, R- Iowa, Sen. Cynthia Lummis, R-Wyo., Sen. Bill Hagerty, R-Tenn., and Sen. Ron Johnson, R-Wis., chairman of the Permanent Subcommittee on Investigations, speak with reporters at the Capitol in Washington, Monday, Oct. 6.'/><p>Sen. Ron Johnson, a Republican from Wisconsin, has a plan for how to avoid shutdown showdown negotiations, but it wouldn't be popular with Congress' "uniparty," he told NPR.</p><p>(Image credit: J. Scott Applewhite)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5564781' />]]></content:encoded>
+      <dc:creator>Obed Manuel</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -95,12 +95,12 @@
       <dc:creator>Joel Rose</dc:creator>
     </item>
     <item>
-      <title>New owner of &apos;The Root&apos; talks about her vision for the Black media outlet</title>
+      <title>The Root returns to Black ownership. Here&apos;s how Ashley Allison is reimagining it</title>
       <description>NPR&apos;s Michel Martin speaks with Ashley Allison, the new owner of the online media outlet &quot;The Root,&quot; which focuses on covering Black news and opinion.</description>
       <pubDate>Wed, 08 Oct 2025 04:54:15 -0400</pubDate>
-      <link>https://www.npr.org/2025/10/08/nx-s1-5562559/new-owner-of-the-root-talks-about-her-vision-for-the-black-media-outlet</link>
-      <guid>https://www.npr.org/2025/10/08/nx-s1-5562559/new-owner-of-the-root-talks-about-her-vision-for-the-black-media-outlet</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Ashley Allison, the new owner of the online media outlet "The Root," which focuses on covering Black news and opinion.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5562559' />]]></content:encoded>
+      <link>https://www.npr.org/2025/10/08/nx-s1-5562559/the-root-ashley-allison-black-media</link>
+      <guid>https://www.npr.org/2025/10/08/nx-s1-5562559/the-root-ashley-allison-black-media</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fd8%2F2acc3ee34f3cb74eaffed2e01028%2Fashley-allison-3363.jpg' alt='undefined'/><p>NPR's Michel Martin speaks with Ashley Allison, the new owner of the online media outlet "The Root," which focuses on covering Black news and opinion.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5562559' />]]></content:encoded>
       <dc:creator>Michel Martin</dc:creator>
     </item>
   </channel>
