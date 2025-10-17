@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 09:29:15 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 22:20:26 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -95,13 +95,13 @@
       <dc:creator>Franco Ordoñez</dc:creator>
     </item>
     <item>
-      <title>Health insurance premiums are going up next year — unless you work at these companies</title>
-      <description>As U.S. health insurance costs rise, some companies are paying for all of their workers&apos; premiums. It&apos;s a big expense — but they say it pays off.</description>
+      <title>For private flood insurance companies, the government shutdown is good for business</title>
+      <description>Because of the government shutdown, the National Flood Insurance Program is no longer writing new policies. It&apos;s causing problems for would-be homeowners, but private companies have stepped in to help.</description>
       <pubDate>Thu, 16 Oct 2025 05:00:00 -0400</pubDate>
-      <link>https://www.npr.org/2025/10/16/nx-s1-5561051/health-care-costs-premiums-companies-cost-of-living</link>
-      <guid>https://www.npr.org/2025/10/16/nx-s1-5561051/health-care-costs-premiums-companies-cost-of-living</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fca%2Fdbf8d780416ea88b9c1d1f7a3905%2Fcost-of-living-health-care.jpg' alt='As health insurance prices are surging, some companies are covering their employees' medical plans.'/><p>As U.S. health insurance costs rise, some companies are paying for all of their workers' premiums. It's a big expense — but they say it pays off.</p><p>(Image credit: Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5561051' />]]></content:encoded>
-      <dc:creator>Maria Aspan</dc:creator>
+      <link>https://www.npr.org/2025/10/16/nx-s1-5574322/government-shutdown-helps-private-flood-insurance-companies</link>
+      <guid>https://www.npr.org/2025/10/16/nx-s1-5574322/government-shutdown-helps-private-flood-insurance-companies</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2526x1534+0+0/resize/2526x1534!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F33%2F4196474943ae94cac58b78d4cdfc%2Fgettyimages-977505220.jpg' alt='This photo, taken in 2018, shows a home being built in Sarasota, Fla. The government shutdown has forced many would-be homebuyers to delay their purchases because the U.S.-backed <a href="https://www.fema.gov/flood-insurance"target="_blank"   >National Flood Insurance Program</a> stopped writing new policies on Oct. 1 and can't resume until it's reauthorized by Congress.'/><p>Because of the government shutdown, the National Flood Insurance Program is no longer writing new policies. It's causing problems for would-be homeowners, but private companies have stepped in to help.</p><p>(Image credit: Kerry Sheridan)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5574322' />]]></content:encoded>
+      <dc:creator>Greg Allen</dc:creator>
     </item>
   </channel>
 </rss>
