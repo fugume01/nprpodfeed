@@ -7,21 +7,12 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 22:24:15 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 09:20:21 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
-    <item>
-      <title>NPR &apos;founding mother&apos; Susan Stamberg has died</title>
-      <description>NPR&apos;s legendary host and correspondent Susan Stamberg has died at age 87. She loved to explore Americans&apos; relationship with culture — high and low — and shared that fascination with her listeners.</description>
-      <pubDate>Thu, 16 Oct 2025 16:32:14 -0400</pubDate>
-      <link>https://www.npr.org/2025/10/16/nx-s1-1805091/npr-founding-mother-susan-stamberg-has-died</link>
-      <guid>https://www.npr.org/2025/10/16/nx-s1-1805091/npr-founding-mother-susan-stamberg-has-died</guid>
-      <content:encoded><![CDATA[<p>NPR's legendary host and correspondent Susan Stamberg has died at age 87. She loved to explore Americans' relationship with culture — high and low — and shared that fascination with her listeners.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-1805091' />]]></content:encoded>
-      <dc:creator>David Folkenflik</dc:creator>
-    </item>
     <item>
       <title>Celebrating the life and career of NPR &apos;founding mother&apos; and arts champion Susan Stamberg</title>
       <description>NPR&apos;s Susan Stamberg was a longtime champion of visual arts coverage, but she had to invent new ways to do it on the radio.</description>
@@ -68,12 +59,12 @@
       <dc:creator>Brianna Scott</dc:creator>
     </item>
     <item>
-      <title>Despite big harvests, most farmers are losing money</title>
-      <description>Farmers are struggling this fall, despite a bountiful harvest. High costs and low prices mean farmers are losing money on every bushel of corn and soybeans.</description>
+      <title>American farmers are hurting. Trump&apos;s trade war is making it worse</title>
+      <description>Farmers are struggling this fall despite a bountiful harvest. Production costs are high, crop prices are low and the trade war has closed off one of their biggest markets.</description>
       <pubDate>Thu, 16 Oct 2025 15:52:37 -0400</pubDate>
-      <link>https://www.npr.org/2025/10/16/nx-s1-5575115/despite-big-harvests-most-farmers-are-losing-money</link>
-      <guid>https://www.npr.org/2025/10/16/nx-s1-5575115/despite-big-harvests-most-farmers-are-losing-money</guid>
-      <content:encoded><![CDATA[<p>Farmers are struggling this fall, despite a bountiful harvest. High costs and low prices mean farmers are losing money on every bushel of corn and soybeans.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575115' />]]></content:encoded>
+      <link>https://www.npr.org/2025/10/16/nx-s1-5575115/farmers-trump-trade-war-china</link>
+      <guid>https://www.npr.org/2025/10/16/nx-s1-5575115/farmers-trump-trade-war-china</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fc1%2F318f0f0149b5b229bb51a983cfcb%2Fbrady-8.jpg' alt='Brady Holst raises soybeans, corn and wheat near Augusta, Illinois. Despite a bumper crop this year, he and other farmers are losing money as a result of rising costs and falling crop prices.'/><p>Farmers are struggling this fall despite a bountiful harvest. Production costs are high, crop prices are low and the trade war has closed off one of their biggest markets.</p><p>(Image credit: Illinois Soybean Association)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575115' />]]></content:encoded>
       <dc:creator>Scott Horsley</dc:creator>
     </item>
     <item>
@@ -102,6 +93,15 @@
       <guid>https://www.npr.org/2025/10/16/nx-s1-5575111/humans-of-new-york-founder-remembers-stephanie-tanqueray-johnson</guid>
       <content:encoded><![CDATA[<p>Stephanie "Tanqueray" Johnson made viral history on the Humans of New York Instagram account. She died at 81 years old recently.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575111' />]]></content:encoded>
       <dc:creator>Jordan-Marie Smith</dc:creator>
+    </item>
+    <item>
+      <title>Here&apos;s how to eliminate, reduce or negotiate a medical bill</title>
+      <description>There&apos;s an estimated $195 billion of medical debt in America. But just because a medical bill comes in the mail doesn&apos;t mean you have to pay that exact price.</description>
+      <pubDate>Thu, 16 Oct 2025 15:52:20 -0400</pubDate>
+      <link>https://www.npr.org/2025/10/16/nx-s1-5574356/heres-how-to-eliminate-reduce-or-negotiate-a-medical-bill</link>
+      <guid>https://www.npr.org/2025/10/16/nx-s1-5574356/heres-how-to-eliminate-reduce-or-negotiate-a-medical-bill</guid>
+      <content:encoded><![CDATA[<p>There's an estimated $195 billion of medical debt in America. But just because a medical bill comes in the mail doesn't mean you have to pay that exact price.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5574356' />]]></content:encoded>
+      <dc:creator>Marielle Segarra</dc:creator>
     </item>
   </channel>
 </rss>
