@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 22:38:57 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 08:24:01 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Trump is leaning into his crackdown on city crime. The GOP sees it as a winning issue</title>
+      <description>While previous deployments to Democratic-led cities have largely led to protests and lawsuits, Trump is banking on the moves helping him and Republicans, especially in next year&apos;s midterms.</description>
+      <pubDate>Sun, 02 Nov 2025 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2025/11/02/nx-s1-5588904/trump-national-guard</link>
+      <guid>https://www.npr.org/2025/11/02/nx-s1-5588904/trump-national-guard</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7279x4853+0+0/resize/7279x4853!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2Ff2%2Fbbc7c70f489c9d6bbd30220df6a3%2Fgettyimages-2239319384-1.jpg' alt='Members of the National Guard walk past the Department of Agriculture headquarters building on Oct. 7 in Washington, D.C.'/><p>While previous deployments to Democratic-led cities have largely led to protests and lawsuits, Trump is banking on the moves helping him and Republicans, especially in next year's midterms.</p><p>(Image credit: Andrew Caballero-Reynolds)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5588904' />]]></content:encoded>
+      <dc:creator>Franco Ordoñez</dc:creator>
+    </item>
     <item>
       <title>Hidden passage of emperors opened at the Colosseum</title>
       <description>Visitors to the Colosseum in Rome can now walk through a tunnel that even in Roman times was exclusively reserved for emperors</description>
@@ -30,15 +39,6 @@
       <guid>https://www.npr.org/2025/11/01/nx-s1-5568000/author-of-the-second-estate-argues-that-americas-tax-code-has-created-a-new-aristocracy</guid>
       <content:encoded><![CDATA[<p>In her book The Second Estate, Ray Madoff explains how the U.S. tax system lets the ultra-rich grow their wealth tax-free while working Americans bear the burden.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5568000' />]]></content:encoded>
       <dc:creator>Sacha Pfeiffer</dc:creator>
-    </item>
-    <item>
-      <title>The politics behind President Trump&apos;s plan to send troops to U.S. cities</title>
-      <description>President Trump and the GOP are hoping that sending troops to US cities will be a winning strategy for the midterm elections.</description>
-      <pubDate>Sat, 01 Nov 2025 17:49:10 -0400</pubDate>
-      <link>https://www.npr.org/2025/11/01/nx-s1-5588904/the-politics-behind-president-trumps-plan-to-send-troops-to-u-s-cities</link>
-      <guid>https://www.npr.org/2025/11/01/nx-s1-5588904/the-politics-behind-president-trumps-plan-to-send-troops-to-u-s-cities</guid>
-      <content:encoded><![CDATA[<p>President Trump and the GOP are hoping that sending troops to US cities will be a winning strategy for the midterm elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5588904' />]]></content:encoded>
-      <dc:creator>Franco Ordoñez</dc:creator>
     </item>
     <item>
       <title>How the time change could help teens rest</title>
