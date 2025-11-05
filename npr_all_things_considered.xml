@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 21:39:20 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 08:30:09 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Zohran Mamdani will be the next mayor of New York City</title>
+      <description>The 34-year-old, Ugandan-born democratic socialist defeated former New York Gov. Andrew Cuomo, who ran as an Independent, in Tuesday&apos;s election, according to a race call by the Associated Press.</description>
+      <pubDate>Tue, 04 Nov 2025 23:39:38 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/04/nx-s1-5598399/zohran-mamdani-will-be-the-next-mayor-of-new-york-city</link>
+      <guid>https://www.npr.org/2025/11/04/nx-s1-5598399/zohran-mamdani-will-be-the-next-mayor-of-new-york-city</guid>
+      <content:encoded><![CDATA[<p>The 34-year-old, Ugandan-born democratic socialist defeated former New York Gov. Andrew Cuomo, who ran as an Independent, in Tuesday's election, according to a race call by the Associated Press.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5598399' />]]></content:encoded>
+      <dc:creator>Brian Mann</dc:creator>
+    </item>
     <item>
       <title>Pentagon pilot program trains students to be future federal workers</title>
       <description>Between DOGE and the government shutdown, it&apos;s a tough time to be a federal worker. But students in a Pentagon-funded pilot program are excited about working for the government.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/11/04/nx-s1-5598300/dick-cheneys-legacy-in-iraq</guid>
       <content:encoded><![CDATA[<p>Dick Cheney is often described as the chief architect of the Iraq war. In Iraq, he's better remembered as a key figure behind the destruction of the country.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5598300' />]]></content:encoded>
       <dc:creator>Jane Arraf</dc:creator>
-    </item>
-    <item>
-      <title>Air traffic controllers feeling the pinch of the government shutdown</title>
-      <description>The government shutdown is taking a growing toll on air traffic controllers who are working without pay. Staffing shortages led to big delays over the weekend, raising concerns about holiday travel.</description>
-      <pubDate>Tue, 04 Nov 2025 16:02:10 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown</link>
-      <guid>https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown</guid>
-      <content:encoded><![CDATA[<p>The government shutdown is taking a growing toll on air traffic controllers who are working without pay. Staffing shortages led to big delays over the weekend, raising concerns about holiday travel.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5596204' />]]></content:encoded>
-      <dc:creator>Joel Rose</dc:creator>
     </item>
   </channel>
 </rss>
