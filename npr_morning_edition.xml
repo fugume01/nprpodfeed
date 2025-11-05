@@ -7,12 +7,30 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 08:33:39 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 21:33:10 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Former Vice President Dick Cheney&apos;s biographer speaks about his legacy</title>
+      <description>NPR&apos;s Steve Inskeep speaks with Barton Gellman, author of &quot;Angler: The Cheney Vice Presidency,&quot; about the legacy of late Vice President Dick Cheney.</description>
+      <pubDate>Tue, 04 Nov 2025 10:59:26 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/04/nx-s1-5597907/former-vice-president-dick-cheneys-biographer-speaks-about-his-legacy</link>
+      <guid>https://www.npr.org/2025/11/04/nx-s1-5597907/former-vice-president-dick-cheneys-biographer-speaks-about-his-legacy</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep speaks with Barton Gellman, author of "Angler: The Cheney Vice Presidency," about the legacy of late Vice President Dick Cheney.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5597907' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
+    <item>
+      <title>Jonah Goldberg remembers former Vice President Dick Cheney</title>
+      <description>NPR&apos;s Steve Inskeep speaks with Jonah Goldberg, editor of The Dispatch, about former Vice President Dick Cheney who died Monday at 84.</description>
+      <pubDate>Tue, 04 Nov 2025 08:46:44 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/04/nx-s1-5597830/jonah-goldberg-remembers-former-vice-president-dick-cheney</link>
+      <guid>https://www.npr.org/2025/11/04/nx-s1-5597830/jonah-goldberg-remembers-former-vice-president-dick-cheney</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep speaks with Jonah Goldberg, editor of The Dispatch, about former Vice President Dick Cheney who died Monday at 84.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5597830' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
     <item>
       <title>Dick Cheney, one of the most powerful vice presidents in American history, dies at 84</title>
       <description>Cheney, who extolled the power of the presidency, died Monday, according to a statement from his family. The cause was complications of pneumonia and cardiac and vascular disease.</description>
@@ -84,24 +102,6 @@
       <guid>https://www.npr.org/2025/11/04/nx-s1-5581520/pentagon-pilot-program-trains-students-to-be-future-federal-workers</guid>
       <content:encoded><![CDATA[<p>Between DOGE and the government shutdown, it's a tough time to be a federal worker. But students in a Pentagon-funded pilot program are excited about working for the government.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5581520' />]]></content:encoded>
       <dc:creator>Jay Price</dc:creator>
-    </item>
-    <item>
-      <title>Researchers uncover security gap while studying satellite communications</title>
-      <description>A team of academics studying satellites accidentally intercepted phone calls, texts and other sensitive communications. They were able to intercept the data with just a satellite dish on the roof.</description>
-      <pubDate>Tue, 04 Nov 2025 04:41:07 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/04/nx-s1-5588502/researchers-uncover-security-gap-while-studying-satellite-communications</link>
-      <guid>https://www.npr.org/2025/11/04/nx-s1-5588502/researchers-uncover-security-gap-while-studying-satellite-communications</guid>
-      <content:encoded><![CDATA[<p>A team of academics studying satellites accidentally intercepted phone calls, texts and other sensitive communications. They were able to intercept the data with just a satellite dish on the roof.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5588502' />]]></content:encoded>
-      <dc:creator>Jenna McLaughlin</dc:creator>
-    </item>
-    <item>
-      <title>Tibetan refugees once flocked to Dharamshala. But now that&apos;s changing</title>
-      <description>For decades, Tibetans built a capital-in-exile in Dharamshala in India, and they sent their kids to a school founded by the Dalai Lama. But their numbers are now decreasing.</description>
-      <pubDate>Tue, 04 Nov 2025 04:40:57 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/04/nx-s1-5544351/tibetan-refugees-once-flocked-to-dharamshala-but-now-thats-changing</link>
-      <guid>https://www.npr.org/2025/11/04/nx-s1-5544351/tibetan-refugees-once-flocked-to-dharamshala-but-now-thats-changing</guid>
-      <content:encoded><![CDATA[<p>For decades, Tibetans built a capital-in-exile in Dharamshala in India, and they sent their kids to a school founded by the Dalai Lama. But their numbers are now decreasing.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5544351' />]]></content:encoded>
-      <dc:creator>Diaa Hadid</dc:creator>
     </item>
   </channel>
 </rss>
