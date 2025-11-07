@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 08:30:29 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 21:38:35 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Former House Speaker Nancy Pelosi says she won&apos;t seek reelection</title>
+      <description>The 85-year-old California Democrat&apos;s departure will mark the end of an era in Congress. In 2007, Pelosi became the first woman elected to serve as U.S. House speaker.</description>
+      <pubDate>Thu, 06 Nov 2025 09:47:04 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/06/nx-s1-5600094/former-house-speaker-nancy-pelosi-says-she-wont-seek-reelection</link>
+      <guid>https://www.npr.org/2025/11/06/nx-s1-5600094/former-house-speaker-nancy-pelosi-says-she-wont-seek-reelection</guid>
+      <content:encoded><![CDATA[<p>The 85-year-old California Democrat's departure will mark the end of an era in Congress. In 2007, Pelosi became the first woman elected to serve as U.S. House speaker.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5600094' />]]></content:encoded>
+      <dc:creator>Scott Shafer</dc:creator>
+    </item>
     <item>
       <title>Democrats&apos; big wins send mixed signals to Senate on how to end the shutdown</title>
       <description>Democrats won big in key elections this week. But rather than provide clarity, those victories have sent competing signals to lawmakers in the Senate about how to end the ongoing government shutdown.</description>
@@ -32,15 +41,6 @@
       <dc:creator>Leila Fadel</dc:creator>
     </item>
     <item>
-      <title>Is your electric bill going up? AI is partly to blame</title>
-      <description>Across the country, demand for electricity is on the rise — and so is the price of electric power. </description>
-      <pubDate>Thu, 06 Nov 2025 05:00:00 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai</link>
-      <guid>https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F9b%2F3517d5ed49fea5d530213006377b%2Fcost-of-living-electricity.jpg' alt='Since February 2020, electricity prices have jumped 40%, according to the Bureau of Labor Statistics.'/><p>Across the country, demand for electricity is on the rise — and so is the price of electric power. </p><p>(Image credit: Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5597971' />]]></content:encoded>
-      <dc:creator>Scott Horsley</dc:creator>
-    </item>
-    <item>
       <title>How would the government shutdown affect Thanksgiving travel? Here&apos;s what to know</title>
       <description>Holiday travel can already be stressful. Here&apos;s how a prolonged government shutdown might make things even harder and whether you should travel at all.</description>
       <pubDate>Thu, 06 Nov 2025 05:00:00 -0500</pubDate>
@@ -48,6 +48,15 @@
       <guid>https://www.npr.org/2025/11/06/nx-s1-5599582/government-shutdown-airport-thanksgiving-travel</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2518x1729+0+0/resize/2518x1729!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F10%2F38588113403d829c89305204dfbd%2Fgettyimages-1230028671.jpg' alt='The Federal Aviation Administration will reduce air traffic by 10% at many busy airports, the agency said Wednesday.'/><p>Holiday travel can already be stressful. Here's how a prolonged government shutdown might make things even harder and whether you should travel at all.</p><p>(Image credit: Silvio Avila)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5599582' />]]></content:encoded>
       <dc:creator>Juliana Kim</dc:creator>
+    </item>
+    <item>
+      <title>Is your electric bill going up? AI is partly to blame</title>
+      <description>Across the country, demand for electricity is on the rise — and so is the price of electric power. </description>
+      <pubDate>Thu, 06 Nov 2025 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai</link>
+      <guid>https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F9b%2F3517d5ed49fea5d530213006377b%2Fcost-of-living-electricity.jpg' alt='Since February 2020, electricity prices have jumped 40%, according to the Bureau of Labor Statistics.'/><p>Across the country, demand for electricity is on the rise — and so is the price of electric power. </p><p>(Image credit: Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5597971' />]]></content:encoded>
+      <dc:creator>Scott Horsley</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -60,11 +69,11 @@
     </item>
     <item>
       <title>Your credit history could be costing you more to drive</title>
-      <description>Credit history can play a big part in car insurance costs. NPR found the difference between a good driver with poor credit and one with excellent credit can be thousands of dollars a year.</description>
+      <description>Auto insurance companies often use credit history as a factor in setting premiums</description>
       <pubDate>Thu, 06 Nov 2025 04:46:23 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/06/nx-s1-5397184/your-credit-history-could-be-costing-you-more-to-drive</link>
-      <guid>https://www.npr.org/2025/11/06/nx-s1-5397184/your-credit-history-could-be-costing-you-more-to-drive</guid>
-      <content:encoded><![CDATA[<p>Credit history can play a big part in car insurance costs. NPR found the difference between a good driver with poor credit and one with excellent credit can be thousands of dollars a year.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5397184' />]]></content:encoded>
+      <link>https://www.npr.org/2025/11/05/nx-s1-5397184/auto-insurance-credit-history-cost</link>
+      <guid>https://www.npr.org/2025/11/05/nx-s1-5397184/auto-insurance-credit-history-cost</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x6336+0+0/resize/9504x6336!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F35%2F2846a65c4afc9b1e6127244b2f54%2Falexis-blake-02941.jpg' alt='Medical student Alexis Blake paid for her car in cash, has no credit cards and went to college on scholarship. Her car insurance rates were increasing by hundreds of dollars per year. She researched whether her non-existent credit rating was the issue.'/><p>Auto insurance companies often use credit history as a factor in setting premiums</p><p>(Image credit: Sofia Valiente for NPR)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5397184' />]]></content:encoded>
       <dc:creator>Robert Benincasa</dc:creator>
     </item>
     <item>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/11/06/nx-s1-5596490/with-social-safety-nets-cut-americans-in-rural-areas-look-for-ways-to-cope</guid>
       <content:encoded><![CDATA[<p>Millions of Americans rely on federal subsidies and programs to make ends meet. But the shutdown and other cuts have them looking elsewhere for help. Here's how residents in rural New York are coping.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5596490' />]]></content:encoded>
       <dc:creator>Emily Russell</dc:creator>
-    </item>
-    <item>
-      <title>Wikipedia is facing attacks from the White House and Musk. Its founder isn&apos;t worried</title>
-      <description>The White House has threatened Wikipedia&apos;s non-profit status, and Elon Musk has called for it to be defunded. NPR&apos;s Bobby Allyn speaks with Wikipedia founder Jimmy Wales about the attacks.</description>
-      <pubDate>Thu, 06 Nov 2025 04:45:40 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/06/nx-s1-5599555/wikipedia-is-facing-attacks-from-the-white-house-and-musk-its-founder-isnt-worried</link>
-      <guid>https://www.npr.org/2025/11/06/nx-s1-5599555/wikipedia-is-facing-attacks-from-the-white-house-and-musk-its-founder-isnt-worried</guid>
-      <content:encoded><![CDATA[<p>The White House has threatened Wikipedia's non-profit status, and Elon Musk has called for it to be defunded. NPR's Bobby Allyn speaks with Wikipedia founder Jimmy Wales about the attacks.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5599555' />]]></content:encoded>
-      <dc:creator>Bobby Allyn</dc:creator>
     </item>
   </channel>
 </rss>
