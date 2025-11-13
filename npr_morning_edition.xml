@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 08:28:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 21:36:53 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>White House downplays new Epstein emails that mention Trump</title>
+      <description>The House Oversight Committee has released a new tranche of documents, including several emails from the estate of convicted sex offender Jeffrey Epstein that refer to President Trump.</description>
+      <pubDate>Wed, 12 Nov 2025 08:30:00 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie</link>
+      <guid>https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5751x3834+0+0/resize/5751x3834!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F84%2F685306ef458596cafbdda271be02%2Fgettyimages-1178185854.jpg' alt='President Trump's name appears in convicted sex offender Jeffrey Epstein's correspondence released Wednesday by Democrats on the House Oversight Committee.'/><p>The House Oversight Committee has released a new tranche of documents, including several emails from the estate of convicted sex offender Jeffrey Epstein that refer to President Trump.</p><p>(Image credit: Chip Somodevilla)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5605582' />]]></content:encoded>
+      <dc:creator>Stephen Fowler</dc:creator>
+    </item>
     <item>
       <title>House set to vote on bill to end the longest shutdown as Democrats remain divided</title>
       <description>The House may vote as early as Wednesday afternoon on a measure that will end the longest government shutdown in U.S. history, but Democrats remain deeply divided about whether to support it.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/11/12/nx-s1-5605588/iraq-votes-for-new-parliament-amid-u-s-pressure-to-counter-irans-influence</guid>
       <content:encoded><![CDATA[<p>Iraqis are awaiting the preliminary results of Tuesday's election for a new parliament, as Washington watches closely and pressures Iraq's government to curb neighboring Iran's influence.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5605588' />]]></content:encoded>
       <dc:creator>Jane Arraf</dc:creator>
-    </item>
-    <item>
-      <title>Pittsburgh school opens food pantry to support students who rely on SNAP benefits</title>
-      <description>A school food pantry in Pittsburgh aims to help fill the gap for families whose SNAP benefits have been disrupted by the shutdown.</description>
-      <pubDate>Wed, 12 Nov 2025 04:43:06 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/12/nx-s1-5598314/pittsburgh-school-opens-food-pantry-to-support-students-who-rely-on-snap-benefits</link>
-      <guid>https://www.npr.org/2025/11/12/nx-s1-5598314/pittsburgh-school-opens-food-pantry-to-support-students-who-rely-on-snap-benefits</guid>
-      <content:encoded><![CDATA[<p>A school food pantry in Pittsburgh aims to help fill the gap for families whose SNAP benefits have been disrupted by the shutdown.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5598314' />]]></content:encoded>
-      <dc:creator>Jillian Forstadt</dc:creator>
     </item>
   </channel>
 </rss>
