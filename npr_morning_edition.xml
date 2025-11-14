@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 08:33:54 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 21:36:33 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -97,12 +97,12 @@
       <dc:creator>Paddy Hirsch</dc:creator>
     </item>
     <item>
-      <title>Plants in NYC park &apos;compose&apos; album using electrical signals for &apos;secret symphony&apos;</title>
-      <description>Plants growing at a New York park composed the new album, &quot;The Secret Symphony of Plants.&quot; Electrodes captured electrical signals and became the basis for the music.</description>
+      <title>Plants at western New York park form &apos;secret symphony&apos; through bioelectrical signals</title>
+      <description>The bioelectrical signals of plants growing at a park in Lewiston, N.Y., near Niagara Falls, were translated into instrumental and electronic works for the new album &lt;em&gt;The Secret Symphony of Plants&lt;/em&gt;.</description>
       <pubDate>Thu, 13 Nov 2025 04:52:41 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/13/nx-s1-5588498/plants-in-nyc-park-compose-album-using-electrical-signals-for-secret-symphony</link>
-      <guid>https://www.npr.org/2025/11/13/nx-s1-5588498/plants-in-nyc-park-compose-album-using-electrical-signals-for-secret-symphony</guid>
-      <content:encoded><![CDATA[<p>Plants growing at a New York park composed the new album, "The Secret Symphony of Plants." Electrodes captured electrical signals and became the basis for the music.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5588498' />]]></content:encoded>
+      <link>https://www.npr.org/2025/11/13/nx-s1-5588498/music-plants-artpark-lewiston-new-york</link>
+      <guid>https://www.npr.org/2025/11/13/nx-s1-5588498/music-plants-artpark-lewiston-new-york</guid>
+      <content:encoded><![CDATA[<p>The bioelectrical signals of plants growing at a park in Lewiston, N.Y., near Niagara Falls, were translated into instrumental and electronic works for the new album <em>The Secret Symphony of Plants</em>.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5588498' />]]></content:encoded>
       <dc:creator>A Martínez</dc:creator>
     </item>
   </channel>
