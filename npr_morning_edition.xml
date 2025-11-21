@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 08:27:20 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 21:38:33 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,15 +41,6 @@
       <dc:creator>Nathan Rott</dc:creator>
     </item>
     <item>
-      <title>September jobs report arrives today, almost 7 weeks behind schedule</title>
-      <description>The Labor Department will report on hiring and unemployment. The report, which was delayed by a government shutdown, is somewhat stale but could offer clues about the strength or weakness of the job market. </description>
-      <pubDate>Thu, 20 Nov 2025 05:00:00 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/20/nx-s1-5611418/september-jobs-report-arrives-today-almost-seven-weeks-behind-schedule</link>
-      <guid>https://www.npr.org/2025/11/20/nx-s1-5611418/september-jobs-report-arrives-today-almost-seven-weeks-behind-schedule</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2932+0+0/resize/4800x2932!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fb1%2F5e89263e4c21b16d2260aadbcb00%2Fgettyimages-2229199310.jpg' alt='Hiring slowed over the summer. A report from the Labor Department on Thursday will show whether that trend continued in September.'/><p>The Labor Department will report on hiring and unemployment. The report, which was delayed by a government shutdown, is somewhat stale but could offer clues about the strength or weakness of the job market. </p><p>(Image credit: Frederic J. Brown)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5611418' />]]></content:encoded>
-      <dc:creator>Scott Horsley</dc:creator>
-    </item>
-    <item>
       <title>The latest Epstein emails reveal the powerful people who sought his counsel</title>
       <description>The latest emails from Jeffrey Epstein&apos;s estate show communications with a vast web of influential figures in politics, academia, business and more, even after he registered as a sex offender.</description>
       <pubDate>Thu, 20 Nov 2025 05:00:00 -0500</pubDate>
@@ -57,6 +48,15 @@
       <guid>https://www.npr.org/2025/11/20/nx-s1-5613427/epstein-files-chomsky-bannon-summers-democrats</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7099x4735+0+0/resize/7099x4735!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2Fd0%2Fe7a10d0b4cc79cdc791e485d6957%2Fgettyimages-2232850416.jpg' alt='During an anti-Trump protest outside the White House in Washington, D.C., on Sept. 2, demonstrators set up file boxes to represent the Epstein files. On Wednesday, President Trump signed the legislation directing the Department of Justice to release those files.'/><p>The latest emails from Jeffrey Epstein's estate show communications with a vast web of influential figures in politics, academia, business and more, even after he registered as a sex offender.</p><p>(Image credit: Mehmet Eser)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5613427' />]]></content:encoded>
       <dc:creator>Stephen Fowler</dc:creator>
+    </item>
+    <item>
+      <title>Overdue jobs report shows employers added 119,000 jobs in September</title>
+      <description>U.S. employers added 119,000 jobs in September, while the unemployment rate inched up to 4.4%. The report, which was delayed by the government shutdown, may hint at the pace of hiring and firing.</description>
+      <pubDate>Thu, 20 Nov 2025 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/20/nx-s1-5611418/september-jobs-report-arrives-today-almost-seven-weeks-behind-schedule</link>
+      <guid>https://www.npr.org/2025/11/20/nx-s1-5611418/september-jobs-report-arrives-today-almost-seven-weeks-behind-schedule</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2932+0+0/resize/4800x2932!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fb1%2F5e89263e4c21b16d2260aadbcb00%2Fgettyimages-2229199310.jpg' alt='Hiring picked up in the early fall after a lackluster summer. A report from the Labor Department on Thursday shows employers added 119,000 jobs in September.'/><p>U.S. employers added 119,000 jobs in September, while the unemployment rate inched up to 4.4%. The report, which was delayed by the government shutdown, may hint at the pace of hiring and firing.</p><p>(Image credit: Frederic J. Brown)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5611418' />]]></content:encoded>
+      <dc:creator>Scott Horsley</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -69,11 +69,11 @@
     </item>
     <item>
       <title>Food banks, already strained, brace for prolonged demand</title>
-      <description>Now that SNAP food aid is flowing again, needy families are feeling relief. The same can&apos;t be said of many food banks and pantries. They&apos;re still feeling the strain because demand has yet to let up.</description>
+      <description>Even as SNAP benefits are restored,  food banks and pantries around the nation continue to feel the strain with no reprieve in sight. </description>
       <pubDate>Thu, 20 Nov 2025 04:52:05 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/20/nx-s1-5607236/food-banks-already-strained-brace-for-prolonged-demand</link>
-      <guid>https://www.npr.org/2025/11/20/nx-s1-5607236/food-banks-already-strained-brace-for-prolonged-demand</guid>
-      <content:encoded><![CDATA[<p>Now that SNAP food aid is flowing again, needy families are feeling relief. The same can't be said of many food banks and pantries. They're still feeling the strain because demand has yet to let up.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5607236' />]]></content:encoded>
+      <link>https://www.npr.org/2025/11/19/nx-s1-5607236/food-banks-brace-for-prolonged-demand</link>
+      <guid>https://www.npr.org/2025/11/19/nx-s1-5607236/food-banks-brace-for-prolonged-demand</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fe8%2F0e786dee426b87d09bb143609fbf%2F20251113-food-bank-snap-tovia-smith-0501.jpg' alt='Richard Green (l) director of the Saint Matthew's Pantry in the Dorchester neighborhood of Boston, and fellow volunteers load peanut butter into their truck from the Greater Boston Food Bank.'/><p>Even as SNAP benefits are restored,  food banks and pantries around the nation continue to feel the strain with no reprieve in sight. </p><p>(Image credit: Tovia Smith)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5607236' />]]></content:encoded>
       <dc:creator>Tovia Smith</dc:creator>
     </item>
     <item>
@@ -95,12 +95,12 @@
       <dc:creator>Carrie Kahn</dc:creator>
     </item>
     <item>
-      <title>Two senators want to hold big tech accountable for harm caused by their algorithms</title>
+      <title>2 Senators want to hold big tech accountable for harms caused by algorithms</title>
       <description>Sens. Mark Kelly, D-Ariz.,and John Curtis, R-Utah, want to hold social media companies accountable for the negative impacts their algorithms have on people. They spoke to NPR about their bill.</description>
       <pubDate>Thu, 20 Nov 2025 04:51:39 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/20/nx-s1-5612042/two-senators-want-to-hold-big-tech-accountable-for-harm-caused-by-their-algorithms</link>
-      <guid>https://www.npr.org/2025/11/20/nx-s1-5612042/two-senators-want-to-hold-big-tech-accountable-for-harm-caused-by-their-algorithms</guid>
-      <content:encoded><![CDATA[<p>Sens. Mark Kelly, D-Ariz.,and John Curtis, R-Utah, want to hold social media companies accountable for the negative impacts their algorithms have on people. They spoke to NPR about their bill.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5612042' />]]></content:encoded>
+      <link>https://www.npr.org/2025/11/19/nx-s1-5612042/social-media-algorithm-accountability</link>
+      <guid>https://www.npr.org/2025/11/19/nx-s1-5612042/social-media-algorithm-accountability</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F4a%2F19fa64494528820a79c24dcb48d4%2F111825-mark-kellyand-john-curtis-43.jpg' alt='(From left) Sens. John Curtis, R-Utah, and Mark Kelly, D-Ariz., discuss their joint effort to hold big tech accountable for harms caused by social media algorithms with NPR's Steve Inskeep on Nov. 18.'/><p>Sens. Mark Kelly, D-Ariz.,and John Curtis, R-Utah, want to hold social media companies accountable for the negative impacts their algorithms have on people. They spoke to NPR about their bill.</p><p>(Image credit: Zayrha Rodriguez)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5612042' />]]></content:encoded>
       <dc:creator>Steve Inskeep</dc:creator>
     </item>
   </channel>
