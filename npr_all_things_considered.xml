@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 21:35:02 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 08:30:21 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>President Trump makes a statement about the National Guard shooting in D.C.</title>
+      <description>President Trump addresses the shooting of two National Guard members in Washington, D.C. The shooting happened just a few blocks from the White House.</description>
+      <pubDate>Wed, 26 Nov 2025 21:35:55 -0500</pubDate>
+      <link>https://www.npr.org/2025/11/26/nx-s1-5622166/president-trump-makes-a-statement-about-the-national-guard-shooting-in-d-c</link>
+      <guid>https://www.npr.org/2025/11/26/nx-s1-5622166/president-trump-makes-a-statement-about-the-national-guard-shooting-in-d-c</guid>
+      <content:encoded><![CDATA[<p>President Trump addresses the shooting of two National Guard members in Washington, D.C. The shooting happened just a few blocks from the White House.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5622166' />]]></content:encoded>
+      <dc:creator>Ailsa Chang</dc:creator>
+    </item>
     <item>
       <title>Remembering Susan Stamberg and the holiday recipe she shared with listeners</title>
       <description>This Thanksgiving season, we remember Susan Stamberg, one of NPR&apos;s &quot;founding mothers,&quot; who died this year. For decades, she shared a family recipe for cranberry relish with listeners.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/11/26/nx-s1-5616655/historic-murals-inside-a-d-c-federal-building-may-face-an-uncertain-future</guid>
       <content:encoded><![CDATA[<p>NPR's Ailsa Chang speaks to art historian Mary Okin about the significance and uncertain future of the historic murals painted inside the Wilbur J. Cohen Federal Building in Washington, D.C.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616655' />]]></content:encoded>
       <dc:creator>Matt Ozug</dc:creator>
-    </item>
-    <item>
-      <title>Pope Leo visits Turkey</title>
-      <description>The visit to Turkey and then Lebanon will be the first U.S. pope&apos;s first foreign trip.</description>
-      <pubDate>Wed, 26 Nov 2025 16:05:38 -0500</pubDate>
-      <link>https://www.npr.org/2025/11/26/nx-s1-5616461/pope-leo-visits-turkey</link>
-      <guid>https://www.npr.org/2025/11/26/nx-s1-5616461/pope-leo-visits-turkey</guid>
-      <content:encoded><![CDATA[<p>The visit to Turkey and then Lebanon will be the first U.S. pope's first foreign trip.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616461' />]]></content:encoded>
-      <dc:creator>Durrie Bouscaren</dc:creator>
     </item>
   </channel>
 </rss>
