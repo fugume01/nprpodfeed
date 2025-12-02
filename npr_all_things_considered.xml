@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 21:38:26 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:29:07 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
@@ -30,6 +30,15 @@
       <guid>https://www.npr.org/2025/12/01/nx-s1-5599093/this-organization-is-trying-to-use-ai-to-reshape-american-politics</guid>
       <content:encoded><![CDATA[<p>Using artificial intelligence to identify congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5599093' />]]></content:encoded>
       <dc:creator>Barbara Sprunt</dc:creator>
+    </item>
+    <item>
+      <title>What a political birthrate divide could mean for the future</title>
+      <description>Several studies suggest that people in red states have more babies than those in blue states. A new report from a conservative-leaning group says that could have implications for politics and culture.</description>
+      <pubDate>Mon, 01 Dec 2025 17:49:50 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/01/nx-s1-5620773/what-a-political-birthrate-divide-could-mean-for-the-future</link>
+      <guid>https://www.npr.org/2025/12/01/nx-s1-5620773/what-a-political-birthrate-divide-could-mean-for-the-future</guid>
+      <content:encoded><![CDATA[<p>Several studies suggest that people in red states have more babies than those in blue states. A new report from a conservative-leaning group says that could have implications for politics and culture.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5620773' />]]></content:encoded>
+      <dc:creator>Sarah McCammon</dc:creator>
     </item>
     <item>
       <title>This man serenades tourists in a Boston park with a taste of their homeland</title>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/12/01/nx-s1-5619764/months-of-tumult-and-waves-of-staff-cuts-take-a-toll-on-the-cdc</guid>
       <content:encoded><![CDATA[<p>After losing thousands of staffers and facing attacks this year, the Centers for Disease Control and Prevention is hampered in its ability to protect the public from health problems and emergencies.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5619764' />]]></content:encoded>
       <dc:creator>Pien Huang</dc:creator>
-    </item>
-    <item>
-      <title>As FBI investigation continues, the search for clues in National Guard shooting</title>
-      <description>As the FBI continues it&apos;s investigation in the shooting of two National Guard members last week, the shooting suspect&apos;s time in a CIA-backed unit in his native Afghanistan may provide some clues.</description>
-      <pubDate>Mon, 01 Dec 2025 17:21:06 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/01/nx-s1-5626871/as-fbi-investigation-continues-the-search-for-clues-in-national-guard-shooting</link>
-      <guid>https://www.npr.org/2025/12/01/nx-s1-5626871/as-fbi-investigation-continues-the-search-for-clues-in-national-guard-shooting</guid>
-      <content:encoded><![CDATA[<p>As the FBI continues it's investigation in the shooting of two National Guard members last week, the shooting suspect's time in a CIA-backed unit in his native Afghanistan may provide some clues.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5626871' />]]></content:encoded>
-      <dc:creator>Tom Bowman</dc:creator>
     </item>
   </channel>
 </rss>
