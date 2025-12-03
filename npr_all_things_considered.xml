@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 21:46:59 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:34:22 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>A bitter dispute between China and Japan has moved to the cultural front</title>
+      <description>A bitter dispute between East Asia&apos;s biggest powers, China and Japan, has moved to the cultural front. With both sides unwilling to back down, experts say it could be a protracted feud.</description>
+      <pubDate>Tue, 02 Dec 2025 18:10:26 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/02/nx-s1-5626736/a-bitter-dispute-between-china-and-japan-has-moved-to-the-cultural-front</link>
+      <guid>https://www.npr.org/2025/12/02/nx-s1-5626736/a-bitter-dispute-between-china-and-japan-has-moved-to-the-cultural-front</guid>
+      <content:encoded><![CDATA[<p>A bitter dispute between East Asia's biggest powers, China and Japan, has moved to the cultural front. With both sides unwilling to back down, experts say it could be a protracted feud.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5626736' />]]></content:encoded>
+      <dc:creator>Anthony Kuhn</dc:creator>
+    </item>
     <item>
       <title>The Trump administration fires at least 7 immigration judges in New York</title>
       <description>The Trump administration fired immigration judges in New York on Monday. NPR&apos;s Ailsa Chang speaks with Jeremiah Johnson Executive Vice President of the National Association of Immigration Judges.</description>
@@ -92,15 +101,6 @@
       <guid>https://www.npr.org/2025/12/02/nx-s1-5628423/serious-questions-remain-about-september-strike-on-suspected-drug-traffickers</guid>
       <content:encoded><![CDATA[<p>Pentagon chief Pete Hegseth defends his role in a military strike against suspected drug traffickers in the Carribbean. Members of Congress are demanding more answers.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5628423' />]]></content:encoded>
       <dc:creator>Greg Myre</dc:creator>
-    </item>
-    <item>
-      <title>Denver bison herd helps Indigenous residents connect with their heritage</title>
-      <description>Since 1914, Denver, Colorado, has maintained a small bison herd in a park outside the city. In recent years, an Indigenous group has slaughtered one annually to feed urban Native people.</description>
-      <pubDate>Tue, 02 Dec 2025 17:12:47 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/02/nx-s1-5606049-e1/denver-bison-herd-helps-indigenous-residents-connect-with-their-heritage</link>
-      <guid>https://www.npr.org/2025/12/02/nx-s1-5606049-e1/denver-bison-herd-helps-indigenous-residents-connect-with-their-heritage</guid>
-      <content:encoded><![CDATA[<p>Since 1914, Denver, Colorado, has maintained a small bison herd in a park outside the city. In recent years, an Indigenous group has slaughtered one annually to feed urban Native people.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5606049-e1' />]]></content:encoded>
-      <dc:creator>Sam Brasch</dc:creator>
     </item>
   </channel>
 </rss>
