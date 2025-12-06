@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 21:30:43 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 08:20:47 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>This week in Washington</title>
+      <description>It was a busy week in Washington, from foreign policy to Congressional redistricting and another special election. NPR&apos;s Domenico Montanaro and Tamara Keith break down the big news of the week.</description>
+      <pubDate>Fri, 05 Dec 2025 18:00:14 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/05/nx-s1-5633317/this-week-in-washington</link>
+      <guid>https://www.npr.org/2025/12/05/nx-s1-5633317/this-week-in-washington</guid>
+      <content:encoded><![CDATA[<p>It was a busy week in Washington, from foreign policy to Congressional redistricting and another special election. NPR's Domenico Montanaro and Tamara Keith break down the big news of the week.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5633317' />]]></content:encoded>
+      <dc:creator>Tamara Keith</dc:creator>
+    </item>
     <item>
       <title>The Michelin Guide honors three cheesesteak joints in Philadelphia</title>
       <description>Some Philadelphians are cheesed off at the Michelin restaurant ratings team for an honor bestowed on some local cheesesteak restaurants.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/12/05/nx-s1-5627483/the-immigration-crackdown-in-charlotte-seems-to-be-over-but-the-community-is-struggling</guid>
       <content:encoded><![CDATA[<p>The Border Patrol's aggressive immigration operation in Charlotte, N.C., took the city by surprise. It lasted about a week, but immigrants and other residents say their city won't ever be the same.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5627483' />]]></content:encoded>
       <dc:creator>Adrian Florido</dc:creator>
-    </item>
-    <item>
-      <title>A recap of the two-day meeting of vaccine advisers to the CDC</title>
-      <description>Vaccine advisers to the CDC took action on vaccination of newborns against hepatitis B and questioned the overall childhood vaccination schedule and ingredients that boost some vaccines&apos; potency.</description>
-      <pubDate>Fri, 05 Dec 2025 17:10:42 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/05/nx-s1-5629213/a-recap-of-the-two-day-meeting-of-vaccine-advisers-to-the-cdc</link>
-      <guid>https://www.npr.org/2025/12/05/nx-s1-5629213/a-recap-of-the-two-day-meeting-of-vaccine-advisers-to-the-cdc</guid>
-      <content:encoded><![CDATA[<p>Vaccine advisers to the CDC took action on vaccination of newborns against hepatitis B and questioned the overall childhood vaccination schedule and ingredients that boost some vaccines' potency.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5629213' />]]></content:encoded>
-      <dc:creator>Pien Huang</dc:creator>
     </item>
   </channel>
 </rss>
