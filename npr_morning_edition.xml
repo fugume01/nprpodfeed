@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 08:31:58 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 21:39:17 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Netflix strikes deal to buy Warner Bros. Discovery</title>
+      <description>The deal, valued at around $80 billion, would create an entertainment and streaming behemoth. CNN and other cable channels owned by Warner Bros. are not part of the deal and would be spun off.</description>
+      <pubDate>Fri, 05 Dec 2025 09:30:11 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/05/nx-s1-5634538/netflix-strikes-deal-to-buy-warner-bros-discovery</link>
+      <guid>https://www.npr.org/2025/12/05/nx-s1-5634538/netflix-strikes-deal-to-buy-warner-bros-discovery</guid>
+      <content:encoded><![CDATA[<p>The deal, valued at around $80 billion, would create an entertainment and streaming behemoth. CNN and other cable channels owned by Warner Bros. are not part of the deal and would be spun off.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5634538' />]]></content:encoded>
+      <dc:creator>David Folkenflik</dc:creator>
+    </item>
     <item>
       <title>Defense secretary under fire as lawmakers question admiral about deadly boat strikes</title>
       <description>Defense Secretary Pete Hegseth is under pressure this week as a Navy admiral faces tough questions from lawmakers about the legality of striking boats allegedly carrying drugs in the Caribbean.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/12/05/nx-s1-5630627/meta-is-building-a-massive-data-center-why-its-fueling-fears-of-an-ai-bubble</guid>
       <content:encoded><![CDATA[<p>In a rural pocket of northeastern Louisiana, Meta is building a $30 billion data center called Hyperion. The project highlights an opaque system of financing that's fueling fears of an AI bubble.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5630627' />]]></content:encoded>
       <dc:creator>Wailin Wong</dc:creator>
-    </item>
-    <item>
-      <title>China&apos;s pet economy is booming as more young people embrace pet parenthood</title>
-      <description>More young Chinese people increasingly see their pets as members of the family, and a robust industry servicing those pets -- including providing funerary services -- is flourishing.</description>
-      <pubDate>Fri, 05 Dec 2025 04:57:55 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/05/nx-s1-5619264/chinas-pet-economy-is-booming-as-more-young-people-embrace-pet-parenthood</link>
-      <guid>https://www.npr.org/2025/12/05/nx-s1-5619264/chinas-pet-economy-is-booming-as-more-young-people-embrace-pet-parenthood</guid>
-      <content:encoded><![CDATA[<p>More young Chinese people increasingly see their pets as members of the family, and a robust industry servicing those pets -- including providing funerary services -- is flourishing.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5619264' />]]></content:encoded>
-      <dc:creator>Emily Feng</dc:creator>
     </item>
   </channel>
 </rss>
