@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 08:31:02 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 21:50:14 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Miami&apos;s mayor-elect makes history as first woman to lead the city</title>
+      <description>Eileen Higgins is also the first Democrat in the position in nearly 30 years.</description>
+      <pubDate>Wed, 10 Dec 2025 11:40:29 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/10/nx-s1-5639774/miamis-mayor-elect-makes-history-as-first-woman-to-lead-the-city</link>
+      <guid>https://www.npr.org/2025/12/10/nx-s1-5639774/miamis-mayor-elect-makes-history-as-first-woman-to-lead-the-city</guid>
+      <content:encoded><![CDATA[<p>Eileen Higgins is also the first Democrat in the position in nearly 30 years.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5639774' />]]></content:encoded>
+      <dc:creator>Joshua Ceballos</dc:creator>
+    </item>
     <item>
       <title>Trump downplays concerns about high prices at Pennsylvania rally</title>
       <description>President Trump weaved through topics at a rally in Pennsylvania Tuesday night, calling affordability a Democratic &quot;hoax&quot; and sharing his grievances about immigrants.</description>
@@ -41,6 +50,15 @@
       <dc:creator>Elissa Nadworny </dc:creator>
     </item>
     <item>
+      <title>Afghan CIA fighters, like National Guard attack suspect, face stark reality in U.S.</title>
+      <description>The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. Among their ranks was Rahmanullah Lakanwal, the man charged with killing one National Guard soldier and seriously injuring a second after opening fire on them in Washington, D.C. on Thanksgiving Eve.</description>
+      <pubDate>Wed, 10 Dec 2025 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/10/nx-s1-5637440/afghan-zero-unit-lakanwal-national-guard</link>
+      <guid>https://www.npr.org/2025/12/10/nx-s1-5637440/afghan-zero-unit-lakanwal-national-guard</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/5500x3667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F75%2Ff79965964962a701b818ef6ea208%2F2025-11-27t150330z-1699417165-rc225ia0hdfo-rtrmadp-3-usa-shooting.JPG' alt='Pictures of National Guard members Andrew Wolfe and Sarah Beckstrom, who were shot on Nov. 26 in Washington, D.C., are displayed next to a picture of the suspect in the shooting, Afghan national Rahmanullah Lakanwal, on the day of a news conference in Washington, D.C., on Nov. 27.'/><p>The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. Among their ranks was Rahmanullah Lakanwal, the man charged with killing one National Guard soldier and seriously injuring a second after opening fire on them in Washington, D.C. on Thanksgiving Eve.</p><p>(Image credit: Nathan Howard)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5637440' />]]></content:encoded>
+      <dc:creator>Brian Mann</dc:creator>
+    </item>
+    <item>
       <title>Brett Cooper says she makes up her own mind —  about Trump and everything else</title>
       <description>NPR&apos;s Steve Inskeep asks conservative commentator Brett Cooper about her YouTube following, her recent criticisms of President Trump and her opinion of Nick Fuentes.</description>
       <pubDate>Wed, 10 Dec 2025 05:00:00 -0500</pubDate>
@@ -50,22 +68,13 @@
       <dc:creator>Steve Inskeep</dc:creator>
     </item>
     <item>
-      <title>A divided Fed is expected to cut rates for a 3rd straight time</title>
-      <description>The Fed is expected to lower its benchmark interest rate by a quarter percentage point — but with inflation stubbornly high and mixed signals from the job market, it could be a split decision.</description>
+      <title>A divided Federal Reserve cuts interest rates for a 3rd straight time</title>
+      <description>The Fed lowered its benchmark interest rate by a quarter percentage point, in an effort to shore up a weakening job market. With inflation remaining stubbornly high, it was not a slam dunk decision.  </description>
       <pubDate>Wed, 10 Dec 2025 05:00:00 -0500</pubDate>
       <link>https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs</link>
       <guid>https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5527x3684+0+0/resize/5527x3684!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F87%2F0a78b0c34edd8f5ee9f58e29c9c1%2Fgettyimages-2227770587.jpg' alt='Federal Reserve Chair Jerome Powell and his colleagues are expected to cut the Fed's benchmark interest rate by another quarter percentage point Wednesday.'/><p>The Fed is expected to lower its benchmark interest rate by a quarter percentage point — but with inflation stubbornly high and mixed signals from the job market, it could be a split decision.</p><p>(Image credit: Chip Somodevilla)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5633393' />]]></content:encoded>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5527x3684+0+0/resize/5527x3684!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2F87%2F0a78b0c34edd8f5ee9f58e29c9c1%2Fgettyimages-2227770587.jpg' alt='Federal Reserve Chair Jerome Powell and his colleagues cut the Fed's benchmark interest rate by another quarter percentage point Wednesday.'/><p>The Fed lowered its benchmark interest rate by a quarter percentage point, in an effort to shore up a weakening job market. With inflation remaining stubbornly high, it was not a slam dunk decision.  </p><p>(Image credit: Chip Somodevilla)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5633393' />]]></content:encoded>
       <dc:creator>Scott Horsley</dc:creator>
-    </item>
-    <item>
-      <title>Afghan CIA fighters, like National Guard attack suspect, face stark reality in U.S.</title>
-      <description>The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. Among their ranks was Rahmanullah Lakanwal, the man charged with killing one National Guard soldier and seriously injuring a second after opening fire on them in Washington, D.C. on Thanksgiving Eve.</description>
-      <pubDate>Wed, 10 Dec 2025 05:00:00 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/10/nx-s1-5637440/afghan-zero-unit-lakanwal-national-guard</link>
-      <guid>https://www.npr.org/2025/12/10/nx-s1-5637440/afghan-zero-unit-lakanwal-national-guard</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/5500x3667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F75%2Ff79965964962a701b818ef6ea208%2F2025-11-27t150330z-1699417165-rc225ia0hdfo-rtrmadp-3-usa-shooting.JPG' alt='Pictures of National Guard members Andrew Wolfe and Sarah Beckstrom, who were shot on Nov. 26 in Washington, D.C., are displayed next to a picture of the suspect in the shooting, Afghan national Rahmanullah Lakanwal, on the day of a news conference in Washington, D.C., on Nov. 27.'/><p>The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. Among their ranks was Rahmanullah Lakanwal, the man charged with killing one National Guard soldier and seriously injuring a second after opening fire on them in Washington, D.C. on Thanksgiving Eve.</p><p>(Image credit: Nathan Howard)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5637440' />]]></content:encoded>
-      <dc:creator>Brian Mann</dc:creator>
     </item>
     <item>
       <title>About a third of people arrested by ICE had no criminal record, new data shows</title>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2025/12/10/nx-s1-5639222/remembering-nprs-kevin-drew</guid>
       <content:encoded><![CDATA[<p>NPR remembers supervising editor Kevin Drew, an award-winning journalist and esteemed colleague, who passed away last weekend.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5639222' />]]></content:encoded>
       <dc:creator>Leila Fadel</dc:creator>
-    </item>
-    <item>
-      <title>Hamas signals willingness to disarm, but Israel may reject key condition</title>
-      <description>Hamas says it is willing to lay down its weapons after two years of war in Gaza, but Israel may not agree to its main condition.</description>
-      <pubDate>Wed, 10 Dec 2025 04:50:08 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/10/nx-s1-5638528/hamas-signals-willingness-to-disarm-but-israel-may-reject-key-condition</link>
-      <guid>https://www.npr.org/2025/12/10/nx-s1-5638528/hamas-signals-willingness-to-disarm-but-israel-may-reject-key-condition</guid>
-      <content:encoded><![CDATA[<p>Hamas says it is willing to lay down its weapons after two years of war in Gaza, but Israel may not agree to its main condition.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5638528' />]]></content:encoded>
-      <dc:creator>Daniel Estrin</dc:creator>
     </item>
   </channel>
 </rss>
