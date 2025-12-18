@@ -7,19 +7,28 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 08:29:27 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 21:40:05 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
     <item>
-      <title>Republican Rep. Mike Lawler on his party&apos;s inaction to save key ACA subsidies</title>
-      <description>Rep. Mike Lawler, R-N.Y., is upset with his party&apos;s leaders for refusing to hold a vote on a bill that would save key ACA subsidies. We speak with him about what he&apos;d like to see his party do next.</description>
+      <title>Warner Bros. rejects Paramount&apos;s $108 billion bid</title>
+      <description>Warner Bros has formally rejected Paramount&apos;s $108 billion hostile bid.</description>
+      <pubDate>Wed, 17 Dec 2025 08:44:55 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid</link>
+      <guid>https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid</guid>
+      <content:encoded><![CDATA[<p>Warner Bros has formally rejected Paramount's $108 billion hostile bid.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5647242' />]]></content:encoded>
+      <dc:creator>David Folkenflik</dc:creator>
+    </item>
+    <item>
+      <title>GOP House Rep. says it&apos;s &apos;unacceptable&apos; to allow ACA subsidies to expire</title>
+      <description>Rep. Mike Lawler says House Speaker Mike Johnson is correct in saying the health care system isn&apos;t working, but allowing ACA subsidies to expire without a plan to address rising costs is &quot;idiotic.&quot;</description>
       <pubDate>Wed, 17 Dec 2025 06:39:48 -0500</pubDate>
       <link>https://www.npr.org/2025/12/17/nx-s1-5645889/republican-rep-mike-lawler-on-his-partys-inaction-to-save-key-aca-subsidies</link>
       <guid>https://www.npr.org/2025/12/17/nx-s1-5645889/republican-rep-mike-lawler-on-his-partys-inaction-to-save-key-aca-subsidies</guid>
-      <content:encoded><![CDATA[<p>Rep. Mike Lawler, R-N.Y., is upset with his party's leaders for refusing to hold a vote on a bill that would save key ACA subsidies. We speak with him about what he'd like to see his party do next.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5645889' />]]></content:encoded>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8032x5564+0+0/resize/8032x5564!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F09%2Fbb09cb6445819ef8fdc8c4533b10%2Fgettyimages-2215287305.jpg' alt='Rep. Mike Lawler, R-NY, speaks to reporters as he arrives for a House Republican caucus meeting at the U.S. Capitol on May 15 in Washington, D.C.'/><p>Rep. Mike Lawler says House Speaker Mike Johnson is correct in saying the health care system isn't working, but allowing ACA subsidies to expire without a plan to address rising costs is "idiotic."</p><p>(Image credit: Kevin Dietsch)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5645889' />]]></content:encoded>
       <dc:creator>Steve Inskeep</dc:creator>
     </item>
     <item>
@@ -86,22 +95,13 @@
       <dc:creator>Alex Cox</dc:creator>
     </item>
     <item>
-      <title>U.S. looks for countries willing to send peacekeepers to Gaza to maintain peace</title>
+      <title>U.S. looks for countries willing to send troops to Gaza to maintain peace</title>
       <description>After a ceasefire that has lasted more than two months, the U.S. is pushing for a lasting peace in Gaza.</description>
       <pubDate>Wed, 17 Dec 2025 04:53:46 -0500</pubDate>
       <link>https://www.npr.org/2025/12/17/nx-s1-5644976/u-s-looks-for-countries-willing-to-send-peacekeepers-to-gaza-to-maintain-peace</link>
       <guid>https://www.npr.org/2025/12/17/nx-s1-5644976/u-s-looks-for-countries-willing-to-send-peacekeepers-to-gaza-to-maintain-peace</guid>
       <content:encoded><![CDATA[<p>After a ceasefire that has lasted more than two months, the U.S. is pushing for a lasting peace in Gaza.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5644976' />]]></content:encoded>
       <dc:creator>Daniel Estrin</dc:creator>
-    </item>
-    <item>
-      <title>U.N. peacekeeping mission winding down despite Israel violating ceasefire</title>
-      <description>UN peacekeepers in Lebanon face end of decades-old mission despite regular attacks by Israel breaking year-old ceasefire.</description>
-      <pubDate>Wed, 17 Dec 2025 04:53:22 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/17/nx-s1-5625501/u-n-peacekeeping-mission-winding-down-despite-israel-violating-ceasefire</link>
-      <guid>https://www.npr.org/2025/12/17/nx-s1-5625501/u-n-peacekeeping-mission-winding-down-despite-israel-violating-ceasefire</guid>
-      <content:encoded><![CDATA[<p>UN peacekeepers in Lebanon face end of decades-old mission despite regular attacks by Israel breaking year-old ceasefire.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5625501' />]]></content:encoded>
-      <dc:creator>Jane Arraf</dc:creator>
     </item>
   </channel>
 </rss>
