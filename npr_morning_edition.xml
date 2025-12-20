@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 08:28:17 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 21:35:51 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,6 +41,15 @@
       <dc:creator>Leila Fadel</dc:creator>
     </item>
     <item>
+      <title>Justice Department official says full Epstein files won&apos;t come by Friday deadline</title>
+      <description>Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein. There are still questions about what will be published and when.</description>
+      <pubDate>Fri, 19 Dec 2025 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump</link>
+      <guid>https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7798x5199+0+0/resize/7798x5199!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fc4%2F041c40024efdbabae5ea89543902%2Fgettyimages-2245832638.jpg' alt='A protester holds a sign related to the release of the Jeffrey Epstein case files outside the U.S. Capitol in Washington, D.C., on Nov. 12.'/><p>Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein. There are still questions about what will be published and when.</p><p>(Image credit: Saul Loeb)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5647638' />]]></content:encoded>
+      <dc:creator>Stephen Fowler</dc:creator>
+    </item>
+    <item>
       <title>What to watch for in this weekend&apos;s College Football Playoff first round</title>
       <description>An unpredictable and exciting college football season is coming to a close. This weekend&apos;s first-round slate is set up for two tight games and two blowouts — but in the playoffs, anything goes.</description>
       <pubDate>Fri, 19 Dec 2025 05:00:00 -0500</pubDate>
@@ -48,15 +57,6 @@
       <guid>https://www.npr.org/2025/12/19/nx-s1-5644999/college-football-playoff-cfp-alabama-oklahoma</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4096x2160+0+0/resize/4096x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2Fa6%2F158e8f944df0a23c526f3f1457fc%2Fcfbtri.jpg' alt='The college football playoff begins Friday and among the stars set to shine during the first two rounds are (left to right): Indiana quarterback (and Heisman Trophy winner) Fernando Mendoza, University of Miami wide receiver Malachi Toney, and Texas A&M linebacker Cashius Howell.'/><p>An unpredictable and exciting college football season is coming to a close. This weekend's first-round slate is set up for two tight games and two blowouts — but in the playoffs, anything goes.</p><p>(Image credit: (From left to right) Michael Reaves/Getty Images; Chris Bernacchi/Diamond Images via Getty Images; Joe Buvid/ISI Photos via Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5644999' />]]></content:encoded>
       <dc:creator>Becky Sullivan</dc:creator>
-    </item>
-    <item>
-      <title>Friday is the deadline to release the Epstein files. Here&apos;s what to expect</title>
-      <description>Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein. There are still questions about what will be published and when.</description>
-      <pubDate>Fri, 19 Dec 2025 05:00:00 -0500</pubDate>
-      <link>https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump</link>
-      <guid>https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7798x5199+0+0/resize/7798x5199!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fc4%2F041c40024efdbabae5ea89543902%2Fgettyimages-2245832638.jpg' alt='A protester holds a sign related to the release of the Jeffrey Epstein case files outside the U.S. Capitol in Washington, D.C., on Nov. 12.'/><p>Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein. There are still questions about what will be published and when.</p><p>(Image credit: Saul Loeb)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5647638' />]]></content:encoded>
-      <dc:creator>Stephen Fowler</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
