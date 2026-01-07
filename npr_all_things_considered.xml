@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 21:56:19 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:39:58 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
@@ -30,6 +30,15 @@
       <guid>https://www.npr.org/2026/01/06/nx-s1-5667592/from-the-border-with-colombia-the-view-of-the-uncertainty-in-venezuela</guid>
       <content:encoded><![CDATA[<p>Venezuela's interim president sounded compliant after President Trump threatened her with a fate worse than that of overthrown and arrested Nicolás Maduro.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5667592' />]]></content:encoded>
       <dc:creator>Eyder Peralta</dc:creator>
+    </item>
+    <item>
+      <title>A beloved library closes at NASA&apos;s Goddard Space Flight Center</title>
+      <description>The Trump administration proposed significant cuts to NASA, and federal employees at Goddard Space Flight Center in Maryland say they&apos;ve endured months of chaos. Now a beloved library is closing.</description>
+      <pubDate>Tue, 06 Jan 2026 17:58:21 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/06/nx-s1-5667084/a-beloved-library-closes-at-nasas-goddard-space-flight-center</link>
+      <guid>https://www.npr.org/2026/01/06/nx-s1-5667084/a-beloved-library-closes-at-nasas-goddard-space-flight-center</guid>
+      <content:encoded><![CDATA[<p>The Trump administration proposed significant cuts to NASA, and federal employees at Goddard Space Flight Center in Maryland say they've endured months of chaos. Now a beloved library is closing.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5667084' />]]></content:encoded>
+      <dc:creator>Katia Riddle</dc:creator>
     </item>
     <item>
       <title>Here&apos;s how to view NPR&apos;s coverage of Jan. 6, including a timeline, documents and video</title>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/01/06/nx-s1-5668242/whos-running-venezuela</guid>
       <content:encoded><![CDATA[<p>President Trump says he's in charge. But the U.S. has no troops or diplomats Venezuela, and all of Nicolas Maduro's top aides remain in power.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5668242' />]]></content:encoded>
       <dc:creator>Greg Myre</dc:creator>
-    </item>
-    <item>
-      <title>&apos;Stranger Things&apos; fans hoping for one more episode trade theories online</title>
-      <description>Will there be a second series finale for &lt;em&gt;Stranger Things&lt;/em&gt; on Jan. 7? Some fans seem to think so, and their theories are going viral with the hashtag, Conformity Gate.</description>
-      <pubDate>Tue, 06 Jan 2026 17:04:04 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/06/nx-s1-5668216/stranger-things-fans-hoping-for-one-more-episode-trade-theories-online</link>
-      <guid>https://www.npr.org/2026/01/06/nx-s1-5668216/stranger-things-fans-hoping-for-one-more-episode-trade-theories-online</guid>
-      <content:encoded><![CDATA[<p>Will there be a second series finale for <em>Stranger Things</em> on Jan. 7? Some fans seem to think so, and their theories are going viral with the hashtag, Conformity Gate.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5668216' />]]></content:encoded>
-      <dc:creator>Ava Berger</dc:creator>
     </item>
   </channel>
 </rss>
