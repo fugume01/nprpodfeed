@@ -7,12 +7,30 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 21:56:40 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 08:42:41 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Minneapolis&apos; police chief gives his perspective of the deadly ICE shooting</title>
+      <description>NPR&apos;s Mary Louise Kelly talks with Brian O&apos;Hara, the police chief in Minneapolis, about the shooting in which an ICE agent killed a 37-year-old woman.</description>
+      <pubDate>Wed, 07 Jan 2026 18:16:33 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/07/nx-s1-5670415/minneapolis-police-chief-gives-his-perspective-of-the-deadly-ice-shooting</link>
+      <guid>https://www.npr.org/2026/01/07/nx-s1-5670415/minneapolis-police-chief-gives-his-perspective-of-the-deadly-ice-shooting</guid>
+      <content:encoded><![CDATA[<p>NPR's Mary Louise Kelly talks with Brian O'Hara, the police chief in Minneapolis, about the shooting in which an ICE agent killed a 37-year-old woman.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5670415' />]]></content:encoded>
+      <dc:creator>Mary Louise Kelly</dc:creator>
+    </item>
+    <item>
+      <title>A closer look at Venezuela&apos;s new leadership</title>
+      <description>Other than President Maduro, Venezuela&apos;s new leadership looks a lot like the old. We look at who&apos;s in charge.</description>
+      <pubDate>Wed, 07 Jan 2026 18:15:48 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/07/nx-s1-5668390/a-closer-look-at-venezuelas-new-leadership</link>
+      <guid>https://www.npr.org/2026/01/07/nx-s1-5668390/a-closer-look-at-venezuelas-new-leadership</guid>
+      <content:encoded><![CDATA[<p>Other than President Maduro, Venezuela's new leadership looks a lot like the old. We look at who's in charge.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5668390' />]]></content:encoded>
+      <dc:creator>Carrie Kahn</dc:creator>
+    </item>
     <item>
       <title>Minnesota Sen. Tina Smith weighs in on Minneapolis shooting death by ICE agent</title>
       <description>NPR&apos;s Juana Summers talks with Minnesota Sen. Tina Smith about the Minneapolis shooting in which an ICE agent killed a 37-year-old woman.</description>
@@ -84,24 +102,6 @@
       <guid>https://www.npr.org/2026/01/07/nx-s1-5669442/aldrich-ames-cia-officer-who-spied-for-soviet-union-has-died-at-84</guid>
       <content:encoded><![CDATA[<p>One of the most notorious spies in U.S. history, Aldrich Ames, died on Tuesday at the age of 84. As a CIA officer, Ames sold highly classified secrets to the Soviet Union starting in the mid 1980s.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5669442' />]]></content:encoded>
       <dc:creator>Daniel Ofman</dc:creator>
-    </item>
-    <item>
-      <title>Women&apos;s para ice hockey edges closer to its own Paralympic stage</title>
-      <description>When the Paralympics begin in Italy, one sport that won&apos;t be in the competition is women&apos;s para ice hockey. But after a successful World Championships, players hope it could be added in the future.</description>
-      <pubDate>Wed, 07 Jan 2026 16:18:49 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/07/nx-s1-5561036-e1/womens-para-ice-hockey-edges-closer-to-its-own-paralympic-stage</link>
-      <guid>https://www.npr.org/2026/01/07/nx-s1-5561036-e1/womens-para-ice-hockey-edges-closer-to-its-own-paralympic-stage</guid>
-      <content:encoded><![CDATA[<p>When the Paralympics begin in Italy, one sport that won't be in the competition is women's para ice hockey. But after a successful World Championships, players hope it could be added in the future.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5561036-e1' />]]></content:encoded>
-      <dc:creator>Emily Chen-Newton</dc:creator>
-    </item>
-    <item>
-      <title>An immigration and enforcement officer shoots and kills a woman in Minneapolis</title>
-      <description>An officer with Immigration and Customs Enforcement shot and killed a woman during the Trump administrations&apos; latest immigration crackdown in Minneapolis.</description>
-      <pubDate>Wed, 07 Jan 2026 16:17:30 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/07/nx-s1-5670307/an-immigration-and-enforcement-officer-shoots-and-kills-a-woman-in-minneapolis</link>
-      <guid>https://www.npr.org/2026/01/07/nx-s1-5670307/an-immigration-and-enforcement-officer-shoots-and-kills-a-woman-in-minneapolis</guid>
-      <content:encoded><![CDATA[<p>An officer with Immigration and Customs Enforcement shot and killed a woman during the Trump administrations' latest immigration crackdown in Minneapolis.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5670307' />]]></content:encoded>
-      <dc:creator>Matt Sepic</dc:creator>
     </item>
   </channel>
 </rss>
