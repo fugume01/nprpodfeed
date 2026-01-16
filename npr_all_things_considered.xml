@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 21:59:51 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:34:27 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
@@ -21,6 +21,15 @@
       <guid>https://www.npr.org/2026/01/15/nx-s1-5678244/palestinians-react-to-u-s-announcing-the-start-of-second-phase-of-ceasefire-in-gaza</guid>
       <content:encoded><![CDATA[<p>Palestinians say they're suffering as they wait for progress in next phase of U.S.-backed ceasefire.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5678244' />]]></content:encoded>
       <dc:creator>Aya Batrawy</dc:creator>
+    </item>
+    <item>
+      <title>Critics say &apos;talk to your doc&apos; requirement for some vaccines causes confusion</title>
+      <description>A recent change puts some long-recommended childhood vaccines in a new category called &quot;shared clinical decision-making.&quot; The ramifications of this seemingly wonky change could be far-reaching.</description>
+      <pubDate>Thu, 15 Jan 2026 17:14:14 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/15/nx-s1-5666980/critics-say-talk-to-your-doc-requirement-for-some-vaccines-causes-confusion</link>
+      <guid>https://www.npr.org/2026/01/15/nx-s1-5666980/critics-say-talk-to-your-doc-requirement-for-some-vaccines-causes-confusion</guid>
+      <content:encoded><![CDATA[<p>A recent change puts some long-recommended childhood vaccines in a new category called "shared clinical decision-making." The ramifications of this seemingly wonky change could be far-reaching.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5666980' />]]></content:encoded>
+      <dc:creator>Rob Stein</dc:creator>
     </item>
     <item>
       <title>Whiplash as addiction and mental health treatment gets cut and restored</title>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/01/15/nx-s1-5677174/if-an-anne-boleyn-portrait-is-really-elizabeth-i-theres-a-good-reason</guid>
       <content:encoded><![CDATA[<p>NPR's Ailsa Chang talks with Tudor historian Owen Emmerson about his theory that the face in a famous portrait of Anne Boleyn is actually that of her daughter, Elizabeth I.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5677174' />]]></content:encoded>
       <dc:creator>Mallory Yu</dc:creator>
-    </item>
-    <item>
-      <title>The USS Ford crew is struggling with sewage problems on board the Navy&apos;s new carrier</title>
-      <description>Problems with the plumbing system on board America&apos;s newest aircraft carrier are getting worse. Issues with the toilets on the USS Ford continue even as it continues its deployment to the Caribbean.</description>
-      <pubDate>Thu, 15 Jan 2026 16:30:15 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/15/nx-s1-5676229/the-uss-ford-crew-is-struggling-with-sewage-problems-on-board-the-navys-new-carrier</link>
-      <guid>https://www.npr.org/2026/01/15/nx-s1-5676229/the-uss-ford-crew-is-struggling-with-sewage-problems-on-board-the-navys-new-carrier</guid>
-      <content:encoded><![CDATA[<p>Problems with the plumbing system on board America's newest aircraft carrier are getting worse. Issues with the toilets on the USS Ford continue even as it continues its deployment to the Caribbean.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5676229' />]]></content:encoded>
-      <dc:creator>Steve Walsh</dc:creator>
     </item>
   </channel>
 </rss>
