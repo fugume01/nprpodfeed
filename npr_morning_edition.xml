@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 08:36:59 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:52:49 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,6 +41,15 @@
       <dc:creator>Lauren Sommer</dc:creator>
     </item>
     <item>
+      <title>&apos;I want to make tiny little movies that don&apos;t seem tiny,&apos; says Kristen Stewart</title>
+      <description>In her feature-length directorial debut, actor Kristen Stewart adapts &lt;em&gt;The Chronology of Water&lt;/em&gt;, the memoir of Lidia Yuknavitch, a competitive swimmer-turned-author who was abused as a child.</description>
+      <pubDate>Thu, 15 Jan 2026 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/15/nx-s1-5605461/chronology-of-water-film</link>
+      <guid>https://www.npr.org/2026/01/15/nx-s1-5605461/chronology-of-water-film</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2660x3071+0+0/resize/2660x3071!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fef%2Fc7a828e04a63a07ff5e196170eb2%2Fstewartkristen-headshit-web-photocreditemilysoto.jpg' alt='Kristen Stewart, writer/director of the film <em>Chronology of Water</em>'/><p>In her feature-length directorial debut, actor Kristen Stewart adapts <em>The Chronology of Water</em>, the memoir of Lidia Yuknavitch, a competitive swimmer-turned-author who was abused as a child.</p><p>(Image credit: Emily Soto)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5605461' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
+    <item>
       <title>Uganda goes to the polls amid heavy security and internet blackout</title>
       <description>Ugandans are voting in a tense presidential election as 81-year-old President Yoweri Museveni seeks to extend his four-decade rule amid an internet shutdown and heavy military deployment.</description>
       <pubDate>Thu, 15 Jan 2026 05:00:00 -0500</pubDate>
@@ -57,15 +66,6 @@
       <guid>https://www.npr.org/2026/01/15/nx-s1-5676186/college-enrollment-increases-in-2025</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4813+0+0/resize/7000x4813!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2Fb7%2F8c2b424d4b6e85c12af4e0ce1e4c%2Fgettyimages-1875377143.jpg' alt='undefined'/><p>Overall enrollment is up slightly at colleges and universities, driven by gains at community colleges and public four-year programs.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5676186' />]]></content:encoded>
       <dc:creator>Elissa Nadworny </dc:creator>
-    </item>
-    <item>
-      <title>&apos;I want to make tiny little movies that don&apos;t seem tiny,&apos; says Kristen Stewart</title>
-      <description>In her feature-length directorial debut, actor Kristen Stewart adapts &lt;em&gt;The Chronology of Water&lt;/em&gt;, the memoir of Lidia Yuknavitch, a competitive swimmer-turned-author who was abused as a child.</description>
-      <pubDate>Thu, 15 Jan 2026 05:00:00 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/15/nx-s1-5605461/chronology-of-water-film</link>
-      <guid>https://www.npr.org/2026/01/15/nx-s1-5605461/chronology-of-water-film</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2660x3071+0+0/resize/2660x3071!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fef%2Fc7a828e04a63a07ff5e196170eb2%2Fstewartkristen-headshit-web-photocreditemilysoto.jpg' alt='Kristen Stewart, writer/director of the film <em>Chronology of Water</em>'/><p>In her feature-length directorial debut, actor Kristen Stewart adapts <em>The Chronology of Water</em>, the memoir of Lidia Yuknavitch, a competitive swimmer-turned-author who was abused as a child.</p><p>(Image credit: Emily Soto)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5605461' />]]></content:encoded>
-      <dc:creator>Steve Inskeep</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
