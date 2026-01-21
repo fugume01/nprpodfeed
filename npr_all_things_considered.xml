@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 21:52:54 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:46:45 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Blinken and British counterpart signal trans-Atlantic unity with visit to Ukraine</title>
+      <description>Secretary of State Antony Blinken and his British counterpart, David Lammy, are raising alarms about Iranian ballistic missiles in Russia that threaten Ukraine.</description>
+      <pubDate>Wed, 21 Jan 2026 07:05:29 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/21/nx-s1-5106395/blinken-and-british-counterpart-signal-transatlantic-unity-with-visit-to-ukraine</link>
+      <guid>https://www.npr.org/2026/01/21/nx-s1-5106395/blinken-and-british-counterpart-signal-transatlantic-unity-with-visit-to-ukraine</guid>
+      <content:encoded><![CDATA[<p>Secretary of State Antony Blinken and his British counterpart, David Lammy, are raising alarms about Iranian ballistic missiles in Russia that threaten Ukraine.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5106395' />]]></content:encoded>
+      <dc:creator>Michele Kelemen</dc:creator>
+    </item>
     <item>
       <title>The aurora borealis was visible in much of the U.S. last night due to a solar storm</title>
       <description>We talk with a NOAA scientist about the Northern Lights, and why their visibility seems to be increasing.</description>
@@ -86,22 +95,13 @@
       <dc:creator>Matt Sepic</dc:creator>
     </item>
     <item>
-      <title>Transatlantic alliances fray as Trump threatens tariffs regarding Greenland</title>
+      <title>Trans-Atlantic alliances fray as Trump threatens tariffs regarding Greenland</title>
       <description>Attendees at Davos are steeling themselves for major disruption — not only to the local traffic thanks to heightened security, but possibly to the existing world order.</description>
       <pubDate>Tue, 20 Jan 2026 16:37:04 -0500</pubDate>
       <link>https://www.npr.org/2026/01/20/nx-s1-5683068/transatlantic-alliances-fray-as-trump-threatens-tariffs-regarding-greenland</link>
       <guid>https://www.npr.org/2026/01/20/nx-s1-5683068/transatlantic-alliances-fray-as-trump-threatens-tariffs-regarding-greenland</guid>
       <content:encoded><![CDATA[<p>Attendees at Davos are steeling themselves for major disruption — not only to the local traffic thanks to heightened security, but possibly to the existing world order.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5683068' />]]></content:encoded>
       <dc:creator>Mara Liasson</dc:creator>
-    </item>
-    <item>
-      <title>Women&apos;s Hockey is building it and breaking attendance records</title>
-      <description>A big crowd is big news for the Professional Women&apos;s Hockey League, which is only in its third season.</description>
-      <pubDate>Tue, 20 Jan 2026 16:29:25 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/20/nx-s1-5682116/womens-hockey-is-building-it-and-breaking-attendance-records</link>
-      <guid>https://www.npr.org/2026/01/20/nx-s1-5682116/womens-hockey-is-building-it-and-breaking-attendance-records</guid>
-      <content:encoded><![CDATA[<p>A big crowd is big news for the Professional Women's Hockey League, which is only in its third season.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5682116' />]]></content:encoded>
-      <dc:creator>Henry Larson</dc:creator>
     </item>
   </channel>
 </rss>
