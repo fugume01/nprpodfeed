@@ -7,12 +7,30 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 21:49:43 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 08:24:03 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Reporters describe covering a massive immigration sweep on the ground in Minneapolis</title>
+      <description>For two weeks, Minneapolis has seen protests and clashes between demonstrators and federal immigration agents, as the administration continues its aggressive campaign to arrest undocumented immigrants.</description>
+      <pubDate>Fri, 23 Jan 2026 17:30:21 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/23/nx-s1-5685265/reporters-describe-covering-a-massive-immigration-sweep-on-the-ground-in-minneapolis</link>
+      <guid>https://www.npr.org/2026/01/23/nx-s1-5685265/reporters-describe-covering-a-massive-immigration-sweep-on-the-ground-in-minneapolis</guid>
+      <content:encoded><![CDATA[<p>For two weeks, Minneapolis has seen protests and clashes between demonstrators and federal immigration agents, as the administration continues its aggressive campaign to arrest undocumented immigrants.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5685265' />]]></content:encoded>
+      <dc:creator>Jasmine Garsd</dc:creator>
+    </item>
+    <item>
+      <title>Is Greenland really a land of untapped riches? A geologist went looking in the 1990s</title>
+      <description>Is Greenland a land of rare earth riches? The Indicator tells the story of an Australian geologist who learned the great cost of extracting Greenland&apos;s minerals.</description>
+      <pubDate>Fri, 23 Jan 2026 17:30:17 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/23/nx-s1-5685198/is-greenland-really-a-land-of-untapped-riches-a-geologist-went-looking-in-the-1990s</link>
+      <guid>https://www.npr.org/2026/01/23/nx-s1-5685198/is-greenland-really-a-land-of-untapped-riches-a-geologist-went-looking-in-the-1990s</guid>
+      <content:encoded><![CDATA[<p>Is Greenland a land of rare earth riches? The Indicator tells the story of an Australian geologist who learned the great cost of extracting Greenland's minerals.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5685198' />]]></content:encoded>
+      <dc:creator>Darian Woods</dc:creator>
+    </item>
     <item>
       <title>Winter storm front has entered Texas</title>
       <description>A large winter storm is expected to bring widespread heavy snow, sleet, and freezing rain from the Southern Rockies and Plains into the Mid-South beginning Friday.</description>
@@ -84,24 +102,6 @@
       <guid>https://www.npr.org/2026/01/23/nx-s1-5684204/in-presidents-trumps-tangled-science-policies-experts-see-a-unifying-thread</guid>
       <content:encoded><![CDATA[<p>Heading into the second year of Trump 2.0, when it comes to science, some argue Trump has no consistent ideology for decision-making. Others argue the unifying theme is destruction of science itself.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5684204' />]]></content:encoded>
       <dc:creator>Katia Riddle</dc:creator>
-    </item>
-    <item>
-      <title>Chuck Klosterman still sees football as a net positive (but it&apos;s close)</title>
-      <description>NPR&apos;s Juana Summers speaks with cultural critic Chuck Klosterman about his new book, which trains a critical eye on the cultural significance and future of a sport he loves: football.</description>
-      <pubDate>Fri, 23 Jan 2026 16:51:09 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/23/nx-s1-5517991/chuck-klosterman-still-sees-football-as-a-net-positive-but-its-close</link>
-      <guid>https://www.npr.org/2026/01/23/nx-s1-5517991/chuck-klosterman-still-sees-football-as-a-net-positive-but-its-close</guid>
-      <content:encoded><![CDATA[<p>NPR's Juana Summers speaks with cultural critic Chuck Klosterman about his new book, which trains a critical eye on the cultural significance and future of a sport he loves: football.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5517991' />]]></content:encoded>
-      <dc:creator>Juana Summers</dc:creator>
-    </item>
-    <item>
-      <title>In &apos;Mercy,&apos; an AI justice system determines a detective&apos;s fate</title>
-      <description>In the thriller &lt;em&gt;Mercy&lt;/em&gt;, a detective played by Chris Pratt finds himself accused of murder in a justice system entirely run by artificial intelligence. He has 90 minutes to prove his innocence.</description>
-      <pubDate>Fri, 23 Jan 2026 16:48:55 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/23/nx-s1-5684252/in-mercy-an-ai-justice-system-determines-a-detectives-fate</link>
-      <guid>https://www.npr.org/2026/01/23/nx-s1-5684252/in-mercy-an-ai-justice-system-determines-a-detectives-fate</guid>
-      <content:encoded><![CDATA[<p>In the thriller <em>Mercy</em>, a detective played by Chris Pratt finds himself accused of murder in a justice system entirely run by artificial intelligence. He has 90 minutes to prove his innocence.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5684252' />]]></content:encoded>
-      <dc:creator>Bob Mondello</dc:creator>
     </item>
   </channel>
 </rss>
