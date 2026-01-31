@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 08:48:13 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 22:20:02 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Feds arrest Don Lemon, Minnesota journalist and 2 others over church protest</title>
+      <description>Lemon was arrested by U.S. agents days after covering an anti-ICE protest at a St. Paul, Minn., church. U.S. Attorney General Pam Bondi called the protest a &quot;coordinated attack.&quot;</description>
+      <pubDate>Fri, 30 Jan 2026 10:36:06 -0500</pubDate>
+      <link>https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis</link>
+      <guid>https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2Fc7%2F46d4988b45c2ad9db3e9674a4274%2Fgettyimages-2232793537.jpg' alt='Journalist Don Lemon interviews Rep. Al Green, D-Texas, at a rally at Columbus Circle near Union Station in Washington, D.C., on Sept. 2, 2025.'/><p>Lemon was arrested by U.S. agents days after covering an anti-ICE protest at a St. Paul, Minn., church. U.S. Attorney General Pam Bondi called the protest a "coordinated attack."</p><p>(Image credit: Andrew Harnik/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693756' />]]></content:encoded>
+      <dc:creator>David Folkenflik</dc:creator>
+    </item>
     <item>
       <title>Trump taps Kevin Warsh to lead the Federal Reserve</title>
       <description>Trump plans to nominate Kevin Warsh to be the next chair of the Federal Reserve, when Jerome Powell&apos;s term expires in May. The president has been pushing the central bank to slash interest rates.  </description>
@@ -68,12 +77,12 @@
       <dc:creator>Leila Fadel</dc:creator>
     </item>
     <item>
-      <title>The dollar&apos;s value has been falling. Who benefits and who loses from a weak dollar?</title>
-      <description>NPR&apos;s Steve Inskeep asks David Wessel of Brookings who wins and loses from the weak dollar.</description>
+      <title>A longtime Federal Reserve watcher on Kevin Warsh&apos;s nomination to be next chair</title>
+      <description>David Wessel of Brookings tells NPR&apos;s Steve Inskeep that Warsh has been critical of the Fed in recent years and is promising a shakeup.</description>
       <pubDate>Fri, 30 Jan 2026 04:51:52 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/30/nx-s1-5693037/the-dollars-value-has-been-falling-who-benefits-and-who-loses-from-a-weak-dollar</link>
-      <guid>https://www.npr.org/2026/01/30/nx-s1-5693037/the-dollars-value-has-been-falling-who-benefits-and-who-loses-from-a-weak-dollar</guid>
-      <content:encoded><![CDATA[<p>NPR's Steve Inskeep asks David Wessel of Brookings who wins and loses from the weak dollar.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693037' />]]></content:encoded>
+      <link>https://www.npr.org/2026/01/30/nx-s1-5693037/a-longtime-federal-reserve-watcher-on-kevin-warshs-nomination-to-be-next-chair</link>
+      <guid>https://www.npr.org/2026/01/30/nx-s1-5693037/a-longtime-federal-reserve-watcher-on-kevin-warshs-nomination-to-be-next-chair</guid>
+      <content:encoded><![CDATA[<p>David Wessel of Brookings tells NPR's Steve Inskeep that Warsh has been critical of the Fed in recent years and is promising a shakeup.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693037' />]]></content:encoded>
       <dc:creator>Steve Inskeep</dc:creator>
     </item>
     <item>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/01/30/nx-s1-5668231/trumps-military-interventions-concern-china-despite-there-being-no-direct-risk</guid>
       <content:encoded><![CDATA[<p>China is troubled by President Trump's military interventions and threats of regime change around the world, even if they don't necessarily pose a direct threat to China.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5668231' />]]></content:encoded>
       <dc:creator>Anthony Kuhn</dc:creator>
-    </item>
-    <item>
-      <title>FBI seizes thousands of 2020 ballots from Fulton County, Georgia</title>
-      <description>The FBI seized thousands of ballots from the 2020 election in Fulton County, Georgia, raising concerns among state and local election officials about what this could mean for the midterm elections.</description>
-      <pubDate>Fri, 30 Jan 2026 04:50:31 -0500</pubDate>
-      <link>https://www.npr.org/2026/01/30/nx-s1-5693051/fbi-seizes-thousands-of-2020-ballots-from-fulton-county-georgia</link>
-      <guid>https://www.npr.org/2026/01/30/nx-s1-5693051/fbi-seizes-thousands-of-2020-ballots-from-fulton-county-georgia</guid>
-      <content:encoded><![CDATA[<p>The FBI seized thousands of ballots from the 2020 election in Fulton County, Georgia, raising concerns among state and local election officials about what this could mean for the midterm elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693051' />]]></content:encoded>
-      <dc:creator>Stephen Fowler</dc:creator>
     </item>
   </channel>
 </rss>
