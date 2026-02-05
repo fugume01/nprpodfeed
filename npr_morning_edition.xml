@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 08:59:48 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 22:28:55 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Bezos orders deep job cuts at &apos;Washington Post&apos;</title>
+      <description>The &lt;em&gt;Washington Post &lt;/em&gt;embarked on severe cuts despite appeals by the newsroom to owner Jeff Bezos. The paper is to narrow its focus largely to politics and national security.</description>
+      <pubDate>Wed, 04 Feb 2026 09:19:15 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/04/nx-s1-5699328/washington-post-layoffs-jobs-bezos</link>
+      <guid>https://www.npr.org/2026/02/04/nx-s1-5699328/washington-post-layoffs-jobs-bezos</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4076x2568+0+0/resize/4076x2568!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F1b%2Fc224b4e8467d92254b8d9a39b499%2Fgettyimages-102909914-1.jpg' alt='<em>The Washington Post</em> has been the leading newspaper in the nation's capital for decades. Now it's making deep cuts to every department in the newsroom.'/><p>The <em>Washington Post </em>embarked on severe cuts despite appeals by the newsroom to owner Jeff Bezos. The paper is to narrow its focus largely to politics and national security.</p><p>(Image credit: Nicholas Kamm)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5699328' />]]></content:encoded>
+      <dc:creator>David Folkenflik</dc:creator>
+    </item>
     <item>
       <title>Partial government shutdown comes to an end, as negotiations over ICE funding begin</title>
       <description>The partial government shutdown has ended. Now, lawmakers come to a more difficult task: how to find bipartisan agreement on changes to immigration enforcement.</description>
@@ -50,12 +59,12 @@
       <dc:creator>Greg Echlin</dc:creator>
     </item>
     <item>
-      <title>Ryan Routh, convicted of trying to assassinate Donald Trump, to be sentenced</title>
+      <title>Ryan Routh, convicted of trying to assassinate Trump, sentenced to life in prison</title>
       <description>A Secret Service agent saw Ryan Routh with a rifle at a golf course in Florida and fired on him in 2024 as Trump was golfing. He was found guilty of attempting to assassinate a presidential candidate.</description>
       <pubDate>Wed, 04 Feb 2026 05:00:00 -0500</pubDate>
       <link>https://www.npr.org/2026/02/04/nx-s1-5693102/ryan-routh-sentence-assassination-attempt-donald-trump</link>
       <guid>https://www.npr.org/2026/02/04/nx-s1-5693102/ryan-routh-sentence-assassination-attempt-donald-trump</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2580x1598+0+0/resize/2580x1598!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fac%2Fcd7b55d841b6a14a53237c4957e0%2Fap25266646167102.jpg' alt='Ryan Routh was arrested on Sept. 15, 2024, and charged with attempting to assassinate a presidential candidate. A jury convicted him last fall. He faces up to life in prison.'/><p>A Secret Service agent saw Ryan Routh with a rifle at a golf course in Florida and fired on him in 2024 as Trump was golfing. He was found guilty of attempting to assassinate a presidential candidate.</p><p>(Image credit: Lothar Speer)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693102' />]]></content:encoded>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2580x1598+0+0/resize/2580x1598!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fac%2Fcd7b55d841b6a14a53237c4957e0%2Fap25266646167102.jpg' alt='Ryan Routh was arrested on Sept. 15, 2024, and charged with attempting to assassinate a presidential candidate. A jury convicted him last fall and a judge sentenced him to life in prison.'/><p>A Secret Service agent saw Ryan Routh with a rifle at a golf course in Florida and fired on him in 2024 as Trump was golfing. He was found guilty of attempting to assassinate a presidential candidate.</p><p>(Image credit: Lothar Speer)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693102' />]]></content:encoded>
       <dc:creator>Greg Allen</dc:creator>
     </item>
     <item>
@@ -69,11 +78,11 @@
     </item>
     <item>
       <title>GLP-1 obesity drugs can complicate life for people with disordered eating</title>
-      <description>Doctors, patients and researchers are at the very beginning of understanding how the new weight loss medicines interact with eating disorders.</description>
+      <description>Doctors, patients and researchers are at the very beginning of understanding how the new class of obesity drugs interact with eating disorders.</description>
       <pubDate>Wed, 04 Feb 2026 04:45:56 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/04/nx-s1-5677633/glp-1-obesity-drugs-can-complicate-life-for-people-with-disordered-eating</link>
-      <guid>https://www.npr.org/2026/02/04/nx-s1-5677633/glp-1-obesity-drugs-can-complicate-life-for-people-with-disordered-eating</guid>
-      <content:encoded><![CDATA[<p>Doctors, patients and researchers are at the very beginning of understanding how the new weight loss medicines interact with eating disorders.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5677633' />]]></content:encoded>
+      <link>https://www.npr.org/2026/02/04/nx-s1-5677633/glp-1-obesity-wegovy-zepbound-eating-disorders-anorexia-bulimia</link>
+      <guid>https://www.npr.org/2026/02/04/nx-s1-5677633/glp-1-obesity-wegovy-zepbound-eating-disorders-anorexia-bulimia</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1667+0+0/resize/2500x1667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Ff9%2Fb0474bba4d9e9c1ba50d086e129d%2F260130-jasonkrynicki-npr-et00021.JPG' alt='Jason Krynicki once lived in a much larger body and was teased mercilessly for it. Today, even though he has anorexia, he takes a monthly GLP-1 shot and is afraid to stop.'/><p>Doctors, patients and researchers are at the very beginning of understanding how the new class of obesity drugs interact with eating disorders.</p><p>(Image credit: Edwin J. Torres for NPR)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5677633' />]]></content:encoded>
       <dc:creator>Yuki Noguchi</dc:creator>
     </item>
     <item>
@@ -86,22 +95,13 @@
       <dc:creator>Hosts</dc:creator>
     </item>
     <item>
-      <title>After Trump&apos;s border czar takes over, Minnesota gov. says he hasn&apos;t seen much change</title>
-      <description>After a call with Trump border czar Tom Homan, Minnesota Gov. Tim Walz signaled there is still a deep chasm between what he wants to see and the actions of federal agents in his state.</description>
+      <title>Trump&apos;s border czar says some ICE agents will leave Minnesota</title>
+      <description>About a quarter of the 3,000 federal immigration agents sent to Minnesota will begin to leave today, White House boarder czar Tom Homan announced Wednesday.</description>
       <pubDate>Wed, 04 Feb 2026 04:45:38 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/04/nx-s1-5698466/after-trumps-border-czar-takes-over-minnesota-gov-says-he-hasnt-seen-much-change</link>
-      <guid>https://www.npr.org/2026/02/04/nx-s1-5698466/after-trumps-border-czar-takes-over-minnesota-gov-says-he-hasnt-seen-much-change</guid>
-      <content:encoded><![CDATA[<p>After a call with Trump border czar Tom Homan, Minnesota Gov. Tim Walz signaled there is still a deep chasm between what he wants to see and the actions of federal agents in his state.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5698466' />]]></content:encoded>
+      <link>https://www.npr.org/2026/02/04/nx-s1-5698466/trumps-border-czar-says-some-ice-agents-will-leave-minnesota</link>
+      <guid>https://www.npr.org/2026/02/04/nx-s1-5698466/trumps-border-czar-says-some-ice-agents-will-leave-minnesota</guid>
+      <content:encoded><![CDATA[<p>About a quarter of the 3,000 federal immigration agents sent to Minnesota will begin to leave today, White House boarder czar Tom Homan announced Wednesday.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5698466' />]]></content:encoded>
       <dc:creator>Brian Bakst</dc:creator>
-    </item>
-    <item>
-      <title>U.S. considers removing last U.S. forces from Syria</title>
-      <description>As the United States considers possible military action against Iran, it&apos;s also weighing another military move -- withdrawing the last U.S. forces from Syria.</description>
-      <pubDate>Wed, 04 Feb 2026 04:45:23 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/04/nx-s1-5696410/u-s-considers-removing-last-u-s-forces-from-syria</link>
-      <guid>https://www.npr.org/2026/02/04/nx-s1-5696410/u-s-considers-removing-last-u-s-forces-from-syria</guid>
-      <content:encoded><![CDATA[<p>As the United States considers possible military action against Iran, it's also weighing another military move -- withdrawing the last U.S. forces from Syria.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5696410' />]]></content:encoded>
-      <dc:creator>Steve Inskeep</dc:creator>
     </item>
   </channel>
 </rss>
