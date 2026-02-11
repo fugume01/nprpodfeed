@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 09:16:11 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 22:40:09 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,7 +41,7 @@
       <dc:creator>Lauren Frayer</dc:creator>
     </item>
     <item>
-      <title>&apos;Please inform your friends&apos;: The quest to make weather warnings universal</title>
+      <title>The quest to warn everyone on Earth about deadly weather</title>
       <description>People in poor countries often get little or no warning about floods, storms and other deadly weather. Local efforts are changing that, and saving lives.</description>
       <pubDate>Tue, 10 Feb 2026 06:00:00 -0500</pubDate>
       <link>https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international</link>
