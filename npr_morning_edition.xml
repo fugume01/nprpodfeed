@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 09:14:48 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 22:34:42 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>FAA shuts down, then opens airspace around El Paso for 10 days, citing security reasons</title>
+      <description>The Federal Aviation Administration has shut down the airspace around El Paso, Texas for ten days citing unspecified security reasons. The abrupt move stops all flights in one of the U.S. largest cities.</description>
+      <pubDate>Wed, 11 Feb 2026 09:19:43 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/11/nx-s1-5711218/faa-shuts-down-then-opens-airspace-around-el-paso-for-10-days-citing-security-reasons</link>
+      <guid>https://www.npr.org/2026/02/11/nx-s1-5711218/faa-shuts-down-then-opens-airspace-around-el-paso-for-10-days-citing-security-reasons</guid>
+      <content:encoded><![CDATA[<p>The Federal Aviation Administration has shut down the airspace around El Paso, Texas for ten days citing unspecified security reasons. The abrupt move stops all flights in one of the U.S. largest cities.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5711218' />]]></content:encoded>
+      <dc:creator>Joel Rose</dc:creator>
+    </item>
     <item>
       <title>With just days left until funding deadline, lawmakers seem no closer to making a deal</title>
       <description>A contentious House hearing with senior immigration leaders did little to bring lawmakers closer on a deal to fund the Department of Homeland Security.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/02/11/nx-s1-5697988/auditions-for-handmaids-tale-opera-draw-more-than-1-000-hopefuls</guid>
       <content:encoded><![CDATA[<p>More than a thousand people signed up for auditions in hopes of becoming an extra in the upcoming opera of "The Handmaid's Tale" in Detroit.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5697988' />]]></content:encoded>
       <dc:creator>Neda Ulaby</dc:creator>
-    </item>
-    <item>
-      <title>Maryland Gov. Wes Moore talks about being excluded from White House governors event</title>
-      <description>NPR&apos;s Michel Martin speaks with Maryland&apos;s Democratic Gov. Wes Moore about being disinvited from a White House event and his support for redistricting in his state.</description>
-      <pubDate>Wed, 11 Feb 2026 04:47:51 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/11/nx-s1-5707308/maryland-gov-wes-moore-talks-about-being-excluded-from-white-house-governors-event</link>
-      <guid>https://www.npr.org/2026/02/11/nx-s1-5707308/maryland-gov-wes-moore-talks-about-being-excluded-from-white-house-governors-event</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Maryland's Democratic Gov. Wes Moore about being disinvited from a White House event and his support for redistricting in his state.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5707308' />]]></content:encoded>
-      <dc:creator>Michel Martin</dc:creator>
     </item>
   </channel>
 </rss>
