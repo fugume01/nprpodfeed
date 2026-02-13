@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 09:06:49 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 22:34:25 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Trump&apos;s border czar signals end to immigration operation in Minnesota</title>
+      <description>Trump administration border czar Tom Homan said Thursday that the immigration surge that prompted widespread protests and claimed the lives of two U.S. citizens is drawing to a close.</description>
+      <pubDate>Thu, 12 Feb 2026 10:43:01 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/12/nx-s1-5712252/trumps-border-czar-signals-end-to-immigration-operation-in-minnesota</link>
+      <guid>https://www.npr.org/2026/02/12/nx-s1-5712252/trumps-border-czar-signals-end-to-immigration-operation-in-minnesota</guid>
+      <content:encoded><![CDATA[<p>Trump administration border czar Tom Homan said Thursday that the immigration surge that prompted widespread protests and claimed the lives of two U.S. citizens is drawing to a close.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5712252' />]]></content:encoded>
+      <dc:creator>Meg Anderson</dc:creator>
+    </item>
     <item>
       <title>Pam Bondi clashes with House Democrats at DOJ oversight hearing</title>
       <description>Attorney General Pam Bondi clashed with Democratic lawmakers who questioned her about the Epstein files and the weaponization of the Justice Department at an oversight hearing Wednesday.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/02/12/nx-s1-5708834/britains-ugliest-landmark-becomes-protected-historic-monument</guid>
       <content:encoded><![CDATA[<p>Once derided as Britain's ugliest building, London's Southbank Centre is now a protected historic monument -- beloved by symphony-goers as well as skateboarders, who've taken over its Brutalist ramps.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5708834' />]]></content:encoded>
       <dc:creator>Lauren Frayer</dc:creator>
-    </item>
-    <item>
-      <title>Bangladesh votes in its first election since ousting of Hasina</title>
-      <description>In Bangladesh&apos;s election, one woman who rose to prominence fighting former Prime Minister Sheikh Hasina&apos;s government finds herself competing against a man she once risked her safety to defend.</description>
-      <pubDate>Thu, 12 Feb 2026 04:50:31 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/12/nx-s1-5711483/bangladesh-votes-in-its-first-election-since-ousting-of-hasina</link>
-      <guid>https://www.npr.org/2026/02/12/nx-s1-5711483/bangladesh-votes-in-its-first-election-since-ousting-of-hasina</guid>
-      <content:encoded><![CDATA[<p>In Bangladesh's election, one woman who rose to prominence fighting former Prime Minister Sheikh Hasina's government finds herself competing against a man she once risked her safety to defend.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5711483' />]]></content:encoded>
-      <dc:creator>Diaa Hadid</dc:creator>
     </item>
   </channel>
 </rss>
