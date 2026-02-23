@@ -7,100 +7,101 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 22:38:52 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 09:03:44 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
     <item>
-      <title>Trump&apos;s tariffs were &apos;last straw&apos; for this business owner&apos;s now-shuttered store</title>
-      <description>NPR&apos;s Michel Martin speaks with Jennifer Bergman, who says she had to close her family&apos;s toy store business of 44 years in July 2025 due to President Trump&apos;s tariffs.</description>
-      <pubDate>Fri, 20 Feb 2026 11:45:09 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5720862/trumps-tariffs-were-last-straw-for-this-business-owners-now-shuttered-store</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5720862/trumps-tariffs-were-last-straw-for-this-business-owners-now-shuttered-store</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Jennifer Bergman, who says she had to close her family's toy store business of 44 years in July 2025 due to President Trump's tariffs.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5720862' />]]></content:encoded>
+      <title>The political implications of the Supreme Court&apos;s ruling on Trump&apos;s tariffs</title>
+      <description>The Supreme Court has found some of President Trump&apos;s tariffs to be illegal. What are the political implications?</description>
+      <pubDate>Mon, 23 Feb 2026 06:40:45 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5722874/the-political-implications-of-the-supreme-courts-ruling-on-trumps-tariffs</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5722874/the-political-implications-of-the-supreme-courts-ruling-on-trumps-tariffs</guid>
+      <content:encoded><![CDATA[<p>The Supreme Court has found some of President Trump's tariffs to be illegal. What are the political implications?</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5722874' />]]></content:encoded>
+      <dc:creator>Mara Liasson</dc:creator>
+    </item>
+    <item>
+      <title>Lawyer for plaintiffs in SCOTUS case against Trump&apos;s tariffs talks about the ruling</title>
+      <description>NPR&apos;s Steve Inskeep speaks to attorney Neal Katyal, who argued on behalf of the plaintiffs to win the Supreme Court case against President Trump&apos;s global tariffs.</description>
+      <pubDate>Mon, 23 Feb 2026 06:40:39 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5722862/lawyer-for-plaintiffs-in-scotus-case-against-trumps-tariffs-talks-about-the-ruling</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5722862/lawyer-for-plaintiffs-in-scotus-case-against-trumps-tariffs-talks-about-the-ruling</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep speaks to attorney Neal Katyal, who argued on behalf of the plaintiffs to win the Supreme Court case against President Trump's global tariffs.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5722862' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
+    <item>
+      <title>Armed man shot and killed at Mar-a-Lago Sunday</title>
+      <description>An armed man was shot and killed at Mar-a-Lago on Sunday. President Trump was in Washington, D.C., at the time.</description>
+      <pubDate>Mon, 23 Feb 2026 06:40:31 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5722914/armed-man-shot-and-killed-at-mar-a-lago-sunday</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5722914/armed-man-shot-and-killed-at-mar-a-lago-sunday</guid>
+      <content:encoded><![CDATA[<p>An armed man was shot and killed at Mar-a-Lago on Sunday. President Trump was in Washington, D.C., at the time.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5722914' />]]></content:encoded>
+      <dc:creator>Luke Garrett</dc:creator>
+    </item>
+    <item>
+      <title>New York Gov. Kathy Hochul talks about the major winter storm slamming the state</title>
+      <description>NPR&apos;s Steve Inskeep talks with New York&apos;s Democratic Gov. Kathy Hochul about the effects of a powerful nor&apos;easter that prompted multiple declarations of states of emergency.</description>
+      <pubDate>Mon, 23 Feb 2026 06:40:23 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5722934/new-york-gov-kathy-hochul-talks-about-the-major-winter-storm-slamming-the-state</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5722934/new-york-gov-kathy-hochul-talks-about-the-major-winter-storm-slamming-the-state</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep talks with New York's Democratic Gov. Kathy Hochul about the effects of a powerful nor'easter that prompted multiple declarations of states of emergency.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5722934' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
+    <item>
+      <title>Influencers are promoting peptides for better health. What does the science say? </title>
+      <description>The latest wellness craze involves injecting these molecules for athletic performance, longevity and more. Scientists say the research isn&apos;t keeping pace with the health claims.</description>
+      <pubDate>Mon, 23 Feb 2026 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5716162/peptides-science-muscle-growth-longevity-wellness</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F88%2F5171f59f426ca7faa55a9009ac6b%2Fgettyimages-1300661548.jpg' alt='undefined'/><p>The latest wellness craze involves injecting these molecules for athletic performance, longevity and more. Scientists say the research isn't keeping pace with the health claims.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5716162' />]]></content:encoded>
+      <dc:creator>Sarah Boden</dc:creator>
+    </item>
+    <item>
+      <title>Poll: Most say the state of the union is not strong and the U.S. is worse off</title>
+      <description>Ahead of the State of the Union address on Tuesday, evidence continues to mount that President Trump is facing political headwinds.</description>
+      <pubDate>Mon, 23 Feb 2026 05:00:00 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5720975/poll-trump-state-of-the-union-sotu</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5720975/poll-trump-state-of-the-union-sotu</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2Fa5%2F29a2c5264e00823590897c58f7ca%2Fgettyimages-2262693141.jpg' alt='President Trump holds a press briefing at the White House on Friday after the U.S. Supreme Court ruled against his use of emergency powers to implement international trade tariffs.'/><p>Ahead of the State of the Union address on Tuesday, evidence continues to mount that President Trump is facing political headwinds.</p><p>(Image credit: Alex Wong)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5720975' />]]></content:encoded>
+      <dc:creator>Domenico Montanaro</dc:creator>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <description>The political implications of the SCOTUS ruling on Trump&apos;s tariffs, China urges Washington to lift tariffs after SCOTUS decision, new poll reveals what Americans think of the state of the union.</description>
+      <pubDate>Mon, 23 Feb 2026 04:45:37 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5718111/morning-news-brief</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5718111/morning-news-brief</guid>
+      <content:encoded><![CDATA[<p>The political implications of the SCOTUS ruling on Trump's tariffs, China urges Washington to lift tariffs after SCOTUS decision, new poll reveals what Americans think of the state of the union.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5718111' />]]></content:encoded>
+      <dc:creator>Leila Fadel</dc:creator>
+    </item>
+    <item>
+      <title>Tracy Morgan plays a disgraced football player rehabilitating his image in new sitcom</title>
+      <description>Robert Carlock, The co-showrunner of &quot;30 Rock,&quot; teams up with Tracy Morgan again for &quot;The Fall and Rise of Reggie Dinkins,&quot; a new sitcom about a disgraced football player rehabilitating his image.</description>
+      <pubDate>Mon, 23 Feb 2026 04:45:33 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5615276/tracy-morgan-plays-a-disgraced-football-player-rehabilitating-his-image-in-new-sitcom</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5615276/tracy-morgan-plays-a-disgraced-football-player-rehabilitating-his-image-in-new-sitcom</guid>
+      <content:encoded><![CDATA[<p>Robert Carlock, The co-showrunner of "30 Rock," teams up with Tracy Morgan again for "The Fall and Rise of Reggie Dinkins," a new sitcom about a disgraced football player rehabilitating his image.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5615276' />]]></content:encoded>
       <dc:creator>Michel Martin</dc:creator>
     </item>
     <item>
-      <title>How the Supreme Court&apos;s tariffs ruling could affect the economy</title>
-      <description>The Supreme Court ruled that Trump overstepped his authority when he ordered widespread tariffs using a 1970s &quot;emergency&quot; statute. Here&apos;s how tariffs have impacted the economy.</description>
-      <pubDate>Fri, 20 Feb 2026 11:23:33 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5720840/how-the-supreme-courts-tariffs-ruling-could-affect-the-economy</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5720840/how-the-supreme-courts-tariffs-ruling-could-affect-the-economy</guid>
-      <content:encoded><![CDATA[<p>The Supreme Court ruled that Trump overstepped his authority when he ordered widespread tariffs using a 1970s "emergency" statute. Here's how tariffs have impacted the economy.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5720840' />]]></content:encoded>
-      <dc:creator>Scott Horsley</dc:creator>
+      <title>Death of Mexican cartel leader sparks widespread violence across Mexico</title>
+      <description>One of the world&apos;s most wanted drug traffickers -- a Mexican cartel boss known as &quot;El Mencho&quot; -- was killed by Mexican security forces. After his death, widespread violence erupted across Mexico.</description>
+      <pubDate>Mon, 23 Feb 2026 04:45:28 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5722898/death-of-mexican-cartel-leader-sparks-widespread-violence-across-mexico</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5722898/death-of-mexican-cartel-leader-sparks-widespread-violence-across-mexico</guid>
+      <content:encoded><![CDATA[<p>One of the world's most wanted drug traffickers -- a Mexican cartel boss known as "El Mencho" -- was killed by Mexican security forces. After his death, widespread violence erupted across Mexico.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5722898' />]]></content:encoded>
+      <dc:creator>Eyder Peralta</dc:creator>
     </item>
     <item>
-      <title>Economic analyst reacts to Supreme Court striking down Trump tariffs</title>
-      <description>NPR&apos;s Michel Martin discusses the decision with Diane Swonk, economic advisor and chief economist at KPMG US.</description>
-      <pubDate>Fri, 20 Feb 2026 10:57:10 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5720822/economic-analyst-reacts-to-supreme-court-striking-down-trump-tariffs</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5720822/economic-analyst-reacts-to-supreme-court-striking-down-trump-tariffs</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin discusses the decision with Diane Swonk, economic advisor and chief economist at KPMG US.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5720822' />]]></content:encoded>
-    </item>
-    <item>
-      <title>Supreme Court strikes down Trump&apos;s tariffs</title>
-      <description>The 6-3 ruling is a major blow to the president&apos;s signature economic policy.&lt;br&gt;&lt;br&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 10:10:45 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5672383/supreme-court-tariffs</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5672383/supreme-court-tariffs</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5566x3711+0+0/resize/5566x3711!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fcf%2F7c45362d4c27b4b4b49332deefa4%2Fgettyimages-2157829281-23.jpg' alt='The U.S. Supreme Court'/><p>The 6-3 ruling is a major blow to the president's signature economic policy.<br><br></p><p>(Image credit: Andrew Harnik)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5672383' />]]></content:encoded>
-      <dc:creator>Nina Totenberg</dc:creator>
-    </item>
-    <item>
-      <title>Second U.S. carrier nears Middle East, as Trump pressures Iran to make a deal</title>
-      <description>A second American aircraft carrier moved closer to the Middle East Thursday, as President Trump remains noncommittal about whether he&apos;ll use force against Iran.</description>
-      <pubDate>Fri, 20 Feb 2026 07:21:56 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5719356/second-u-s-carrier-nears-middle-east-as-trump-pressures-iran-to-make-a-deal</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5719356/second-u-s-carrier-nears-middle-east-as-trump-pressures-iran-to-make-a-deal</guid>
-      <content:encoded><![CDATA[<p>A second American aircraft carrier moved closer to the Middle East Thursday, as President Trump remains noncommittal about whether he'll use force against Iran.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5719356' />]]></content:encoded>
-      <dc:creator>Greg Myre</dc:creator>
-    </item>
-    <item>
-      <title>Former U.S. Navy commander talks about the US military buildup near Iran</title>
-      <description>NPR&apos;s Michel Martin asks retired Vice Admiral Kevin Donegan, a former Navy commander in the Middle East, about the U.S. military buildup near Iran.</description>
-      <pubDate>Fri, 20 Feb 2026 07:21:51 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5719194/former-u-s-navy-commander-talks-about-the-us-military-buildup-near-iran</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5719194/former-u-s-navy-commander-talks-about-the-us-military-buildup-near-iran</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin asks retired Vice Admiral Kevin Donegan, a former Navy commander in the Middle East, about the U.S. military buildup near Iran.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5719194' />]]></content:encoded>
-      <dc:creator>Michel Martin</dc:creator>
-    </item>
-    <item>
-      <title>Trump visits Georgia to promote economy to woo voters ahead of midterms</title>
-      <description>President Trump went to Georgia Thursday for his latest domestic stop, where he pitched the economy and touted his tariff policies to voters.</description>
-      <pubDate>Fri, 20 Feb 2026 07:21:47 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5719476/trump-visits-georgia-to-promote-economy-to-woo-voters-ahead-of-midterms</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5719476/trump-visits-georgia-to-promote-economy-to-woo-voters-ahead-of-midterms</guid>
-      <content:encoded><![CDATA[<p>President Trump went to Georgia Thursday for his latest domestic stop, where he pitched the economy and touted his tariff policies to voters.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5719476' />]]></content:encoded>
-      <dc:creator>Danielle Kurtzleben </dc:creator>
-    </item>
-    <item>
-      <title>U.S. Commission on Fine Arts approves Trump&apos;s White House ballroom plan</title>
-      <description>The U.S. Commission on Fine Arts, which is packed with President Trump&apos;s allies, voted to approve the new White House ballroom project pursued by Trump.</description>
-      <pubDate>Fri, 20 Feb 2026 05:04:10 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5719478/u-s-commission-on-fine-arts-approves-trumps-white-house-ballroom-plan</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5719478/u-s-commission-on-fine-arts-approves-trumps-white-house-ballroom-plan</guid>
-      <content:encoded><![CDATA[<p>The U.S. Commission on Fine Arts, which is packed with President Trump's allies, voted to approve the new White House ballroom project pursued by Trump.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5719478' />]]></content:encoded>
-      <dc:creator>Tamara Keith</dc:creator>
-    </item>
-    <item>
-      <title>Trump unveils big plans for Gaza at Board of Peace&apos;s first meeting</title>
-      <description>President Trump hosted the first ever Board of Peace meeting Thursday in Washington, D.C., with about 40 countries attending.</description>
-      <pubDate>Fri, 20 Feb 2026 05:03:53 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5719258/trump-unveils-big-plans-for-gaza-at-board-of-peaces-first-meeting</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5719258/trump-unveils-big-plans-for-gaza-at-board-of-peaces-first-meeting</guid>
-      <content:encoded><![CDATA[<p>President Trump hosted the first ever Board of Peace meeting Thursday in Washington, D.C., with about 40 countries attending.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5719258' />]]></content:encoded>
-      <dc:creator>Franco Ordoñez</dc:creator>
-    </item>
-    <item>
-      <title>&apos;We were scared&apos;: Man recalls the night he nearly launched a nuclear missile</title>
-      <description>In 1974, Lt. Colonel Randall Lanning manned the launch controls that could deploy nuclear weapons in the event of a Soviet attack. He looks back at one night that&apos;s still etched in his memory.</description>
-      <pubDate>Fri, 20 Feb 2026 05:03:19 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/20/nx-s1-5715958/we-were-scared-man-recalls-the-night-he-nearly-launched-a-nuclear-missile</link>
-      <guid>https://www.npr.org/2026/02/20/nx-s1-5715958/we-were-scared-man-recalls-the-night-he-nearly-launched-a-nuclear-missile</guid>
-      <content:encoded><![CDATA[<p>In 1974, Lt. Colonel Randall Lanning manned the launch controls that could deploy nuclear weapons in the event of a Soviet attack. He looks back at one night that's still etched in his memory.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5715958' />]]></content:encoded>
-      <dc:creator>Esther Honig</dc:creator>
+      <title>Brits question whether age of deference is over after ex-Prince Andrew&apos;s arrest</title>
+      <description>After the arrest of the former Prince Andrew, British institutions from the media to Parliament are asking whether they should have scrutinized the royals more. Is an age of deference now over?</description>
+      <pubDate>Mon, 23 Feb 2026 04:45:23 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/23/nx-s1-5720889/brits-question-whether-age-of-deference-is-over-after-ex-prince-andrews-arrest</link>
+      <guid>https://www.npr.org/2026/02/23/nx-s1-5720889/brits-question-whether-age-of-deference-is-over-after-ex-prince-andrews-arrest</guid>
+      <content:encoded><![CDATA[<p>After the arrest of the former Prince Andrew, British institutions from the media to Parliament are asking whether they should have scrutinized the royals more. Is an age of deference now over?</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5720889' />]]></content:encoded>
+      <dc:creator>Lauren Frayer</dc:creator>
     </item>
   </channel>
 </rss>
