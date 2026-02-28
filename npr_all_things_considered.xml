@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 22:01:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:36:28 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>New music Friday: Mitski&apos;s new album, &apos;Nothing&apos;s About to Happen to Me&apos;</title>
+      <description>NPR&apos;s Ailsa Chang speaks with Raina Douris, host of World Cafe at member station WXPN, about Mitski&apos;s new album, &lt;em&gt;Nothing&apos;s About to Happen to Me&lt;/em&gt;.</description>
+      <pubDate>Fri, 27 Feb 2026 18:09:24 -0500</pubDate>
+      <link>https://www.npr.org/2026/02/27/nx-s1-5726289/new-music-friday-mitskis-new-album-nothings-about-to-happen-to-me</link>
+      <guid>https://www.npr.org/2026/02/27/nx-s1-5726289/new-music-friday-mitskis-new-album-nothings-about-to-happen-to-me</guid>
+      <content:encoded><![CDATA[<p>NPR's Ailsa Chang speaks with Raina Douris, host of World Cafe at member station WXPN, about Mitski's new album, <em>Nothing's About to Happen to Me</em>.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5726289' />]]></content:encoded>
+      <dc:creator>Michael Levitt</dc:creator>
+    </item>
     <item>
       <title>Populism is dominating politics right now</title>
       <description>Republicans and Democrats are embracing their own takes on populism to respond to shifting politics in the country.</description>
@@ -92,15 +101,6 @@
       <guid>https://www.npr.org/2026/02/27/nx-s1-5729028/local-all-things-considered-host-alex-chrichton-signs-off-after-42-years-at-wxxi</guid>
       <content:encoded><![CDATA[<p>WXXI News' Alex Crichton is retiring Friday, after 42 years at the station and hosting All Things Considered in Rochester, N.Y.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5729028' />]]></content:encoded>
       <dc:creator>Gabriel J. Sánchez</dc:creator>
-    </item>
-    <item>
-      <title>Music released by Black artists in 2016 both shaped and reflected culture</title>
-      <description>2016 was a complex year for Black music, between the last year of the Obama presidency, and the numerous high-profile deaths of Black people at the hands of police.</description>
-      <pubDate>Fri, 27 Feb 2026 16:40:35 -0500</pubDate>
-      <link>https://www.npr.org/2026/02/27/nx-s1-5703590/music-released-by-black-artists-in-2016-both-shaped-and-reflected-culture</link>
-      <guid>https://www.npr.org/2026/02/27/nx-s1-5703590/music-released-by-black-artists-in-2016-both-shaped-and-reflected-culture</guid>
-      <content:encoded><![CDATA[<p>2016 was a complex year for Black music, between the last year of the Obama presidency, and the numerous high-profile deaths of Black people at the hands of police.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5703590' />]]></content:encoded>
-      <dc:creator>Rodney Carmichael</dc:creator>
     </item>
   </channel>
 </rss>
