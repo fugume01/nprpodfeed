@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 09:01:21 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 22:29:56 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Trump defends Iran strikes, offers objectives for military operation</title>
+      <description>His remarks are the first public ones to reporters since the U.S.-Israeli military operation against Iran began Saturday despite weeks of talks designed to stave off a conflict.</description>
+      <pubDate>Mon, 02 Mar 2026 08:15:29 -0500</pubDate>
+      <link>https://www.npr.org/2026/03/02/nx-s1-5732258/us-iran-hegseth-caine</link>
+      <guid>https://www.npr.org/2026/03/02/nx-s1-5732258/us-iran-hegseth-caine</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4643x3096+0+0/resize/4643x3096!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2Fdf%2Fd4136f584d4da232ef54b0080092%2Fgettyimages-2264409397.jpg' alt='President Trump defended the U.S. military operation in Iran in public remarks Monday, before awarding the Medal of Honor to three soldiers.'/><p>His remarks are the first public ones to reporters since the U.S.-Israeli military operation against Iran began Saturday despite weeks of talks designed to stave off a conflict.</p><p>(Image credit: Andrew Harnik)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5732258' />]]></content:encoded>
+      <dc:creator>NPR Washington Desk</dc:creator>
+    </item>
     <item>
       <title>Trump says more American troops will &apos;likely&apos; die in war against Iran</title>
       <description>President Trump in a video address posted online lays out few details about the U.S.&apos;s objectives in its war with Iran, but says more U.S. service members may die before the conflict is over.</description>
@@ -50,7 +59,7 @@
       <dc:creator>Allison Aubrey</dc:creator>
     </item>
     <item>
-      <title>Supreme Court ponders law making it a crime for gun owners to use marijuana</title>
+      <title>Supreme Court ponders law making it a crime for marijuana users to own guns</title>
       <description>The law, the same one used to prosecute Joe Biden&apos;s son for illegal gun possession, has united an array of strange bedfellows, from conservative gun rights groups to liberal civil liberties groups.</description>
       <pubDate>Mon, 02 Mar 2026 05:00:00 -0500</pubDate>
       <link>https://www.npr.org/2026/03/02/nx-s1-5718476/supreme-court-guns-marijuana</link>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/03/02/nx-s1-5731540/iranian-americans-react-to-u-s-israeli-strikes-in-iran</guid>
       <content:encoded><![CDATA[<p>Members of the Iranian diaspora in Los Angeles react to the war between Iran, the U.S. and Israel.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5731540' />]]></content:encoded>
       <dc:creator>Kelly McEvers</dc:creator>
-    </item>
-    <item>
-      <title>&apos;Sirat&apos; and &apos;F1&apos; put a spotlight on the art of sound design in movies</title>
-      <description>Two films nominated for an Academy Award for Best Sound this year -- &quot;Sirat&quot; and &quot;F1&quot; -- highlight this crucial but often under-appreciated aspect of cinema.</description>
-      <pubDate>Mon, 02 Mar 2026 04:41:38 -0500</pubDate>
-      <link>https://www.npr.org/2026/03/02/nx-s1-5725296/sirat-and-f1-put-a-spotlight-on-the-art-of-sound-design-in-movies</link>
-      <guid>https://www.npr.org/2026/03/02/nx-s1-5725296/sirat-and-f1-put-a-spotlight-on-the-art-of-sound-design-in-movies</guid>
-      <content:encoded><![CDATA[<p>Two films nominated for an Academy Award for Best Sound this year -- "Sirat" and "F1" -- highlight this crucial but often under-appreciated aspect of cinema.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5725296' />]]></content:encoded>
-      <dc:creator>Chloe Veltman</dc:creator>
     </item>
   </channel>
 </rss>
