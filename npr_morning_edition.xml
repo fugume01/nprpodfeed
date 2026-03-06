@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 22:23:23 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -95,12 +95,12 @@
       <dc:creator>Marian Navarro</dc:creator>
     </item>
     <item>
-      <title>Dissident Mehdi Mahmoudian on his hopes for Iran now</title>
-      <description>Mehdi Mahmoudian has been in and out of Iran&apos;s prisons over decades. He&apos;s a longtime political and human rights activist. NPR&apos;s Leila Fadel spoke with him about what its like in Tehran.</description>
+      <title>Oscar-nominated Iranian dissident warns against &apos;repeat of the past&apos;</title>
+      <description>Mehdi Mahmoudian worries Iran could experience an endless cycle of violence unless — or until — it achieves democracy.</description>
       <pubDate>Thu, 05 Mar 2026 04:49:39 -0500</pubDate>
-      <link>https://www.npr.org/2026/03/05/nx-s1-5735527/dissident-mehdi-mahmoudian-on-his-hopes-for-iran-now</link>
-      <guid>https://www.npr.org/2026/03/05/nx-s1-5735527/dissident-mehdi-mahmoudian-on-his-hopes-for-iran-now</guid>
-      <content:encoded><![CDATA[<p>Mehdi Mahmoudian has been in and out of Iran's prisons over decades. He's a longtime political and human rights activist. NPR's Leila Fadel spoke with him about what its like in Tehran.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5735527' />]]></content:encoded>
+      <link>https://www.npr.org/2026/03/05/nx-s1-5735527/mehdi-mahmoudian-interview-iran</link>
+      <guid>https://www.npr.org/2026/03/05/nx-s1-5735527/mehdi-mahmoudian-interview-iran</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/636x335+0+0/resize/636x335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F0f%2F8d1843234b5199305e482dd507a5%2Fmehdi-mahmoudian.png' alt='Mehdi Mahmoudian has been repeatedly jailed for decades for his activism against the Iranian regime.'/><p>Mehdi Mahmoudian worries Iran could experience an endless cycle of violence unless — or until — it achieves democracy.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5735527' />]]></content:encoded>
       <dc:creator>Leila Fadel</dc:creator>
     </item>
   </channel>
