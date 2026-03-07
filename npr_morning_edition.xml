@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 08:49:25 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:08:52 -0500</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -30,6 +30,15 @@
       <guid>https://www.npr.org/2026/03/06/nx-s1-5737561/sen-amy-klobuchar-talks-about-kristi-noems-firing-and-trumps-pick-to-replace-her</guid>
       <content:encoded><![CDATA[<p>NPR's Michel Martin asks Sen. Amy Klobuchar, D-Minn., about the firing of DHS Secretary Kristi Noem and President Trump's decision to tap GOP Sen. Markwayne Mullin as her replacement.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5737561' />]]></content:encoded>
       <dc:creator>Michel Martin</dc:creator>
+    </item>
+    <item>
+      <title>Texas GOP worries runoff could make party vulnerable before November election</title>
+      <description>The runoff between Sen. John Cornyn and Texas Attorney General Ken Paxton has Republicans worried that infighting ahead of May&apos;s primary could make the GOP vulnerable before the general election.</description>
+      <pubDate>Fri, 06 Mar 2026 06:46:43 -0500</pubDate>
+      <link>https://www.npr.org/2026/03/06/nx-s1-5737590/texas-gop-worries-runoff-could-make-party-vulnerable-before-november-election</link>
+      <guid>https://www.npr.org/2026/03/06/nx-s1-5737590/texas-gop-worries-runoff-could-make-party-vulnerable-before-november-election</guid>
+      <content:encoded><![CDATA[<p>The runoff between Sen. John Cornyn and Texas Attorney General Ken Paxton has Republicans worried that infighting ahead of May's primary could make the GOP vulnerable before the general election.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5737590' />]]></content:encoded>
+      <dc:creator>Andrew Schneider</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -77,7 +86,7 @@
       <dc:creator>Wailin Wong</dc:creator>
     </item>
     <item>
-      <title>Former Sen. Ben Sasse talks about the state of US politics and his fight with cancer</title>
+      <title>Former Sen. Ben Sasse on laughing his way through terminal cancer</title>
       <description>Former Sen. Ben Sasse, a Republican from Nebraska, talks with NPR&apos;s Steve Inskeep about the state of politics and his life after being diagnosed with terminal pancreatic cancer.</description>
       <pubDate>Fri, 06 Mar 2026 04:40:34 -0500</pubDate>
       <link>https://www.npr.org/2026/03/06/nx-s1-5729065/former-sen-ben-sasse-talks-about-the-state-of-us-politics-and-his-fight-with-cancer</link>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/03/06/nx-s1-5737389/israeli-strikes-hit-iran-and-lebanon-as-iran-launches-attacks-in-the-middle-east</guid>
       <content:encoded><![CDATA[<p>Israeli airstrikes hit the capitals of Iran and Lebanon Friday, as Iran launched new retaliatory attacks in the Middle East.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5737389' />]]></content:encoded>
       <dc:creator>Hadeel Al-Shalchi</dc:creator>
-    </item>
-    <item>
-      <title>Former NATO ambassador talks about the alliance&apos;s role in the war in Iran</title>
-      <description>NPR&apos;s Michel Martin speaks with former NATO Ambassador Kurt Volker about the role of the alliance in the U.S.-Israel-Iran war.</description>
-      <pubDate>Fri, 06 Mar 2026 04:40:12 -0500</pubDate>
-      <link>https://www.npr.org/2026/03/06/nx-s1-5737430/former-nato-ambassador-talks-about-the-alliances-role-in-the-war-in-iran</link>
-      <guid>https://www.npr.org/2026/03/06/nx-s1-5737430/former-nato-ambassador-talks-about-the-alliances-role-in-the-war-in-iran</guid>
-      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with former NATO Ambassador Kurt Volker about the role of the alliance in the U.S.-Israel-Iran war.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5737430' />]]></content:encoded>
-      <dc:creator>Michel Martin</dc:creator>
     </item>
   </channel>
 </rss>
