@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 10:04:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:19:51 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -21,6 +21,15 @@
       <guid>https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change</guid>
       <content:encoded><![CDATA[<p>President Trump's war against Iran carries echoes of the 2003 war in Iraq. NPR's Leila Fadel explores the lessons learned to understand whether regime change stands a chance in neighboring Iran.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5739280' />]]></content:encoded>
       <dc:creator>Leila Fadel</dc:creator>
+    </item>
+    <item>
+      <title>US men&apos;s ice hockey Paralympics team goes for gold</title>
+      <description></description>
+      <pubDate>Mon, 09 Mar 2026 05:44:50 -0400</pubDate>
+      <link>https://www.npr.org/2026/03/09/nx-s1-5739271/us-mens-ice-hockey-paralympics-team-goes-for-gold</link>
+      <guid>https://www.npr.org/2026/03/09/nx-s1-5739271/us-mens-ice-hockey-paralympics-team-goes-for-gold</guid>
+      <content:encoded><![CDATA[<img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5739271' />]]></content:encoded>
+      <dc:creator>Tony Gorman</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -93,14 +102,6 @@
       <guid>https://www.npr.org/2026/03/09/nx-s1-5723925/can-europe-still-rely-on-the-us-to-support-international-human-rights</guid>
       <content:encoded><![CDATA[<p>Can Europe keep relying on the U.S. as a partner in supporting human rights around the world? Michel Martin asks the E.U.'s special representative for human rights Kajsa Ollongren.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5723925' />]]></content:encoded>
       <dc:creator>Michel Martin</dc:creator>
-    </item>
-    <item>
-      <title>Musical treasures collected by late Indianapolis Colts owner up for auction</title>
-      <description>The late Jim Irsay built one of the great collections of musical artifacts. His family is now auctioning it off, including instruments played by The Beatles, Nirvana, Eric Clapton and Bob Dylan. Nathalie Ferneau {NAT-ah-lee  fer-NO} from Christie&apos;s previews the auction.</description>
-      <pubDate>Mon, 09 Mar 2026 04:26:14 -0400</pubDate>
-      <link>https://www.npr.org/2026/03/09/nx-s1-5728152/musical-treasures-collected-by-late-indianapolis-colts-owner-up-for-auction</link>
-      <guid>https://www.npr.org/2026/03/09/nx-s1-5728152/musical-treasures-collected-by-late-indianapolis-colts-owner-up-for-auction</guid>
-      <content:encoded><![CDATA[<p>The late Jim Irsay built one of the great collections of musical artifacts. His family is now auctioning it off, including instruments played by The Beatles, Nirvana, Eric Clapton and Bob Dylan. Nathalie Ferneau {NAT-ah-lee  fer-NO} from Christie's previews the auction.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5728152' />]]></content:encoded>
     </item>
   </channel>
 </rss>
