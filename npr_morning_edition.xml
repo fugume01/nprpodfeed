@@ -7,12 +7,30 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 10:09:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:32:37 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>President Trump and Iranian officials have conflicting stories about ongoing talks</title>
+      <description>President Trump is ordering the U.S. military to hold off on striking Iranian power plants, citing &quot;productive&quot; talks with Iran, but Iranian officials deny there&apos;s any dialogue with the U.S.</description>
+      <pubDate>Mon, 23 Mar 2026 14:10:22 -0400</pubDate>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5757380/president-trump-and-iranian-officials-have-conflicting-stories-about-ongoing-talks</link>
+      <guid>https://www.npr.org/2026/03/23/nx-s1-5757380/president-trump-and-iranian-officials-have-conflicting-stories-about-ongoing-talks</guid>
+      <content:encoded><![CDATA[<p>President Trump is ordering the U.S. military to hold off on striking Iranian power plants, citing "productive" talks with Iran, but Iranian officials deny there's any dialogue with the U.S.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5757380' />]]></content:encoded>
+      <dc:creator>Daniel Estrin</dc:creator>
+    </item>
+    <item>
+      <title>Voice of America staffers sue, alleging Kari Lake put on propaganda</title>
+      <description>Voice of America staffers are suing Trump administration official Kari Lake, alleging she put pro-Trump propaganda on its airwaves. She has lost numerous rulings of late.</description>
+      <pubDate>Mon, 23 Mar 2026 09:11:55 -0400</pubDate>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5756465/voice-of-america-staffers-sue-alleging-kari-lake-put-on-propaganda</link>
+      <guid>https://www.npr.org/2026/03/23/nx-s1-5756465/voice-of-america-staffers-sue-alleging-kari-lake-put-on-propaganda</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1010x574+0+0/resize/1010x574!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fd3%2Fa87203304efd801f4df26a2d1e09%2Fkari-lake-on-voa-screenshot-2026-01-22-162244.png' alt='Trump administration official Kari Lake praised President Trump effusively in a January 2026 appearance on Voice of America's Persian language service. A new lawsuit alleges she has violated federal law that safeguards the Voice of America's editorial independence.'/><p>Voice of America staffers are suing Trump administration official Kari Lake, alleging she put pro-Trump propaganda on its airwaves. She has lost numerous rulings of late.</p><p>(Image credit: Voice of America)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5756465' />]]></content:encoded>
+      <dc:creator>David Folkenflik</dc:creator>
+    </item>
     <item>
       <title>Pilot and copilot killed in collision between jet and fire truck at LaGuardia airport</title>
       <description>A pilot and co-pilot were killed after a collision at New York&apos;s LaGuardia Airport. An Air Canada regional jet struck a fire truck on the runway after landing late Sunday night.</description>
@@ -84,24 +102,6 @@
       <guid>https://www.npr.org/2026/03/23/nx-s1-5741030/the-war-in-iran-and-its-wide-ranging-effects-across-the-globe</guid>
       <content:encoded><![CDATA[<p>The Iran war is having an impact around the globe, from oil prices to old alliances.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5741030' />]]></content:encoded>
       <dc:creator>Jackie Northam</dc:creator>
-    </item>
-    <item>
-      <title>War with Iran disrupts fertilizer exports as US farmers prepare for planting season</title>
-      <description>Gulf states are major fertilizer producers and the war with Iran has triggered a 25% price hike, just as struggling U.S. farmers are planting corn.</description>
-      <pubDate>Mon, 23 Mar 2026 04:43:39 -0400</pubDate>
-      <link>https://www.npr.org/2026/03/23/nx-s1-5746848/war-with-iran-disrupts-fertilizer-exports-as-us-farmers-prepare-for-planting-season</link>
-      <guid>https://www.npr.org/2026/03/23/nx-s1-5746848/war-with-iran-disrupts-fertilizer-exports-as-us-farmers-prepare-for-planting-season</guid>
-      <content:encoded><![CDATA[<p>Gulf states are major fertilizer producers and the war with Iran has triggered a 25% price hike, just as struggling U.S. farmers are planting corn.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5746848' />]]></content:encoded>
-      <dc:creator>Frank Morris</dc:creator>
-    </item>
-    <item>
-      <title>How Trump administration&apos;s policy changes are affecting what we pay for energy</title>
-      <description>The war in Iran is highlighting how dependent the U.S. still is on oil and gas. At the same time, the Trump administration has worked to unwind policies that would boost alternatives.</description>
-      <pubDate>Mon, 23 Mar 2026 04:43:28 -0400</pubDate>
-      <link>https://www.npr.org/2026/03/23/nx-s1-5753761/how-trump-administrations-policy-changes-are-affecting-what-we-pay-for-energy</link>
-      <guid>https://www.npr.org/2026/03/23/nx-s1-5753761/how-trump-administrations-policy-changes-are-affecting-what-we-pay-for-energy</guid>
-      <content:encoded><![CDATA[<p>The war in Iran is highlighting how dependent the U.S. still is on oil and gas. At the same time, the Trump administration has worked to unwind policies that would boost alternatives.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5753761' />]]></content:encoded>
-      <dc:creator>Michael Copley</dc:creator>
     </item>
   </channel>
 </rss>
