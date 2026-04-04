@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 09:57:08 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:29:20 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>White House requests $1.5 trillion for defense spending in 2027 budget</title>
+      <description>President Trump released his budget request for 2027 on Friday, asking for $1.5 trillion in defense spending.</description>
+      <pubDate>Fri, 03 Apr 2026 10:48:14 -0400</pubDate>
+      <link>https://www.npr.org/2026/04/03/nx-s1-5773095/white-house-requests-1-5-trillion-for-defense-spending-in-2027-budget</link>
+      <guid>https://www.npr.org/2026/04/03/nx-s1-5773095/white-house-requests-1-5-trillion-for-defense-spending-in-2027-budget</guid>
+      <content:encoded><![CDATA[<p>President Trump released his budget request for 2027 on Friday, asking for $1.5 trillion in defense spending.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5773095' />]]></content:encoded>
+      <dc:creator>Danielle Kurtzleben </dc:creator>
+    </item>
     <item>
       <title>Hegseth ousts the Army chief of staff</title>
       <description>U.S. Defense Secretary Pete Hegseth asked Army Chief of Staff Randy George to step down and retire. NPR&apos;s Steve Inskeep speaks with The Atlantic&apos;s Nancy Youssef.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/04/03/nx-s1-5771562/while-others-feel-the-pinch-two-countries-could-benefit-from-the-war-in-iran</guid>
       <content:encoded><![CDATA[<p>NPR's A Martinez asks Michael McFaul, who served as U.S. ambassador to Russia in the Obama administration, how China and Russia could potentially benefit from the U.S.-Israeli war with Iran.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5771562' />]]></content:encoded>
       <dc:creator>A Martínez</dc:creator>
-    </item>
-    <item>
-      <title>How the invention of the sewing machine led to other modern marvels</title>
-      <description>An invention at the heart of our modern world helped create radios, cars and smartphones. The team from Planet Money traces the origins back to a fight over who invented the sewing machine.</description>
-      <pubDate>Fri, 03 Apr 2026 04:44:27 -0400</pubDate>
-      <link>https://www.npr.org/2026/04/03/nx-s1-5745860/how-the-invention-of-the-sewing-machine-led-to-other-modern-marvels</link>
-      <guid>https://www.npr.org/2026/04/03/nx-s1-5745860/how-the-invention-of-the-sewing-machine-led-to-other-modern-marvels</guid>
-      <content:encoded><![CDATA[<p>An invention at the heart of our modern world helped create radios, cars and smartphones. The team from Planet Money traces the origins back to a fight over who invented the sewing machine.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5745860' />]]></content:encoded>
-      <dc:creator>Sam Yellowhorse Kesler</dc:creator>
     </item>
   </channel>
 </rss>
