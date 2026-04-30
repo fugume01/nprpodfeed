@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 11:16:37 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 00:23:18 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>United Arab Emirates announces it&apos;s leaving OPEC</title>
+      <description>The UAE says it will leave OPEC, amid tensions with Saudi Arabia and the chaos of the Iran war.</description>
+      <pubDate>Wed, 29 Apr 2026 10:35:49 -0400</pubDate>
+      <link>https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec</link>
+      <guid>https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec</guid>
+      <content:encoded><![CDATA[<p>The UAE says it will leave OPEC, amid tensions with Saudi Arabia and the chaos of the Iran war.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5802739' />]]></content:encoded>
+      <dc:creator>Aya Batrawy</dc:creator>
+    </item>
     <item>
       <title>DOJ indicts former FBI director James Comey for a second time</title>
       <description>The Justice Department has indicted former FBI Director James Comey, months after its first case against him collapsed. President Trump has been demanding retribution against his critics.</description>
@@ -59,7 +68,7 @@
       <dc:creator>Nina Totenberg</dc:creator>
     </item>
     <item>
-      <title>Could this conference be a &apos;turning point&apos; for the world&apos;s use of fossil fuels?</title>
+      <title>In the midst of an energy crisis, countries make plans to ditch oil, gas and coal</title>
       <description>Against the backdrop of an energy crisis and a warming planet, more than 50 countries have come to Santa Marta, Colombia, to discuss concrete ways to phase out oil, gas and coal.</description>
       <pubDate>Wed, 29 Apr 2026 05:00:00 -0400</pubDate>
       <link>https://www.npr.org/2026/04/29/nx-s1-5786914/colombia-conference-fossil-fuels</link>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/04/29/nx-s1-5795793/party-infighting-and-revolts-continue-to-complicate-house-speaker-mike-johnsons-job</guid>
       <content:encoded><![CDATA[<p>House Speaker Mike Johnson is trying to pass several major pieces of legislation, but party infighting has complicated his job -- and by extension the GOP's agenda.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5795793' />]]></content:encoded>
       <dc:creator>Claudia Grisales</dc:creator>
-    </item>
-    <item>
-      <title>Palestinian refugee uses art to share the story of his childhood with his daughter</title>
-      <description>Basel Zaraa was a Palestinian refugee. When his 5-year-old daughter started asking him questions, he told her this story.</description>
-      <pubDate>Wed, 29 Apr 2026 04:37:15 -0400</pubDate>
-      <link>https://www.npr.org/2026/04/29/nx-s1-5788021/palestinian-refugee-uses-art-to-share-the-story-of-his-childhood-with-his-daughter</link>
-      <guid>https://www.npr.org/2026/04/29/nx-s1-5788021/palestinian-refugee-uses-art-to-share-the-story-of-his-childhood-with-his-daughter</guid>
-      <content:encoded><![CDATA[<p>Basel Zaraa was a Palestinian refugee. When his 5-year-old daughter started asking him questions, he told her this story.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5788021' />]]></content:encoded>
-      <dc:creator>Jennifer Vanasco</dc:creator>
     </item>
   </channel>
 </rss>
