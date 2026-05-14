@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 13 May 2026 11:36:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:37:46 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>A look at Trump&apos;s goals for his summit in China</title>
+      <description>NPR&apos;s Steve Inskeep asks John Moolenaar, chairman of the House Select Committee on China, about President Trump&apos;s goals for his summit in Beijing.</description>
+      <pubDate>Thu, 14 May 2026 00:02:35 -0400</pubDate>
+      <link>https://www.npr.org/2026/05/14/nx-s1-5819567/a-look-at-trumps-goals-for-his-summit-in-china</link>
+      <guid>https://www.npr.org/2026/05/14/nx-s1-5819567/a-look-at-trumps-goals-for-his-summit-in-china</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep asks John Moolenaar, chairman of the House Select Committee on China, about President Trump's goals for his summit in Beijing.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5819567' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
     <item>
       <title>Trump expected to talk Iran and trade during summit in China</title>
       <description>President Trump arrives in China Wednesday for a summit with his Chinese counterpart, where the war in Iran, trade policies and Taiwan are expected to be major points of discussion.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/05/13/nx-s1-5819897/former-fda-commissioner-scott-gottlieb-on-the-resignation-of-marty-makary</guid>
       <content:encoded><![CDATA[<p>How will the resignation of FDA Commissioner Marty Makary affect the Trump administration's health agenda? Former FDA Commissioner Scott Gottlieb weighs in.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5819897' />]]></content:encoded>
       <dc:creator>Leila Fadel</dc:creator>
-    </item>
-    <item>
-      <title>Lawmakers question Pete Hegseth about rising cost of U.S. war against Iran</title>
-      <description>Lawmakers are pressing Defense Secretary Pete Hegseth about the growing cost of the war against Iran and the administration&apos;s plans to reopen the Strait of Hormuz.</description>
-      <pubDate>Wed, 13 May 2026 04:45:47 -0400</pubDate>
-      <link>https://www.npr.org/2026/05/13/nx-s1-5819583/lawmakers-question-pete-hegseth-about-rising-cost-of-u-s-war-against-iran</link>
-      <guid>https://www.npr.org/2026/05/13/nx-s1-5819583/lawmakers-question-pete-hegseth-about-rising-cost-of-u-s-war-against-iran</guid>
-      <content:encoded><![CDATA[<p>Lawmakers are pressing Defense Secretary Pete Hegseth about the growing cost of the war against Iran and the administration's plans to reopen the Strait of Hormuz.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5819583' />]]></content:encoded>
-      <dc:creator>Claudia Grisales</dc:creator>
     </item>
   </channel>
 </rss>
