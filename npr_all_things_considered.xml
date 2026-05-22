@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 22 May 2026 01:00:35 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:42:19 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>A stranger&apos;s compliment helped her feel confident after chemo</title>
+      <description>When Pat Gentile began to grow out her hair after chemotherapy, she was nervous to go to work for the first time without a wig. An unexpected encounter with a convenience store stranger changed that.</description>
+      <pubDate>Fri, 22 May 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/05/22/nx-s1-5825045/stranger-compliment-helped-feel-confident-chemo-my-unsung-hero</link>
+      <guid>https://www.npr.org/2026/05/22/nx-s1-5825045/stranger-compliment-helped-feel-confident-chemo-my-unsung-hero</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3088x2320+0+0/resize/3088x2320!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F35%2Fcd25b5cd452e8649985bdfe7e6f5%2Fpat-gentile-2.jpeg' alt='Pat Gentile smiles today. In 2010, while she was undergoing chemotherapy for breast cancer, a stranger in a convenience store told her she looked "fabulous" and helped her feel normal and seen.'/><p>When Pat Gentile began to grow out her hair after chemotherapy, she was nervous to go to work for the first time without a wig. An unexpected encounter with a convenience store stranger changed that.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5825045' />]]></content:encoded>
+      <dc:creator>Laura Kwerel</dc:creator>
+    </item>
     <item>
       <title>A nurse found guilty of negligent homicide is now a a sought-after speaker</title>
       <description>After accidentally dispensing the wrong drug to a patient, former Tennessee nurse RaDonda Vaught was convicted of negligent homicide in 2022. She&apos;s now found redemption on the speaking circuit.</description>
@@ -93,14 +102,6 @@
       <guid>https://www.npr.org/2026/05/21/nx-s1-5827087/tennis-hall-of-famer-lindsay-davenport-on-what-to-watch-for-at-the-french-open</guid>
       <content:encoded><![CDATA[<p>NPR's Scott Detrow speaks with retired tennis star Lindsay Davenport ahead of the opening round of the French Open.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5827087' />]]></content:encoded>
       <dc:creator>Scott Detrow</dc:creator>
-    </item>
-    <item>
-      <title>A stranger&apos;s compliment helped her feel confident after chemo</title>
-      <description>When Pat Gentile began to grow out her hair after chemotherapy, she was nervous to go to work for the first time without a wig. An unexpected encounter with a convenience store stranger changed that.</description>
-      <pubDate>Thu, 21 May 2026 16:23:59 -0400</pubDate>
-      <link>https://www.npr.org/2026/05/21/nx-s1-5825045/a-strangers-compliment-helped-her-feel-confident-after-chemo</link>
-      <guid>https://www.npr.org/2026/05/21/nx-s1-5825045/a-strangers-compliment-helped-her-feel-confident-after-chemo</guid>
-      <content:encoded><![CDATA[<p>When Pat Gentile began to grow out her hair after chemotherapy, she was nervous to go to work for the first time without a wig. An unexpected encounter with a convenience store stranger changed that.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5825045' />]]></content:encoded>
     </item>
   </channel>
 </rss>
