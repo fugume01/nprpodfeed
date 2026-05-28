@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 27 May 2026 12:29:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:01:04 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,15 +41,6 @@
       <dc:creator>Deepa Shivaram</dc:creator>
     </item>
     <item>
-      <title>Dana White says it&apos;s an &apos;honor&apos; to build a fight arena on the White House lawn</title>
-      <description>NPR&apos;s Steve Inskeep speaks with Dana White, president and CEO of the Ultimate Fighting Championship, about his plans to build a fighting arena on the White House lawn.</description>
-      <pubDate>Wed, 27 May 2026 05:00:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5835221/dana-white-white-house-ufc-fight-arena</link>
-      <guid>https://www.npr.org/2026/05/27/nx-s1-5835221/dana-white-white-house-ufc-fight-arena</guid>
-      <content:encoded><![CDATA[<img src='undefined' alt='undefined'/><p>NPR's Steve Inskeep speaks with Dana White, president and CEO of the Ultimate Fighting Championship, about his plans to build a fighting arena on the White House lawn.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5835221' />]]></content:encoded>
-      <dc:creator>Steve Inskeep</dc:creator>
-    </item>
-    <item>
       <title>Conservative Christians love this painting of George Washington. The event it depicts may not have happened</title>
       <description>A painting of George Washington is being used by the Trump administration to argue the founders were devout Christians, but historians have doubts about whether the moment depicted actually happened.</description>
       <pubDate>Wed, 27 May 2026 05:00:00 -0400</pubDate>
@@ -57,6 +48,15 @@
       <guid>https://www.npr.org/2026/05/27/nx-s1-5747094/church-and-state-george-washington</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x3600+0+0/resize/3600x3600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F6c%2Fa8231d7c421eaea4c4e89e0e7011%2Fpavf-cropped-image-no-c-square.jpg' alt='"The Prayer at Valley Forge", a 1975 painting by Arnold Friberg done for America's bicentennial celebration in 1976.'/><p>A painting of George Washington is being used by the Trump administration to argue the founders were devout Christians, but historians have doubts about whether the moment depicted actually happened.</p><p>(Image credit: First Freedom Art Company)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5747094' />]]></content:encoded>
       <dc:creator>Neda Ulaby</dc:creator>
+    </item>
+    <item>
+      <title>Dana White says it&apos;s an &apos;honor&apos; to build a fight arena on the White House lawn</title>
+      <description>NPR&apos;s Steve Inskeep speaks with Dana White, president and CEO of the Ultimate Fighting Championship, about his plans to build a fighting arena on the White House lawn.</description>
+      <pubDate>Wed, 27 May 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5835221/dana-white-white-house-ufc-fight-arena</link>
+      <guid>https://www.npr.org/2026/05/27/nx-s1-5835221/dana-white-white-house-ufc-fight-arena</guid>
+      <content:encoded><![CDATA[<img src='undefined' alt='undefined'/><p>NPR's Steve Inskeep speaks with Dana White, president and CEO of the Ultimate Fighting Championship, about his plans to build a fighting arena on the White House lawn.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5835221' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
