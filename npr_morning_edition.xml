@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 29 May 2026 12:34:15 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 00:52:35 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Justice Department &apos;anti-weaponization&apos; fund paused</title>
+      <description>A federal judge has ordered the Trump administration to pause the $1.8 billion fund&apos;s creation. The DOJ says the fund is for people who believe they have been persecuted politically.</description>
+      <pubDate>Fri, 29 May 2026 13:41:56 -0400</pubDate>
+      <link>https://www.npr.org/2026/05/29/nx-s1-5838767/justice-department-anti-weaponization-fund-paused</link>
+      <guid>https://www.npr.org/2026/05/29/nx-s1-5838767/justice-department-anti-weaponization-fund-paused</guid>
+      <content:encoded><![CDATA[<p>A federal judge has ordered the Trump administration to pause the $1.8 billion fund's creation. The DOJ says the fund is for people who believe they have been persecuted politically.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5838767' />]]></content:encoded>
+      <dc:creator>Tom Dreisbach</dc:creator>
+    </item>
     <item>
       <title>Despite continued fighting, U.S. says deal to end Iran war is progressing</title>
       <description>The ceasefire with Iran is under strain. In Lebanon and Gaza, the truce deals exist only on paper.</description>
@@ -41,7 +50,7 @@
       <dc:creator>Frank Stoltze</dc:creator>
     </item>
     <item>
-      <title>Bondi doubles down on handling of Epstein files in testimony to Congress</title>
+      <title>Bondi doubles down on her handling of Epstein files in testimony to Congress</title>
       <description>In a closed-door interview, Bondi said there were redaction errors, but otherwise defended the Justice Department&apos;s release of files in the Epstein case. She was ousted as attorney general in April.</description>
       <pubDate>Fri, 29 May 2026 05:00:00 -0400</pubDate>
       <link>https://www.npr.org/2026/05/29/nx-s1-5836563/pam-bondi-epstein-congress</link>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/05/29/nx-s1-5830095/a-look-at-the-race-to-become-the-next-mayor-of-los-angeles</guid>
       <content:encoded><![CDATA[<p>In the upcoming primary for Mayor of Los Angeles, incumbent Karen Bass is defending from two wildly different frontrunning challengers. Conservative reality TV star Spencer Pratt, and progressive city council member Nithya Raman.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5830095' />]]></content:encoded>
       <dc:creator>Frank Stoltze</dc:creator>
-    </item>
-    <item>
-      <title>In today&apos;s digital age, paper ephemera attracts new generation of collectors</title>
-      <description>We have less need for paper than past generations, but paper ephemera is still very collectible. We meet some digital natives who collect old postcards and comics at a paper show in Pennsylvania.</description>
-      <pubDate>Fri, 29 May 2026 04:47:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/05/29/nx-s1-5781183/in-todays-digital-age-paper-ephemera-attracts-new-generation-of-collectors</link>
-      <guid>https://www.npr.org/2026/05/29/nx-s1-5781183/in-todays-digital-age-paper-ephemera-attracts-new-generation-of-collectors</guid>
-      <content:encoded><![CDATA[<p>We have less need for paper than past generations, but paper ephemera is still very collectible. We meet some digital natives who collect old postcards and comics at a paper show in Pennsylvania.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5781183' />]]></content:encoded>
-      <dc:creator>Buffy Gorrilla</dc:creator>
     </item>
   </channel>
 </rss>
