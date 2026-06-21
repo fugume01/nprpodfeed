@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 10:54:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:00:27 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -50,15 +50,6 @@
       <dc:creator>Leila Fadel</dc:creator>
     </item>
     <item>
-      <title>Can you taste history? We try George Washington&apos;s original beer</title>
-      <description>Hops, yeast...and a lot of molasses</description>
-      <pubDate>Fri, 19 Jun 2026 05:00:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/19/nx-s1-5843321/george-washingtons-original-beer-nypl</link>
-      <guid>https://www.npr.org/2026/06/19/nx-s1-5843321/george-washingtons-original-beer-nypl</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4608x3072+0+0/resize/4608x3072!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F7a%2F84e5ca4d4615b34b0db0fa2d9f64%2Fpoured-nypl-and-talea-announce-washington-inspired-beers-credit-jonathan-blanc-nypl-1.jpg' alt='The New York Public Library asked local brewery Talea to make a beer from George Washington's original recipe, which they have in their collection.'/><p>Hops, yeast...and a lot of molasses</p><p>(Image credit: Jonathan Blanc/NYPL)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5843321' />]]></content:encoded>
-      <dc:creator>Jennifer Vanasco</dc:creator>
-    </item>
-    <item>
       <title>These Wisconsin swing voters say Trump&apos;s war in Iran wasn&apos;t worth it</title>
       <description>The war in Iran was a costly blunder, according to Wisconsin swing voters who participated in two online focus groups that NPR observed.</description>
       <pubDate>Fri, 19 Jun 2026 05:00:00 -0400</pubDate>
@@ -66,6 +57,15 @@
       <guid>https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F48%2F207cb8e14ee58f64092b024ac890%2Fgettyimages-2281567243.jpg' alt='Vessels are anchored along the Strait of Hormuz.'/><p>The war in Iran was a costly blunder, according to Wisconsin swing voters who participated in two online focus groups that NPR observed.</p><p>(Image credit: Amirhossein Khorgooei)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5861751' />]]></content:encoded>
       <dc:creator>Ashley Lopez</dc:creator>
+    </item>
+    <item>
+      <title>Can you taste history? We try George Washington&apos;s original beer</title>
+      <description>Hops, yeast...and a lot of molasses</description>
+      <pubDate>Fri, 19 Jun 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/19/nx-s1-5843321/george-washingtons-original-beer-nypl</link>
+      <guid>https://www.npr.org/2026/06/19/nx-s1-5843321/george-washingtons-original-beer-nypl</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4608x3072+0+0/resize/4608x3072!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F7a%2F84e5ca4d4615b34b0db0fa2d9f64%2Fpoured-nypl-and-talea-announce-washington-inspired-beers-credit-jonathan-blanc-nypl-1.jpg' alt='The New York Public Library asked local brewery Talea to make a beer from George Washington's original recipe, which they have in their collection.'/><p>Hops, yeast...and a lot of molasses</p><p>(Image credit: Jonathan Blanc/NYPL)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5843321' />]]></content:encoded>
+      <dc:creator>Jennifer Vanasco</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
