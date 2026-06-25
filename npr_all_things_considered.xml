@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 00:57:47 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:37:24 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly</title>
+      <description>World Cup games are underway in Philadelphia. Long before Americans caught the world&apos;s soccer craze, Ukrainian migrants made Philly a soccer town. Today, the sport helps sustain their culture.</description>
+      <pubDate>Thu, 25 Jun 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues</link>
+      <guid>https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2Fdc%2F83d735c04aa9b34a614de05de9b2%2F2026-06-ukrainiansoccer-rachelwisniewski-81.jpg' alt='Oleksandr "Sasha" Ostapchuk (left) heads a ball while playing for a tournament squad of the Philadelphia Ukrainian Nationals soccer team in a match against a club with roots in Belarus at Tryzub Ukrainian American Sport Center in North Wales, Pa., on June 21.'/><p>World Cup games are underway in Philadelphia. Long before Americans caught the world's soccer craze, Ukrainian migrants made Philly a soccer town. Today, the sport helps sustain their culture.</p><p>(Image credit: Rachel Wisniewski for NPR)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5845366' />]]></content:encoded>
+      <dc:creator>Brian Mann</dc:creator>
+    </item>
     <item>
       <title>Two powerful earthquakes hit Venezuelan capital of Caracas</title>
       <description>Powerful back to back earthquakes hit Venezuela&apos;s capital, Caracas. NPR&apos;s Scott Detrow speaks with journalist Maria Graterol who is in Caracas.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/06/24/nx-s1-5869469/mayor-mamdani-endorsed-three-house-candidates-they-all-won</guid>
       <content:encoded><![CDATA[<p>NPR's Scott Detrow speaks with Zohran Mamdani, the mayor of New York City, the day after all three Congressional candidates he endorsed won their Democratic primary elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869469' />]]></content:encoded>
       <dc:creator>Michelle Aslam</dc:creator>
-    </item>
-    <item>
-      <title>U.S. military works on building a better meal for the troops</title>
-      <description>The drone-infested battlefields of modern warfare and the need to make troops&apos; loads lighter has the U.S. military looking for new forms of field rations, like ways to make protein on the front lines.</description>
-      <pubDate>Wed, 24 Jun 2026 16:29:53 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/24/nx-s1-5859270/u-s-military-works-on-building-a-better-meal-for-the-troops</link>
-      <guid>https://www.npr.org/2026/06/24/nx-s1-5859270/u-s-military-works-on-building-a-better-meal-for-the-troops</guid>
-      <content:encoded><![CDATA[<p>The drone-infested battlefields of modern warfare and the need to make troops' loads lighter has the U.S. military looking for new forms of field rations, like ways to make protein on the front lines.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5859270' />]]></content:encoded>
-      <dc:creator>Jay Price</dc:creator>
     </item>
   </channel>
 </rss>
