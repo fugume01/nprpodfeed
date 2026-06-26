@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 11:31:34 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:01:57 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Judge blocks Postal Service proposal to restrict mail-in voting under Trump&apos;s order</title>
+      <description>A judge has blocked the U.S. Postal Service&apos;s proposals responding to President Trump&apos;s order, including not delivering ballots in states that don&apos;t turn over voter lists to the federal government.</description>
+      <pubDate>Thu, 25 Jun 2026 11:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order</link>
+      <guid>https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order</guid>
+      <content:encoded><![CDATA[<p>A judge has blocked the U.S. Postal Service's proposals responding to President Trump's order, including not delivering ballots in states that don't turn over voter lists to the federal government.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869755' />]]></content:encoded>
+      <dc:creator>Hansi Lo Wang</dc:creator>
+    </item>
     <item>
       <title>Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says</title>
       <description>Writing for the court majority, Justice Samuel Alito that under the TPS law, the president has unreviewable authority to end the program, without intervention from the courts. </description>
@@ -41,15 +50,6 @@
       <dc:creator>Michel Martin</dc:creator>
     </item>
     <item>
-      <title>Judge blocks Postal Service proposal to restrict mail-in voting under Trump&apos;s order</title>
-      <description>A judge has blocked the U.S. Postal Service&apos;s proposals responding to President Trump&apos;s order, including not delivering ballots in states that don&apos;t turn over voter lists to the federal government.</description>
-      <pubDate>Thu, 25 Jun 2026 06:46:24 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order</link>
-      <guid>https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order</guid>
-      <content:encoded><![CDATA[<p>A judge has blocked the U.S. Postal Service's proposals responding to President Trump's order, including not delivering ballots in states that don't turn over voter lists to the federal government.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869755' />]]></content:encoded>
-      <dc:creator>Hansi Lo Wang</dc:creator>
-    </item>
-    <item>
       <title>Death toll expected to rise after twin earthquakes hit Venezuela</title>
       <description>Venezuela&apos;s acting president has declared a state of emergency after two powerful earthquakes struck the country Wednesday evening, killing at least 32. The death toll is expected to rise.</description>
       <pubDate>Thu, 25 Jun 2026 06:46:19 -0400</pubDate>
@@ -59,15 +59,6 @@
       <dc:creator>A Martínez</dc:creator>
     </item>
     <item>
-      <title>Eager for a break, farmers don&apos;t expect much relief after the Iran peace deal</title>
-      <description>Fertilizer prices have gone down with the reopening of the Strait of Hormuz and the prospect of a U.S.-Iran peace deal. But struggling American farmers won&apos;t likely see relief for months.</description>
-      <pubDate>Thu, 25 Jun 2026 05:00:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump</link>
-      <guid>https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F95%2Fd60810ad4c6591d3490f66c02e32%2Fwheat-turbines.jpg' alt='American farmers were already grappling with high fertilizer and diesel prices before the closure of the Strait of Hormuz created a further spike.'/><p>Fertilizer prices have gone down with the reopening of the Strait of Hormuz and the prospect of a U.S.-Iran peace deal. But struggling American farmers won't likely see relief for months.</p><p>(Image credit: Kirk Siegler)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5867650' />]]></content:encoded>
-      <dc:creator>Kirk Siegler</dc:creator>
-    </item>
-    <item>
       <title>Norman Rockwell art that ignited a lawsuit and a love story is now on public view</title>
       <description>&lt;em&gt;So You Want to See The President! &lt;/em&gt;depicts a procession of visitors waiting to see Franklin Delano Roosevelt. The original 1943 Rockwell suite of illustrations goes on public view Thursday in D.C.</description>
       <pubDate>Thu, 25 Jun 2026 05:00:00 -0400</pubDate>
@@ -75,6 +66,15 @@
       <guid>https://www.npr.org/2026/06/25/nx-s1-5859276/norman-rockwell-so-you-want-to-see-the-president</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3542x1147+0+0/resize/3542x1147!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Fb2%2F9bc89d9e402da503b7e6d1aa3237%2Frockwell-panels-all.png' alt='Norman Rockwell's 1943 series <em>So You Want to See the President! </em><a href="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3542x1147+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Fb2%2F9bc89d9e402da503b7e6d1aa3237%2Frockwell-panels-all.png"target="_blank"   >Click to enlarge.</a>'/><p><em>So You Want to See The President! </em>depicts a procession of visitors waiting to see Franklin Delano Roosevelt. The original 1943 Rockwell suite of illustrations goes on public view Thursday in D.C.</p><p>(Image credit: Bruce M. White)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5859276' />]]></content:encoded>
       <dc:creator>Elizabeth Blair</dc:creator>
+    </item>
+    <item>
+      <title>Eager for a break, farmers don&apos;t expect much relief after the Iran peace deal</title>
+      <description>Fertilizer prices have gone down with the reopening of the Strait of Hormuz and the prospect of a U.S.-Iran peace deal. But struggling American farmers won&apos;t likely see relief for months.</description>
+      <pubDate>Thu, 25 Jun 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump</link>
+      <guid>https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F95%2Fd60810ad4c6591d3490f66c02e32%2Fwheat-turbines.jpg' alt='American farmers were already grappling with high fertilizer and diesel prices before the closure of the Strait of Hormuz created a further spike.'/><p>Fertilizer prices have gone down with the reopening of the Strait of Hormuz and the prospect of a U.S.-Iran peace deal. But struggling American farmers won't likely see relief for months.</p><p>(Image credit: Kirk Siegler)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5867650' />]]></content:encoded>
+      <dc:creator>Kirk Siegler</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
