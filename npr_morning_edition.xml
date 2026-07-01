@@ -7,12 +7,30 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 11:28:32 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 01:21:59 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Law professor discusses Supreme Court&apos;s final rulings this term</title>
+      <description>NPR&apos;s Michel Martin speaks with Kim Wehle {WAIL-ee}, professor of law at the University of Baltimore School of Law, about the Supreme Court&apos;s final decisions this term.</description>
+      <pubDate>Tue, 30 Jun 2026 11:29:31 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/30/nx-s1-5876109/law-professor-discusses-supreme-courts-final-rulings-this-term</link>
+      <guid>https://www.npr.org/2026/06/30/nx-s1-5876109/law-professor-discusses-supreme-courts-final-rulings-this-term</guid>
+      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Kim Wehle {WAIL-ee}, professor of law at the University of Baltimore School of Law, about the Supreme Court's final decisions this term.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5876109' />]]></content:encoded>
+      <dc:creator>Michel Martin</dc:creator>
+    </item>
+    <item>
+      <title>Supreme Court issues rulings on birthright citizenship, campaign finance and more</title>
+      <description>NPR&apos;s Steve Inskeep and Michel Martin discuss the final decisions of the Supreme Court&apos;s term with justice correspondents Carrie Johnson and Nina Totenberg and political correspondent Mara Liasson.</description>
+      <pubDate>Tue, 30 Jun 2026 11:12:05 -0400</pubDate>
+      <link>https://www.npr.org/2026/06/30/nx-s1-5876086/supreme-court-issues-rulings-on-birthright-citizenship-campaign-finance-and-more</link>
+      <guid>https://www.npr.org/2026/06/30/nx-s1-5876086/supreme-court-issues-rulings-on-birthright-citizenship-campaign-finance-and-more</guid>
+      <content:encoded><![CDATA[<p>NPR's Steve Inskeep and Michel Martin discuss the final decisions of the Supreme Court's term with justice correspondents Carrie Johnson and Nina Totenberg and political correspondent Mara Liasson.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5876086' />]]></content:encoded>
+      <dc:creator>Steve Inskeep</dc:creator>
+    </item>
     <item>
       <title>U.S. and Iran set to resume peace talks</title>
       <description>The U.S. and Iran will resume peace talks Tuesday, as Lebanon faces pressure to rein in Hezbollah as a precondition for an Israeli withdrawal.</description>
@@ -84,24 +102,6 @@
       <guid>https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy</guid>
       <content:encoded><![CDATA[<p>The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869701' />]]></content:encoded>
       <dc:creator>Julia Simon</dc:creator>
-    </item>
-    <item>
-      <title>More people work to coexist with black bears as their population increases</title>
-      <description>More people are learning to coexist with black bears, as their habitat shrinks and they have more offspring.</description>
-      <pubDate>Tue, 30 Jun 2026 04:46:20 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/30/nx-s1-5866707/more-people-work-to-coexistence-with-black-bears-as-their-population-increases</link>
-      <guid>https://www.npr.org/2026/06/30/nx-s1-5866707/more-people-work-to-coexistence-with-black-bears-as-their-population-increases</guid>
-      <content:encoded><![CDATA[<p>More people are learning to coexist with black bears, as their habitat shrinks and they have more offspring.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5866707' />]]></content:encoded>
-      <dc:creator>Caroline Eggers</dc:creator>
-    </item>
-    <item>
-      <title>North Carolina&apos;s mountainous hills become proving ground for downhill skateboarding</title>
-      <description>The mountainous hills of Western North Carolina are welcoming athletes of a growing and dangerous sport -- downhill skateboarding.</description>
-      <pubDate>Tue, 30 Jun 2026 04:46:16 -0400</pubDate>
-      <link>https://www.npr.org/2026/06/30/nx-s1-5844274/north-carolinas-mountainous-hills-become-proving-ground-for-downhill-skateboarding</link>
-      <guid>https://www.npr.org/2026/06/30/nx-s1-5844274/north-carolinas-mountainous-hills-become-proving-ground-for-downhill-skateboarding</guid>
-      <content:encoded><![CDATA[<p>The mountainous hills of Western North Carolina are welcoming athletes of a growing and dangerous sport -- downhill skateboarding.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5844274' />]]></content:encoded>
-      <dc:creator>Laura Hackett</dc:creator>
     </item>
   </channel>
 </rss>
