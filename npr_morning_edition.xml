@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 10:53:46 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:01:05 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Todd Blanche&apos;s high-stakes confirmation hearing for attorney general is underway</title>
+      <description>President Trump&apos;s former personal attorney is under the microscope on Capitol Hill. Lawmakers on the Senate Judiciary Committee are questioning Acting Attorney General Todd Blanche, whom Trump has nominated for the job permanently.</description>
+      <pubDate>Wed, 15 Jul 2026 11:19:42 -0400</pubDate>
+      <link>https://www.npr.org/2026/07/15/nx-s1-5894750/todd-blanches-high-stakes-confirmation-hearing-for-attorney-general-is-underway</link>
+      <guid>https://www.npr.org/2026/07/15/nx-s1-5894750/todd-blanches-high-stakes-confirmation-hearing-for-attorney-general-is-underway</guid>
+      <content:encoded><![CDATA[<p>President Trump's former personal attorney is under the microscope on Capitol Hill. Lawmakers on the Senate Judiciary Committee are questioning Acting Attorney General Todd Blanche, whom Trump has nominated for the job permanently.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5894750' />]]></content:encoded>
+      <dc:creator>Jaclyn Diaz</dc:creator>
+    </item>
     <item>
       <title>Acting AG Todd Blanche faces high-stakes confirmation hearing</title>
       <description>Acting Attorney General Todd Blanche will be on Capitol Hill Wednesday for his high-stakes confirmation hearing to lead the Justice Department permanently.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/07/15/nx-s1-5893619/trump-floats-control-of-the-strait-of-hormuz-making-it-happen-would-be-challenging</guid>
       <content:encoded><![CDATA[<p>President Trump has talked about the U.S. fully controlling the Strait of Hormuz. But for the US military that means much more than imposing yet another blockade on the key waterway.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893619' />]]></content:encoded>
       <dc:creator>Tom Bowman</dc:creator>
-    </item>
-    <item>
-      <title>Retired vice admiral on whether the U.S. can control the Strait of Hormuz</title>
-      <description>Can the U.S. control the Strait of Hormuz? NPR&apos;s A Martínez asks retired Vice Admiral Kevin Donegan, who commanded the Navy&apos;s Fifth Fleet and the Combined Maritime Forces in the Middle East.</description>
-      <pubDate>Wed, 15 Jul 2026 04:49:15 -0400</pubDate>
-      <link>https://www.npr.org/2026/07/15/nx-s1-5893471/retired-vice-admiral-on-whether-the-u-s-can-control-the-strait-of-hormuz</link>
-      <guid>https://www.npr.org/2026/07/15/nx-s1-5893471/retired-vice-admiral-on-whether-the-u-s-can-control-the-strait-of-hormuz</guid>
-      <content:encoded><![CDATA[<p>Can the U.S. control the Strait of Hormuz? NPR's A Martínez asks retired Vice Admiral Kevin Donegan, who commanded the Navy's Fifth Fleet and the Combined Maritime Forces in the Middle East.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893471' />]]></content:encoded>
-      <dc:creator>A Martínez</dc:creator>
     </item>
   </channel>
 </rss>
