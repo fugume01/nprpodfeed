@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 11:05:44 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:09:51 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Abdul El-Sayed, Michigan&apos;s Democratic Senate nominee, discusses the race</title>
+      <description>NPR&apos;s Michel Martin speaks with Senate candidate Dr. Abdul El-Sayed following the Michigan primary elections.</description>
+      <pubDate>Wed, 05 Aug 2026 11:20:21 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/05/nx-s1-5920362/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race</link>
+      <guid>https://www.npr.org/2026/08/05/nx-s1-5920362/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race</guid>
+      <content:encoded><![CDATA[<p>NPR's Michel Martin speaks with Senate candidate Dr. Abdul El-Sayed following the Michigan primary elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5920362' />]]></content:encoded>
+      <dc:creator>Michel Martin</dc:creator>
+    </item>
     <item>
       <title>5 states went to the polls Tuesday. Takeaways from the primary elections</title>
       <description>Five states held primary elections Tuesday that could play a decisive role in which party controls Congress in the midterm elections. A look at the results and the race that&apos;s too close to call.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/08/05/nx-s1-5919736/unrest-mounts-in-kashmir-as-pakistani-security-crackdown-stokes-reform-movement</guid>
       <content:encoded><![CDATA[<p>Pakistani forces blockade Kashmir as protesters demand electoral reforms and -- increasingly -- revolution.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5919736' />]]></content:encoded>
       <dc:creator>Diaa Hadid</dc:creator>
-    </item>
-    <item>
-      <title>U.S. missile stockpiles are dwindling and could take years to replenish</title>
-      <description>The war with Iran has fueled a shortage of U.S. long-range precision missiles. Stockpiles are expected to take years to replenish.</description>
-      <pubDate>Wed, 05 Aug 2026 04:44:22 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/05/nx-s1-5919599/u-s-missile-stockpiles-are-dwindling-and-could-take-years-to-replenish</link>
-      <guid>https://www.npr.org/2026/08/05/nx-s1-5919599/u-s-missile-stockpiles-are-dwindling-and-could-take-years-to-replenish</guid>
-      <content:encoded><![CDATA[<p>The war with Iran has fueled a shortage of U.S. long-range precision missiles. Stockpiles are expected to take years to replenish.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5919599' />]]></content:encoded>
-      <dc:creator>Kat Lonsdorf</dc:creator>
     </item>
   </channel>
 </rss>
