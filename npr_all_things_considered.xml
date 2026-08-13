@@ -7,100 +7,101 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 10:20:24 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:20:29 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
     <item>
-      <title>Researchers have successfully used AI to create brand new viruses</title>
-      <description>For the first time, researchers have used artificial intelligence to generate novel viruses in a laboratory setting, according to a paper in the journal &lt;em&gt;Science&lt;/em&gt;.</description>
-      <pubDate>Tue, 11 Aug 2026 18:11:17 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses</guid>
-      <content:encoded><![CDATA[<p>For the first time, researchers have used artificial intelligence to generate novel viruses in a laboratory setting, according to a paper in the journal <em>Science</em>.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927074' />]]></content:encoded>
+      <title>Budget cuts have reduced efforts to find and recover Vietnam War troops</title>
+      <description>Budget cuts have gutted the Pentagon&apos;s efforts to find and identify troops still missing from the Vietnam War, even as aging family members run out of time to see their loved ones brought home.</description>
+      <pubDate>Wed, 12 Aug 2026 19:20:02 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5923944/budget-cuts-have-reduced-efforts-to-find-and-recover-vietnam-war-troops</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5923944/budget-cuts-have-reduced-efforts-to-find-and-recover-vietnam-war-troops</guid>
+      <content:encoded><![CDATA[<p>Budget cuts have gutted the Pentagon's efforts to find and identify troops still missing from the Vietnam War, even as aging family members run out of time to see their loved ones brought home.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5923944' />]]></content:encoded>
+      <dc:creator>Jay Price</dc:creator>
+    </item>
+    <item>
+      <title>People are giving up their pets due to costs — and rehoming them is more expensive too</title>
+      <description>The cost of pet care is rising. Petflation is affecting more than the cost of food and care; it&apos;s also making it costlier to transport pets between shelters, the key to getting many animals adopted.</description>
+      <pubDate>Wed, 12 Aug 2026 18:06:03 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5927244/people-are-giving-up-their-pets-due-to-costs-and-rehoming-them-is-more-expensive-too</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5927244/people-are-giving-up-their-pets-due-to-costs-and-rehoming-them-is-more-expensive-too</guid>
+      <content:encoded><![CDATA[<p>The cost of pet care is rising. Petflation is affecting more than the cost of food and care; it's also making it costlier to transport pets between shelters, the key to getting many animals adopted.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927244' />]]></content:encoded>
+      <dc:creator>Anavi Prakash</dc:creator>
+    </item>
+    <item>
+      <title>Colombia and Venezuela earthquakes: What made them so different?</title>
+      <description>The earthquake that hit Colombia was deadly, but not nearly as tragic as the one that hit its neighbor Venezuela. That&apos;s because while the quakes were of similar size, they differed in other features.</description>
+      <pubDate>Wed, 12 Aug 2026 18:04:08 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5929189/colombia-and-venezuela-earthquakes-what-made-them-so-different</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5929189/colombia-and-venezuela-earthquakes-what-made-them-so-different</guid>
+      <content:encoded><![CDATA[<p>The earthquake that hit Colombia was deadly, but not nearly as tragic as the one that hit its neighbor Venezuela. That's because while the quakes were of similar size, they differed in other features.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929189' />]]></content:encoded>
       <dc:creator>Katia Riddle</dc:creator>
     </item>
     <item>
-      <title>Troops have been patrolling D.C. for a year. Experts are worried about elections</title>
-      <description>As the National Guard deployment in Washington, D.C., hits the one year mark, experts worry about the potential for President Trump to deploy the military during the upcoming election.</description>
-      <pubDate>Tue, 11 Aug 2026 18:07:48 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5927394/troops-have-been-patrolling-d-c-for-a-year-experts-are-worried-about-elections</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5927394/troops-have-been-patrolling-d-c-for-a-year-experts-are-worried-about-elections</guid>
-      <content:encoded><![CDATA[<p>As the National Guard deployment in Washington, D.C., hits the one year mark, experts worry about the potential for President Trump to deploy the military during the upcoming election.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927394' />]]></content:encoded>
-      <dc:creator>Kat Lonsdorf</dc:creator>
+      <title>Substack&apos;s new AI-detection feature has divided its community</title>
+      <description>Newsletter platform Substack recently unveiled a new feature that allows users to scan posts of 100 words or more to find out what percentage was AI — and it&apos;s polarized the community.</description>
+      <pubDate>Wed, 12 Aug 2026 18:02:11 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5919251/substacks-new-ai-detection-feature-has-divided-its-community</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5919251/substacks-new-ai-detection-feature-has-divided-its-community</guid>
+      <content:encoded><![CDATA[<p>Newsletter platform Substack recently unveiled a new feature that allows users to scan posts of 100 words or more to find out what percentage was AI — and it's polarized the community.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5919251' />]]></content:encoded>
+      <dc:creator>Zephyr Weinreich</dc:creator>
     </item>
     <item>
-      <title>A nonprofit helps thousands of musicians in Austin pay for insurance</title>
-      <description>Austin is lauded for its live music scene, but many musicians struggle to get by. A nonprofit helps thousands of them pay their monthly insurance premiums. And the model is being tried elsewhere.</description>
-      <pubDate>Tue, 11 Aug 2026 18:02:17 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5906839/a-nonprofit-helps-thousands-of-musicians-in-austin-pay-for-insurance</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5906839/a-nonprofit-helps-thousands-of-musicians-in-austin-pay-for-insurance</guid>
-      <content:encoded><![CDATA[<p>Austin is lauded for its live music scene, but many musicians struggle to get by. A nonprofit helps thousands of them pay their monthly insurance premiums. And the model is being tried elsewhere.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5906839' />]]></content:encoded>
-      <dc:creator>Olivia Aldridge</dc:creator>
+      <title>Lakers for sale, again? Pending sale would be 2nd since 2025</title>
+      <description>The Los Angeles Lakers have been sold for the second time in two years. The new minority ownership stake holders, Bob Iger and Josh Kushner – brother to President Trump&apos;s son in law – Jared Kushner.</description>
+      <pubDate>Wed, 12 Aug 2026 17:22:06 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5929238/lakers-for-sale-again-pending-sale-would-be-2nd-since-2025</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5929238/lakers-for-sale-again-pending-sale-would-be-2nd-since-2025</guid>
+      <content:encoded><![CDATA[<p>The Los Angeles Lakers have been sold for the second time in two years. The new minority ownership stake holders, Bob Iger and Josh Kushner – brother to President Trump's son in law – Jared Kushner.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929238' />]]></content:encoded>
+      <dc:creator>Steve Futterman</dc:creator>
     </item>
     <item>
-      <title>A once-overlooked album that paved the way for electronic music gets a new life</title>
-      <description>Light in the Attic is reissuing &lt;em&gt;Synthesizing: Ten Ragas to a Disco Beat&lt;/em&gt; by Charanjit Singh, a foundational album for the genre of acid house.</description>
-      <pubDate>Tue, 11 Aug 2026 17:41:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5693780/a-once-overlooked-album-that-paved-the-way-for-electronic-music-gets-a-new-life</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5693780/a-once-overlooked-album-that-paved-the-way-for-electronic-music-gets-a-new-life</guid>
-      <content:encoded><![CDATA[<p>Light in the Attic is reissuing <em>Synthesizing: Ten Ragas to a Disco Beat</em> by Charanjit Singh, a foundational album for the genre of acid house.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5693780' />]]></content:encoded>
-      <dc:creator>Christopher Intagliata</dc:creator>
+      <title>Months after being evacuated from Bahrain, military families await their next move</title>
+      <description>Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.</description>
+      <pubDate>Wed, 12 Aug 2026 17:14:06 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5921392-e1/months-after-being-evacuated-from-bahrain-military-families-await-their-next-move</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5921392-e1/months-after-being-evacuated-from-bahrain-military-families-await-their-next-move</guid>
+      <content:encoded><![CDATA[<p>Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5921392-e1' />]]></content:encoded>
+      <dc:creator>Steve Walsh</dc:creator>
     </item>
     <item>
-      <title>What a forbidden hug from a nurse during lockdown meant to one a cancer patient</title>
-      <description>Shortly after the COVID-19 lockdown began, Ashleigh Bell Pedersen was diagnosed with an aggressive form of breast cancer. She came to desperately miss physical touch during treatment.</description>
-      <pubDate>Tue, 11 Aug 2026 17:23:49 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5922542/what-a-forbidden-hug-from-a-nurse-during-lockdown-meant-to-one-a-cancer-patient</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5922542/what-a-forbidden-hug-from-a-nurse-during-lockdown-meant-to-one-a-cancer-patient</guid>
-      <content:encoded><![CDATA[<p>Shortly after the COVID-19 lockdown began, Ashleigh Bell Pedersen was diagnosed with an aggressive form of breast cancer. She came to desperately miss physical touch during treatment.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5922542' />]]></content:encoded>
+      <title>In West Bank&apos;s crumbling economy, some Palestinians turn to Israeli settlements to work</title>
+      <description>Amid record-setting attacks by settlers, Palestinian workers in the West Bank try to balance their need to earn a living working for Israeli factories and their anger towards the occupation.</description>
+      <pubDate>Wed, 12 Aug 2026 17:14:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5927347/in-west-banks-crumbling-economy-some-palestinians-turn-to-israeli-settlements-to-work</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5927347/in-west-banks-crumbling-economy-some-palestinians-turn-to-israeli-settlements-to-work</guid>
+      <content:encoded><![CDATA[<p>Amid record-setting attacks by settlers, Palestinian workers in the West Bank try to balance their need to earn a living working for Israeli factories and their anger towards the occupation.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927347' />]]></content:encoded>
+      <dc:creator>Frank Langfitt</dc:creator>
     </item>
     <item>
-      <title>The West&apos;s wildfire season is already breaking records, and it&apos;s not over</title>
-      <description>It&apos;s shaping up to be a historic wildfire season in the Western U.S. In Oregon, more acres have already burned than any time in modern history. At least 10 wildland firefighters have also died.</description>
-      <pubDate>Tue, 11 Aug 2026 17:17:24 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5927315/the-wests-wildfire-season-is-already-breaking-records-and-its-not-over</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5927315/the-wests-wildfire-season-is-already-breaking-records-and-its-not-over</guid>
-      <content:encoded><![CDATA[<p>It's shaping up to be a historic wildfire season in the Western U.S. In Oregon, more acres have already burned than any time in modern history. At least 10 wildland firefighters have also died.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927315' />]]></content:encoded>
-      <dc:creator>Kirk Siegler</dc:creator>
+      <title>Boston-area trial draws attention to post-partum psychosis</title>
+      <description>A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.</description>
+      <pubDate>Wed, 12 Aug 2026 16:59:56 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis</guid>
+      <content:encoded><![CDATA[<p>A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927479' />]]></content:encoded>
+      <dc:creator>Deborah Becker </dc:creator>
     </item>
     <item>
-      <title>The death toll climbs from Monday&apos;s 7.4 magnitude earthquake in Colombia</title>
-      <description>Hundreds of rescue workers have been deployed in hardest hit cities trying to free victims still trapped under the rubble. Hundreds of people are still missing.</description>
-      <pubDate>Tue, 11 Aug 2026 17:12:05 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia</guid>
-      <content:encoded><![CDATA[<p>Hundreds of rescue workers have been deployed in hardest hit cities trying to free victims still trapped under the rubble. Hundreds of people are still missing.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5928036' />]]></content:encoded>
-      <dc:creator>John Otis</dc:creator>
+      <title>Democratic strategist reflects on Wisconsin and Minnesota primaries</title>
+      <description>NPR&apos;s Juana Summers speaks with Amanda Litman, co-founder of the PAC Run For Something, about the results from the Aug. 11 Democratic primary elections.</description>
+      <pubDate>Wed, 12 Aug 2026 16:59:17 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5929407/democratic-strategist-reflects-on-wisconsin-and-minnesota-primaries</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5929407/democratic-strategist-reflects-on-wisconsin-and-minnesota-primaries</guid>
+      <content:encoded><![CDATA[<p>NPR's Juana Summers speaks with Amanda Litman, co-founder of the PAC Run For Something, about the results from the Aug. 11 Democratic primary elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929407' />]]></content:encoded>
+      <dc:creator>Linah Mohammad</dc:creator>
     </item>
     <item>
-      <title>In Spokane, those who lost homes to the fires are taking stock of the damage</title>
-      <description>Many of the people who lost their homes in the Spokane fires are just beginning to take stock of the damage and start to think about what it may look like to rebuild.</description>
-      <pubDate>Tue, 11 Aug 2026 16:42:19 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5927467/in-spokane-those-who-lost-homes-to-the-fires-are-taking-stock-of-the-damage</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5927467/in-spokane-those-who-lost-homes-to-the-fires-are-taking-stock-of-the-damage</guid>
-      <content:encoded><![CDATA[<p>Many of the people who lost their homes in the Spokane fires are just beginning to take stock of the damage and start to think about what it may look like to rebuild.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927467' />]]></content:encoded>
-      <dc:creator>Paige Browning</dc:creator>
-    </item>
-    <item>
-      <title>Jackie, famous eagle from California eagle-cam, dies</title>
-      <description>Jackie, who was one half of the famous mated eagle pair Jackie and Shadow, died this week. The birds&apos; eagle-cam livestream has fans across the world.</description>
-      <pubDate>Tue, 11 Aug 2026 16:41:33 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5928214/jackie-famous-eagle-from-california-eagle-cam-dies</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5928214/jackie-famous-eagle-from-california-eagle-cam-dies</guid>
-      <content:encoded><![CDATA[<p>Jackie, who was one half of the famous mated eagle pair Jackie and Shadow, died this week. The birds' eagle-cam livestream has fans across the world.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5928214' />]]></content:encoded>
-      <dc:creator>Madison Aument</dc:creator>
-    </item>
-    <item>
-      <title>Trump touts big peace deals in Iran and Gaza but struggles to follow through</title>
-      <description>Iran has set a high price for President Trump to re-open the Strait of Hormuz, while Israel&apos;s PM has rejected his Gaza plan.</description>
-      <pubDate>Tue, 11 Aug 2026 16:40:33 -0400</pubDate>
-      <link>https://www.npr.org/2026/08/11/nx-s1-5927215/trump-touts-big-peace-deals-in-iran-and-gaza-but-struggles-to-follow-through</link>
-      <guid>https://www.npr.org/2026/08/11/nx-s1-5927215/trump-touts-big-peace-deals-in-iran-and-gaza-but-struggles-to-follow-through</guid>
-      <content:encoded><![CDATA[<p>Iran has set a high price for President Trump to re-open the Strait of Hormuz, while Israel's PM has rejected his Gaza plan.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927215' />]]></content:encoded>
-      <dc:creator>Hadeel Al-Shalchi</dc:creator>
+      <title>The commercialization of the West African coast&apos;s slavery heritage</title>
+      <description>Along West Africa&apos;s slave coast, a painful past is being preserved — and marketed — raising questions about memory, tourism, and profit.</description>
+      <pubDate>Wed, 12 Aug 2026 16:51:34 -0400</pubDate>
+      <link>https://www.npr.org/2026/08/12/nx-s1-5684139-e1/the-commercialization-of-the-west-african-coasts-slavery-heritage</link>
+      <guid>https://www.npr.org/2026/08/12/nx-s1-5684139-e1/the-commercialization-of-the-west-african-coasts-slavery-heritage</guid>
+      <content:encoded><![CDATA[<p>Along West Africa's slave coast, a painful past is being preserved — and marketed — raising questions about memory, tourism, and profit.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5684139-e1' />]]></content:encoded>
+      <dc:creator>Emmanuel Akinwotu</dc:creator>
     </item>
   </channel>
 </rss>
