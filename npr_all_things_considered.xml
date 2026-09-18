@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 01:33:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:49:23 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: All Things Considered</title>
       <link>https://www.npr.org/programs/all-things-considered/</link>
     </image>
+    <item>
+      <title>Could trees developed with gene-editing technology protect Florida&apos;s citrus industry?</title>
+      <description>A bacterial infection is wiping out Florida&apos;s citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay. </description>
+      <pubDate>Fri, 18 Sep 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry</link>
+      <guid>https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1976+0+0/resize/3000x1976!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2Fcc%2F39535a08424295524ffc4bb39d6d%2Fgettyimages-168672681.jpg' alt='Guy Davies, an inspector for the Florida Division of Plant Industry, checks an orange tree for the insect Asian citrus psyllid that carries the bacterium causing disease, "citrus greening," from tree to tree on May 13, 2013, in Fort Pierce, Florida.'/><p>A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay. </p><p>(Image credit: Joe Raedle/Getty Images)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5966501' />]]></content:encoded>
+      <dc:creator>Catherine Welch</dc:creator>
+    </item>
     <item>
       <title>Texas leaders point to &apos;birth tourism&apos; as Trump opposes birthright citizenship</title>
       <description>Texas officials have tried to take action to punish clinics encouraging &quot;birth tourism.&quot; But there are laws that can be used there, if there&apos;s evidence and they&apos;re enforced.</description>
@@ -93,15 +102,6 @@
       <guid>https://www.npr.org/2026/09/17/nx-s1-5973036/trump-threat-tear-down-kennedy-center</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2094x1397+0+0/resize/2094x1397!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2Fa3%2F9af9c7254ff79e68c4056232c3d7%2Fgettyimages-2295121247.jpg' alt='President Donald Trump is seen aboard Air Force One looking at a large Kennedy Center printout after landing in Maryland on Wednesday.'/><p>The president made the remark to reporters amidst back-and-forth developments in federal court, including an allegation that a forklift repeatedly struck the center.</p><p>(Image credit: Brendan Smialowski)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5973036' />]]></content:encoded>
       <dc:creator>Anastasia Tsioulcas</dc:creator>
-    </item>
-    <item>
-      <title>The Latin Grammy nominations reflect the rise of folk music</title>
-      <description>&lt;em&gt;Alt.Latino&lt;/em&gt;&apos;s Felix Contreras explains a surprising new trend in Latin music that&apos;s been bubbling for awhile.</description>
-      <pubDate>Thu, 17 Sep 2026 16:48:39 -0400</pubDate>
-      <link>https://www.npr.org/2026/09/17/nx-s1-5971296/the-latin-grammy-nominations-reflect-the-rise-of-folk-music</link>
-      <guid>https://www.npr.org/2026/09/17/nx-s1-5971296/the-latin-grammy-nominations-reflect-the-rise-of-folk-music</guid>
-      <content:encoded><![CDATA[<p><em>Alt.Latino</em>'s Felix Contreras explains a surprising new trend in Latin music that's been bubbling for awhile.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5971296' />]]></content:encoded>
-      <dc:creator>Felix Contreras</dc:creator>
     </item>
   </channel>
 </rss>
