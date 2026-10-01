@@ -7,12 +7,21 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 14:16:48 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 02:55:37 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
       <link>https://www.npr.org/programs/morning-edition/</link>
     </image>
+    <item>
+      <title>Israel&apos;s PM says a pilot tried to crash a plane of mostly Israeli passengers</title>
+      <description>Israel&apos;s prime minister says a pilot on a flight full of Israelis from Dubai to Tel Aviv tried to crash the plane after stabbing other pilot</description>
+      <pubDate>Thu, 01 Oct 2026 00:06:38 -0400</pubDate>
+      <link>https://www.npr.org/2026/10/01/nx-s1-5985849/israels-pm-says-a-pilot-tried-to-crash-a-plane-of-mostly-israeli-passengers</link>
+      <guid>https://www.npr.org/2026/10/01/nx-s1-5985849/israels-pm-says-a-pilot-tried-to-crash-a-plane-of-mostly-israeli-passengers</guid>
+      <content:encoded><![CDATA[<p>Israel's prime minister says a pilot on a flight full of Israelis from Dubai to Tel Aviv tried to crash the plane after stabbing other pilot</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5985849' />]]></content:encoded>
+      <dc:creator>Kat Lonsdorf</dc:creator>
+    </item>
     <item>
       <title>Trump meets with top tech leaders to discuss regulations and launch new website</title>
       <description>President Trump met with top tech leaders Tuesday as he rolled out an AI-driven website, America.gov, to help citizens navigate government services.</description>
@@ -86,22 +95,13 @@
       <dc:creator>Steve Kastenbaum</dc:creator>
     </item>
     <item>
-      <title>U.S. military withdraws from Iraq two decades after invasion</title>
+      <title>The U.S. military withdraws from Iraq over 2 decades after its invasion</title>
       <description>23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.</description>
       <pubDate>Wed, 30 Sep 2026 04:43:00 -0400</pubDate>
       <link>https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq</link>
       <guid>https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fa4%2F804bc8ed418196634b31e74a5953%2Fgettyimages-2297156537.jpg' alt='Vehicles drive past a billboard carrying the Arabic slogan 'Reclaiming the decision and building the home', at the Saadoun Square in Baghdad on September 29, 2026.'/><p>23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.</p><p>(Image credit: Ahmad Al-Rubaye)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5983426' />]]></content:encoded>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fa4%2F804bc8ed418196634b31e74a5953%2Fgettyimages-2297156537.jpg' alt='Vehicles drive past a billboard carrying the Arabic slogan "Reclaiming the decision and building the home," at Saadoun Square in Baghdad on Tuesday.'/><p>23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.</p><p>(Image credit: Ahmad Al-Rubaye)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5983426' />]]></content:encoded>
       <dc:creator>Jane Arraf</dc:creator>
-    </item>
-    <item>
-      <title>Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening</title>
-      <description>Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.</description>
-      <pubDate>Wed, 30 Sep 2026 04:42:46 -0400</pubDate>
-      <link>https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis</link>
-      <guid>https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4192x2884+0+0/resize/4192x2884!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F01%2Fabb6cc0b40d988106d670272d6b1%2Fap17051743650566.jpg' alt='President Donald Trump speaks as Army Lt. Gen. H.R. McMaster listens at Mar-a-Lago in Palm Beach, Fla., in February 2017.'/><p>Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.</p><p>(Image credit: Susan Walsh)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5984953' />]]></content:encoded>
-      <dc:creator>Michel Martin</dc:creator>
     </item>
   </channel>
 </rss>
