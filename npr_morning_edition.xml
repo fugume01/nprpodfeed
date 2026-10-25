@@ -7,7 +7,7 @@
     <language>en</language>
     <copyright>Copyright 2024 NPR - For Personal Use Only</copyright>
     <generator>Story API Shim 1.2.24</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 01:39:52 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:49:54 -0400</lastBuildDate>
     <image>
       <url>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</url>
       <title>NPR Programs: Morning Edition</title>
@@ -41,15 +41,6 @@
       <dc:creator>Sheila Brummer</dc:creator>
     </item>
     <item>
-      <title>Brazil&apos;s runoff: Lula&apos;s legacy vs. Bolsonaro&apos;s dynasty</title>
-      <description>Brazil&apos;s tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country&apos;s political future.</description>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 -0400</pubDate>
-      <link>https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro</link>
-      <guid>https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro</guid>
-      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9000x5000+0+0/resize/9000x5000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fe7%2F2c9c62ca45309982fcd6b49beef4%2Fgettyimages-2300766320.jpg' alt='A combination of file photos shows Brazil's President Luiz Inácio Lula da Silva in Brasília on Oct. 1, 2026, and presidential candidate Flávio Bolsonaro at a rally in Belo Horizonte on Aug. 17, 2026. The two face off in the Oct. 25 runoff.'/><p>Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.</p><p>(Image credit: Evaristo Sa and Gledston Tavares)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004277' />]]></content:encoded>
-      <dc:creator>Carrie Kahn</dc:creator>
-    </item>
-    <item>
       <title>Jet fuel prices hit a record and holiday airfares soar higher</title>
       <description>If you&apos;re planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel — one of airlines&apos; biggest expenses — is at an all-time high in the U.S.</description>
       <pubDate>Fri, 23 Oct 2026 05:00:00 -0400</pubDate>
@@ -57,6 +48,15 @@
       <guid>https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare</guid>
       <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x678+0+0/resize/1024x678!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F4d%2F966cad7243439219f788153ab61a%2Fgettyimages-2270636087.jpg' alt='A worker fuels a United Airlines plane at Salt Lake City International Airport in April, 2026. The price of jet fuel, one of airlines' biggest expenses, is close to an all-time high in the U.S.'/><p>If you're planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel — one of airlines' biggest expenses — is at an all-time high in the U.S.</p><p>(Image credit: Justin Sullivan)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6009506' />]]></content:encoded>
       <dc:creator>Joel Rose</dc:creator>
+    </item>
+    <item>
+      <title>Brazil&apos;s runoff: Lula&apos;s legacy vs. Bolsonaro&apos;s dynasty</title>
+      <description>Brazil&apos;s tight presidential runoff on Sunday pits a political giant against a Bolsonaro heir in a battle over the country&apos;s political future.</description>
+      <pubDate>Fri, 23 Oct 2026 05:00:00 -0400</pubDate>
+      <link>https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro</link>
+      <guid>https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro</guid>
+      <content:encoded><![CDATA[<img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9000x5000+0+0/resize/9000x5000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fe7%2F2c9c62ca45309982fcd6b49beef4%2Fgettyimages-2300766320.jpg' alt='A combination of file photos shows Brazil's President Luiz Inácio Lula da Silva in Brasília on Oct. 1, 2026, and presidential candidate Flávio Bolsonaro at a rally in Belo Horizonte on Aug. 17, 2026. The two face off in the Oct. 25 runoff.'/><p>Brazil's tight presidential runoff on Sunday pits a political giant against a Bolsonaro heir in a battle over the country's political future.</p><p>(Image credit: Evaristo Sa and Gledston Tavares)</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004277' />]]></content:encoded>
+      <dc:creator>Carrie Kahn</dc:creator>
     </item>
     <item>
       <title>Morning news brief</title>
